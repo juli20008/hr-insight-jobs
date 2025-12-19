@@ -5,7 +5,9 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      // ❌ 确保这里是空的，或者不要有 colors 覆盖
+    },
   },
   plugins: [],
 }

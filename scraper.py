@@ -5,10 +5,12 @@ from datetime import datetime
 import time
 
 # ==========================================
-# 1. 配置
+# 1. 配置 (Configuration)
 # ==========================================
 api_key = os.environ.get("RAPIDAPI_KEY")
-# api_key = "你的_TEST_KEY" 
+
+# 🚨 本地测试时取消注释下面这行填入 Key，提交代码前记得注释掉！
+# api_key = "你的_RAPIDAPI_KEY"
 
 if not api_key:
     print("❌ Error: RAPIDAPI_KEY is missing.")
@@ -22,44 +24,45 @@ headers = {
 }
 
 # ==========================================
-# 2. 关键词分组 (完全照搬你的 LinkedIn 搜索词)
+# 2. 搜索战队 (关键词分组策略)
 # ==========================================
+# 你提供的 16 个关键词太长了，一次搜不完。
+# 我们把它们按“职能”拆分成 3 组，确保每个职位都能被抓到。
 
-# 为了防止 API 消化不良，我们将你的长列表拆分为 3 组
 queries = [
-    # 组 1: 核心分析
+    # 战队 A: 数据与规划 (Data & Planning)
     '("People Analyst" OR "HR Data Analyst" OR "People Data Analyst" OR "Workforce Analytics" OR "Workforce Planning Analyst")',
     
-    # 组 2: 系统与技术
+    # 战队 B: 系统与技术 (Systems & Tech)
     '("HRIS Analyst" OR "HR Systems Analyst" OR "HR Tech Analyst" OR "Workday Analyst" OR "People Operations Analyst")',
     
-    # 组 3: 薪酬与体验
+    # 战队 C: 薪酬、人才与体验 (Comp, Talent & Experience)
     '("Compensation Analyst" OR "Total Rewards Analyst" OR "Talent Analytics" OR "Talent Insights" OR "Recruiting Data Analyst" OR "Employee Experience Analyst")'
 ]
 
 # ==========================================
-# 3. 执行抓取
+# 3. 执行抓取 (Execution)
 # ==========================================
 
 all_clean_jobs = []
 seen_job_ids = set() 
 
-print(f"🚀 Starting California-specific scrape...")
+print(f"🚀 Starting scrape for: California, Past 24 Hours...")
 
 for q in queries:
-    # ⚠️ 关键修改：地点改为 California, USA
+    # 📍 核心修改：精准锁定加州
     query_string = f"{q} in California, USA"
     
     params = {
         "query": query_string,
         "page": "1",
-        "num_pages": "5",       # 每个组抓5页
-        "date_posted": "3days", # 依然建议用 3days，因为 API 的时效性比 LinkedIn 稍微滞后一点点
+        "num_pages": "10",       # 每个战队抓 10 页 (保证覆盖量)
+        "date_posted": "today", # 🕒 核心修改：只抓今天 (Past 24h)
         "employment_types": "fulltime"
     }
 
     try:
-        print(f"   🔎 Searching in CA: {q[:30]}...")
+        print(f"   🔎 Searching: {q[:40]}...")
         response = requests.get(url, headers=headers, params=params)
         response.raise_for_status()
         
@@ -67,10 +70,11 @@ for q in queries:
         raw_jobs = data.get('data', [])
         print(f"      📦 Found {len(raw_jobs)} raw jobs.")
         
-        # 垃圾词黑名单
+        # 垃圾词黑名单 (排除非 Analyst 职位)
         exclude_keywords = [
             "recruiter", "talent acquisition partner", "coordinator", "assistant", 
-            "intern", "sales", "manager of", "head of", "director"
+            "intern", "sales", "account executive", "business development", 
+            "manager of", "director", "vp", "head of"
         ]
 
         for job in raw_jobs:
@@ -83,7 +87,7 @@ for q in queries:
             # 2. 生成 ID
             job_id = job.get("job_id") or job.get("job_apply_link")
             
-            # 3. 去重
+            # 3. 去重 (防止战队 A 和 B 抓到同一个)
             if job_id and job_id not in seen_job_ids:
                 seen_job_ids.add(job_id)
                 
@@ -99,6 +103,7 @@ for q in queries:
                     "job_posted_at_datetime_utc": job.get("job_posted_at_datetime_utc")
                 })
         
+        # 休息 1 秒，对 API 温柔一点
         time.sleep(1)
 
     except Exception as e:
@@ -106,10 +111,10 @@ for q in queries:
         continue
 
 # ==========================================
-# 4. 保存
+# 4. 保存数据 (Save)
 # ==========================================
 
-print(f"🎉 Total unique CA jobs: {len(all_clean_jobs)}")
+print(f"🎉 Total unique CA jobs found: {len(all_clean_jobs)}")
 
 final_data = {
     "last_updated": datetime.utcnow().isoformat(),
