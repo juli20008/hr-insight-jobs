@@ -2,15 +2,13 @@ import requests
 import json
 import os
 from datetime import datetime
+import time
 
 # ==========================================
-# 1. 配置与密钥 (Configuration)
+# 1. 配置
 # ==========================================
-
 api_key = os.environ.get("RAPIDAPI_KEY")
-
-# 🚨 本地测试时打开这行，提交前注释掉！
-# api_key = "你的_RAPIDAPI_KEY"
+# api_key = "你的_TEST_KEY" 
 
 if not api_key:
     print("❌ Error: RAPIDAPI_KEY is missing.")
@@ -18,102 +16,110 @@ if not api_key:
 
 url = "https://jsearch.p.rapidapi.com/search"
 
-# ==========================================
-# 2. 搜索策略 (从你的列表中提取的核心关键词)
-# ==========================================
-
-# 我从你提供的 100+ 个职位中提取了以下核心高频词，并用 OR 连接
-# 这样一次 API 调用就能覆盖所有这些细分领域，极度节省额度。
-
-search_term = """
-(
-"People Analyst" OR "HR Data Analyst" OR "People Data Analyst" OR 
-"Workforce Analytics" OR "Workforce Planning Analyst" OR 
-"HRIS Analyst" OR "HR Systems Analyst" OR "HR Tech Analyst" OR "Workday Analyst" OR 
-"Compensation Analyst" OR "Total Rewards Analyst" OR 
-"Talent Analytics" OR "Talent Insights" OR "Recruiting Data Analyst" OR 
-"People Operations Analyst" OR "Employee Experience Analyst"
-)
-"""
-
-# 去掉换行符，变成一行
-search_term = search_term.replace('\n', ' ').strip()
-
-querystring = {
-    # 核心逻辑：(核心职位) AND (在美国 OR 加拿大) AND (远程 OR 混合)
-    "query": f"{search_term} in USA OR Canada (Remote OR Hybrid)", 
-    "page": "1",
-    "num_pages": "10", 
-    "date_posted": "3days",   
-    "employment_types": "fulltime" 
-}
-
 headers = {
     "X-RapidAPI-Key": api_key,
     "X-RapidAPI-Host": "jsearch.p.rapidapi.com"
 }
 
 # ==========================================
-# 3. 执行抓取与清洗
+# 2. 关键词分组 (完全照搬你的 LinkedIn 搜索词)
 # ==========================================
 
-try:
-    print(f"🔍 Fetching jobs...")
-    response = requests.get(url, headers=headers, params=querystring)
-    response.raise_for_status()
+# 为了防止 API 消化不良，我们将你的长列表拆分为 3 组
+queries = [
+    # 组 1: 核心分析
+    '("People Analyst" OR "HR Data Analyst" OR "People Data Analyst" OR "Workforce Analytics" OR "Workforce Planning Analyst")',
     
-    data = response.json()
-    raw_jobs = data.get('data', [])
-    print(f"📦 API returned {len(raw_jobs)} raw jobs.")
-
-    clean_jobs = []
+    # 组 2: 系统与技术
+    '("HRIS Analyst" OR "HR Systems Analyst" OR "HR Tech Analyst" OR "Workday Analyst" OR "People Operations Analyst")',
     
-    # 垃圾词黑名单 (根据你的列表优化，排除掉纯 Recruiting 或 Sales 岗)
-    exclude_keywords = [
-        "recruiter", "talent acquisition partner", "coordinator", "assistant", 
-        "intern", "sales", "account executive", "business development"
-    ]
+    # 组 3: 薪酬与体验
+    '("Compensation Analyst" OR "Total Rewards Analyst" OR "Talent Analytics" OR "Talent Insights" OR "Recruiting Data Analyst" OR "Employee Experience Analyst")'
+]
 
-    for job in raw_jobs:
-        title = job.get("job_title", "").lower()
-        
-        # 1. 垃圾词过滤
-        if any(keyword in title for keyword in exclude_keywords):
-            continue 
-            
-        # 2. ID 校验
-        job_id = job.get("job_id") or job.get("job_apply_link")
-        
-        if job_id: 
-            clean_jobs.append({
-                "job_id": job_id,
-                "job_title": job.get("job_title"),
-                "employer_name": job.get("employer_name"),
-                "employer_logo": job.get("employer_logo"),
-                "job_city": job.get("job_city"),
-                "job_state": job.get("job_state"),
-                "job_country": job.get("job_country"),
-                "job_apply_link": job.get("job_apply_link"),
-                "job_posted_at_datetime_utc": job.get("job_posted_at_datetime_utc")
-            })
+# ==========================================
+# 3. 执行抓取
+# ==========================================
 
-    # ==========================================
-    # 4. 保存数据
-    # ==========================================
+all_clean_jobs = []
+seen_job_ids = set() 
 
-    final_data = {
-        "last_updated": datetime.utcnow().isoformat(),
-        "total_jobs": len(clean_jobs),
-        "jobs": clean_jobs
+print(f"🚀 Starting California-specific scrape...")
+
+for q in queries:
+    # ⚠️ 关键修改：地点改为 California, USA
+    query_string = f"{q} in California, USA"
+    
+    params = {
+        "query": query_string,
+        "page": "1",
+        "num_pages": "5",       # 每个组抓5页
+        "date_posted": "3days", # 依然建议用 3days，因为 API 的时效性比 LinkedIn 稍微滞后一点点
+        "employment_types": "fulltime"
     }
 
-    os.makedirs('public', exist_ok=True)
-    
-    with open('public/jobs.json', 'w', encoding='utf-8') as f:
-        json.dump(final_data, f, ensure_ascii=False, indent=2)
-    
-    print(f"✅ Success! Saved {len(clean_jobs)} clean jobs to public/jobs.json")
+    try:
+        print(f"   🔎 Searching in CA: {q[:30]}...")
+        response = requests.get(url, headers=headers, params=params)
+        response.raise_for_status()
+        
+        data = response.json()
+        raw_jobs = data.get('data', [])
+        print(f"      📦 Found {len(raw_jobs)} raw jobs.")
+        
+        # 垃圾词黑名单
+        exclude_keywords = [
+            "recruiter", "talent acquisition partner", "coordinator", "assistant", 
+            "intern", "sales", "manager of", "head of", "director"
+        ]
 
-except Exception as e:
-    print(f"❌ Error occurred: {e}")
-    exit(1)
+        for job in raw_jobs:
+            title = job.get("job_title", "").lower()
+            
+            # 1. 垃圾词过滤
+            if any(keyword in title for keyword in exclude_keywords):
+                continue 
+                
+            # 2. 生成 ID
+            job_id = job.get("job_id") or job.get("job_apply_link")
+            
+            # 3. 去重
+            if job_id and job_id not in seen_job_ids:
+                seen_job_ids.add(job_id)
+                
+                all_clean_jobs.append({
+                    "job_id": job_id,
+                    "job_title": job.get("job_title"),
+                    "employer_name": job.get("employer_name"),
+                    "employer_logo": job.get("employer_logo"),
+                    "job_city": job.get("job_city"),
+                    "job_state": job.get("job_state"),
+                    "job_country": job.get("job_country"),
+                    "job_apply_link": job.get("job_apply_link"),
+                    "job_posted_at_datetime_utc": job.get("job_posted_at_datetime_utc")
+                })
+        
+        time.sleep(1)
+
+    except Exception as e:
+        print(f"      ⚠️ Error fetching query: {e}")
+        continue
+
+# ==========================================
+# 4. 保存
+# ==========================================
+
+print(f"🎉 Total unique CA jobs: {len(all_clean_jobs)}")
+
+final_data = {
+    "last_updated": datetime.utcnow().isoformat(),
+    "total_jobs": len(all_clean_jobs),
+    "jobs": all_clean_jobs
+}
+
+os.makedirs('public', exist_ok=True)
+
+with open('public/jobs.json', 'w', encoding='utf-8') as f:
+    json.dump(final_data, f, ensure_ascii=False, indent=2)
+
+print(f"✅ Saved to public/jobs.json")
