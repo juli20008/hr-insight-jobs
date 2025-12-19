@@ -6,10 +6,23 @@ interface JobCardProps {
 }
 
 const JobCard: React.FC<JobCardProps> = ({ job }) => {
-  const formatDate = (dateStr: string) => {
+  // 修复后的日期格式化函数
+  const formatDate = (dateStr: string | null | undefined) => {
+    if (!dateStr) return 'Recently'; // 如果没有日期，直接返回 Recently
+
     try {
       const date = new Date(dateStr);
+      
+      // 检查是否是 "无效日期" 或者 "1970年的日期"
+      if (isNaN(date.getTime()) || date.getFullYear() < 2020) {
+        return 'Recently';
+      }
+
       const diffDays = Math.ceil((date.getTime() - Date.now()) / (1000 * 60 * 60 * 24));
+      
+      // 如果计算出来是正数(未来)，修正为 "Today"
+      if (diffDays > 0) return 'Today';
+
       const rtf = new Intl.RelativeTimeFormat('en', { numeric: 'auto' });
       return rtf.format(diffDays, 'day');
     } catch {
@@ -62,7 +75,7 @@ const JobCard: React.FC<JobCardProps> = ({ job }) => {
         href={job.job_apply_link}
         target="_blank"
         rel="noopener noreferrer"
-        className="w-full py-2.5 px-4 bg-indigo-600 hover:bg-indigo-700 text-white font-medium rounded-lg text-center transition-colors block"
+        className="w-full py-2.5 px-4 bg-indigo-600 hover:bg-indigo-700 text-white font-medium rounded-lg text-center transition-colors block mt-auto"
       >
         Apply Now
       </a>
