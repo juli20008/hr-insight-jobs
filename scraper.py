@@ -43,8 +43,8 @@ querystring = {
     # 核心逻辑：(核心职位) AND (在美国 OR 加拿大) AND (远程 OR 混合)
     "query": f"{search_term} in USA OR Canada (Remote OR Hybrid)", 
     "page": "1",
-    "num_pages": "1", 
-    "date_posted": "today",   
+    "num_pages": "10", 
+    "date_posted": "3days",   
     "employment_types": "fulltime" 
 }
 
