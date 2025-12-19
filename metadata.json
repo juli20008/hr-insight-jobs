@@ -1,0 +1,5 @@
+{
+  "name": "HR Insight Jobs",
+  "description": "A professional job board for HR Data Analytics and Technology roles, powered by automated Git-scraping from the JSearch API.",
+  "requestFramePermissions": []
+}
