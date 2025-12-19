@@ -2,7 +2,7 @@ name: Daily HR Job Scraper
 
 on:
   schedule:
-    - cron: '0 8 * * *' # 每天 UTC 08:00 运行
+    - cron: '0 13 * * *' # 每天 ET 08:00 运行
   workflow_dispatch:      # 允许手动点按钮运行
 
 jobs:
