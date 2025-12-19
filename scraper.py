@@ -3,23 +3,49 @@ import json
 import os
 from datetime import datetime
 
-# 1. 验证 API Key
+# ==========================================
+# 1. 配置与密钥 (Configuration)
+# ==========================================
+
 api_key = os.environ.get("RAPIDAPI_KEY")
-# 本地测试时，你可以临时把这行取消注释填入 Key，提交代码前记得删掉！
-# api_key = "YOUR_TEST_KEY_HERE" 
+
+# 🚨 本地测试时打开这行，提交前注释掉！
+# api_key = "你的_RAPIDAPI_KEY"
 
 if not api_key:
-    # 为了防止 GitHub Action 报错，如果没 Key 可以打印警告并退出，或者抛出异常
-    print("Warning: RAPIDAPI_KEY is missing. Skipping scrape.")
-    exit(0)
+    print("❌ Error: RAPIDAPI_KEY is missing.")
+    exit(1)
 
-# 2. 配置请求
 url = "https://jsearch.p.rapidapi.com/search"
+
+# ==========================================
+# 2. 搜索策略 (从你的列表中提取的核心关键词)
+# ==========================================
+
+# 我从你提供的 100+ 个职位中提取了以下核心高频词，并用 OR 连接
+# 这样一次 API 调用就能覆盖所有这些细分领域，极度节省额度。
+
+search_term = """
+(
+"People Analyst" OR "HR Data Analyst" OR "People Data Analyst" OR 
+"Workforce Analytics" OR "Workforce Planning Analyst" OR 
+"HRIS Analyst" OR "HR Systems Analyst" OR "HR Tech Analyst" OR "Workday Analyst" OR 
+"Compensation Analyst" OR "Total Rewards Analyst" OR 
+"Talent Analytics" OR "Talent Insights" OR "Recruiting Data Analyst" OR 
+"People Operations Analyst" OR "Employee Experience Analyst"
+)
+"""
+
+# 去掉换行符，变成一行
+search_term = search_term.replace('\n', ' ').strip()
+
 querystring = {
-    "query": "HR Data Analyst OR HR Technology in USA",
+    # 核心逻辑：(核心职位) AND (在美国 OR 加拿大) AND (远程 OR 混合)
+    "query": f"{search_term} in USA OR Canada (Remote OR Hybrid)", 
     "page": "1",
     "num_pages": "1", 
-    "date_posted": "3days"
+    "date_posted": "today",   
+    "employment_types": "fulltime" 
 }
 
 headers = {
@@ -27,19 +53,35 @@ headers = {
     "X-RapidAPI-Host": "jsearch.p.rapidapi.com"
 }
 
+# ==========================================
+# 3. 执行抓取与清洗
+# ==========================================
+
 try:
-    print(f"Fetching jobs for query: {querystring['query']}...")
+    print(f"🔍 Fetching jobs...")
     response = requests.get(url, headers=headers, params=querystring)
     response.raise_for_status()
     
     data = response.json()
-    jobs = data.get('data', [])
-    print(f"Found {len(jobs)} raw jobs.")
+    raw_jobs = data.get('data', [])
+    print(f"📦 API returned {len(raw_jobs)} raw jobs.")
 
-    # 3. 数据清洗
     clean_jobs = []
-    for job in jobs:
-        # 确保有 job_id，如果没有就用链接做 ID
+    
+    # 垃圾词黑名单 (根据你的列表优化，排除掉纯 Recruiting 或 Sales 岗)
+    exclude_keywords = [
+        "recruiter", "talent acquisition partner", "coordinator", "assistant", 
+        "intern", "sales", "account executive", "business development"
+    ]
+
+    for job in raw_jobs:
+        title = job.get("job_title", "").lower()
+        
+        # 1. 垃圾词过滤
+        if any(keyword in title for keyword in exclude_keywords):
+            continue 
+            
+        # 2. ID 校验
         job_id = job.get("job_id") or job.get("job_apply_link")
         
         if job_id: 
@@ -55,20 +97,23 @@ try:
                 "job_posted_at_datetime_utc": job.get("job_posted_at_datetime_utc")
             })
 
-    # 4. 构建最终数据
+    # ==========================================
+    # 4. 保存数据
+    # ==========================================
+
     final_data = {
         "last_updated": datetime.utcnow().isoformat(),
+        "total_jobs": len(clean_jobs),
         "jobs": clean_jobs
     }
 
-    # 5. 保存到 PUBLIC 文件夹 (Vite 关键步骤)
     os.makedirs('public', exist_ok=True)
     
     with open('public/jobs.json', 'w', encoding='utf-8') as f:
         json.dump(final_data, f, ensure_ascii=False, indent=2)
     
-    print(f"Successfully saved {len(clean_jobs)} jobs to public/jobs.json")
+    print(f"✅ Success! Saved {len(clean_jobs)} clean jobs to public/jobs.json")
 
 except Exception as e:
-    print(f"Error occurred: {e}")
+    print(f"❌ Error occurred: {e}")
     exit(1)
