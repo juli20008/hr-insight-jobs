@@ -37,7 +37,7 @@ queries = [
     '("HRIS Analyst" OR "HR Systems Analyst" OR "HR Tech Analyst" OR "Workday Analyst" OR "People Operations Analyst")',
     
     # 战队 C: 薪酬、人才与体验 (Comp, Talent & Experience)
-    '("Compensation Analyst" OR "Total Rewards Analyst" OR "Talent Analytics" OR "Talent Insights" OR "Recruiting Data Analyst" OR "Employee Experience Analyst")'
+    '("Compensation Analyst" OR "Total Rewards Analyst" OR "Talent Analytics" OR "Talent Insight" OR "Recruiting Data Analyst" OR "Employee Experience Analyst")'
 ]
 
 # ==========================================
