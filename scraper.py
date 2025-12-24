@@ -87,21 +87,26 @@ for q in queries:
             # 2. 生成 ID
             job_id = job.get("job_id") or job.get("job_apply_link")
             
-            # 3. 去重 (防止战队 A 和 B 抓到同一个)
+ # 3. 去重 (防止战队 A 和 B 抓到同一个)
             if job_id and job_id not in seen_job_ids:
                 seen_job_ids.add(job_id)
                 
                 # ==========================================
-                # 🛠️ FIX BUG START: 强制修复日期问题
+                # 🛠️ FIX BUG (FINAL): 针对多伦多时区彻底修复
                 # ==========================================
                 posted_date = job.get("job_posted_at_datetime_utc")
                 
-                # 如果 API 没给日期，或者日期是空的，因为我们要的是"today"，
-                # 所以直接默认用"现在"的时间填进去。
+                # 如果 API 没给日期 (Null)，我们手动生成一个
                 if not posted_date:
-                    posted_date = datetime.utcnow().isoformat()
+                    # 1. 获取当前 UTC 时间
+                    now_utc = datetime.utcnow()
+                    
+                    # 2. 核心修复：手动添加 'Z'，告诉浏览器这是 UTC 时间
+                    # 浏览器看到 'Z' 后，会把 03:45 (UTC) 自动转换成多伦多的 22:45 (昨晚/今天)
+                    posted_date = now_utc.isoformat() + 'Z'
+
                 # ==========================================
-                # 🛠️ FIX BUG END
+                # END FIX
                 # ==========================================
 
                 all_clean_jobs.append({
@@ -113,7 +118,7 @@ for q in queries:
                     "job_state": job.get("job_state"),
                     "job_country": job.get("job_country"),
                     "job_apply_link": job.get("job_apply_link"),
-                    "job_posted_at_datetime_utc": posted_date  # <--- 这里用处理过的变量
+                    "job_posted_at_datetime_utc": posted_date 
                 })
         
         # 休息 1 秒，对 API 温柔一点
