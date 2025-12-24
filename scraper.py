@@ -91,6 +91,19 @@ for q in queries:
             if job_id and job_id not in seen_job_ids:
                 seen_job_ids.add(job_id)
                 
+                # ==========================================
+                # 🛠️ FIX BUG START: 强制修复日期问题
+                # ==========================================
+                posted_date = job.get("job_posted_at_datetime_utc")
+                
+                # 如果 API 没给日期，或者日期是空的，因为我们要的是"today"，
+                # 所以直接默认用"现在"的时间填进去。
+                if not posted_date:
+                    posted_date = datetime.utcnow().isoformat()
+                # ==========================================
+                # 🛠️ FIX BUG END
+                # ==========================================
+
                 all_clean_jobs.append({
                     "job_id": job_id,
                     "job_title": job.get("job_title"),
@@ -100,7 +113,7 @@ for q in queries:
                     "job_state": job.get("job_state"),
                     "job_country": job.get("job_country"),
                     "job_apply_link": job.get("job_apply_link"),
-                    "job_posted_at_datetime_utc": job.get("job_posted_at_datetime_utc")
+                    "job_posted_at_datetime_utc": posted_date  # <--- 这里用处理过的变量
                 })
         
         # 休息 1 秒，对 API 温柔一点
