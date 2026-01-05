@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-04T13:29:08.805018",
-  "total_jobs": 21,
+  "last_updated": "2026-01-05T13:40:15.589068",
+  "total_jobs": 22,
   "jobs": [
     {
       "job_id": "5oIbID-zvaihnM_PAAAAAA==",
@@ -22,7 +22,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/stanford-university/job/senior-analyst-people-workforce-analytics?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-04T13:28:58.263472Z"
+      "job_posted_at_datetime_utc": "2026-01-05T13:40:05.634548Z"
     },
     {
       "job_id": "OAPFmQbIkiFm_RZtAAAAAA==",
@@ -33,7 +33,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/stanford-university/job/people-workforce-analyst-oracle-hcm?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-04T13:28:58.263486Z"
+      "job_posted_at_datetime_utc": "2026-01-05T13:40:05.634565Z"
     },
     {
       "job_id": "YqUdjRPeRYczt0R9AAAAAA==",
@@ -44,7 +44,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/pacific-life-insurance/job/workday-hris-analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-04T13:29:03.245109Z"
+      "job_posted_at_datetime_utc": "2026-01-05T13:40:10.668187Z"
     },
     {
       "job_id": "G2mR4409QrcPCTDaAAAAAA==",
@@ -55,29 +55,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/choc-children-s-hospital/job/hr-systems-analyst-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-04T13:29:03.245123Z"
-    },
-    {
-      "job_id": "p91YJKZRnkxzN1S5AAAAAA==",
-      "job_title": "HRIS Analyst",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Whittier",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=baa9a354f29b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2025-12-31T00:00:00.000Z"
-    },
-    {
-      "job_id": "w0_fYD-60Nz0ZAFoAAAAAA==",
-      "job_title": "HRIS Analyst - Production Support",
-      "employer_name": "Cedars-Sinai Medical Center",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQft-znDSNAEaigAAzgCRLnR6gPpruNtPZ6GWDw&s=0",
-      "job_city": "West Hollywood",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.jobzmall.com/cedars-sinai-medical-center/job/hris-analyst-production-support-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-04T13:29:03.245130Z"
+      "job_posted_at_datetime_utc": "2026-01-05T13:40:10.668201Z"
     },
     {
       "job_id": "34lh_psb96k7Qg2BAAAAAA==",
@@ -91,26 +69,37 @@
       "job_posted_at_datetime_utc": "2025-12-07T00:00:00.000Z"
     },
     {
-      "job_id": "f_LS778l4uorP-25AAAAAA==",
+      "job_id": "w0_fYD-60Nz0ZAFoAAAAAA==",
+      "job_title": "HRIS Analyst - Production Support",
+      "employer_name": "Cedars-Sinai Medical Center",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQft-znDSNAEaigAAzgCRLnR6gPpruNtPZ6GWDw&s=0",
+      "job_city": "West Hollywood",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.jobzmall.com/cedars-sinai-medical-center/job/hris-analyst-production-support-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-05T13:40:10.668214Z"
+    },
+    {
+      "job_id": "p91YJKZRnkxzN1S5AAAAAA==",
       "job_title": "HRIS Analyst",
       "employer_name": "VirtualVocations",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Bell Gardens",
+      "job_city": "Whittier",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=fac070d244a3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-04T13:29:03.245141Z"
+      "job_apply_link": "https://www.talent.com/view?id=baa9a354f29b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2025-12-31T00:00:00.000Z"
     },
     {
-      "job_id": "YZw1RwBP-Bw2G32eAAAAAA==",
-      "job_title": "HRIS Analyst",
-      "employer_name": "Tik Tok",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYAvWcp1snd50kKfY_dnZuMFbBir8XsCOo76l9&s=0",
-      "job_city": "Mountain View",
+      "job_id": "4xOT0OnYRuKC3P-PAAAAAA==",
+      "job_title": "Senior HRIS Analyst",
+      "employer_name": "VirtualVocations",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+      "job_city": "West Covina",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://www.jobzmall.com/tik-tok/job/hris-analyst-37?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-04T13:29:03.245144Z"
+      "job_apply_link": "https://www.talent.com/view?id=6121609395ff&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2025-12-18T00:00:00.000Z"
     },
     {
       "job_id": "s9LkpgfPVhnEv4vDAAAAAA==",
@@ -121,7 +110,29 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.talent.com/view?id=f82151d55684&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-04T13:29:03.245147Z"
+      "job_posted_at_datetime_utc": "2026-01-05T13:40:10.668224Z"
+    },
+    {
+      "job_id": "YZw1RwBP-Bw2G32eAAAAAA==",
+      "job_title": "HRIS Analyst",
+      "employer_name": "Tik Tok",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYAvWcp1snd50kKfY_dnZuMFbBir8XsCOo76l9&s=0",
+      "job_city": "Mountain View",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.jobzmall.com/tik-tok/job/hris-analyst-37?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-05T13:40:10.668227Z"
+    },
+    {
+      "job_id": "RM7cP8rGPg_fevH9AAAAAA==",
+      "job_title": "Sr/ HRIS Analyst",
+      "employer_name": "Gillig",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaVBXEcSpM4IsaVE5uaYnteOgEt28y8H3yO1E4&s=0",
+      "job_city": "Livermore",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://grabjobs.co/us/job/full-time/others/sr-hris-analyst-147192357?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-05T13:40:10.668231Z"
     },
     {
       "job_id": "BQPUbcbThyyn21L6AAAAAA==",
@@ -143,7 +154,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://spacecrew.com/space-jobs/m2ztjfqy-virgin-galactic-compensation-analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-04T13:29:07.803914Z"
+      "job_posted_at_datetime_utc": "2026-01-05T13:40:14.587940Z"
     },
     {
       "job_id": "Z_bSh0TrpdnY3Tq-AAAAAA==",
@@ -154,7 +165,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://jobs.vault.com/jobs/364878779-compensation-analyst-at-patreon?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-04T13:29:07.803924Z"
+      "job_posted_at_datetime_utc": "2026-01-05T13:40:14.587952Z"
     },
     {
       "job_id": "uaDDaloAV_qDr0fTAAAAAA==",
@@ -165,7 +176,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/california-state-university-fullerton/job/compensation-analyst-64?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-04T13:29:07.803928Z"
+      "job_posted_at_datetime_utc": "2026-01-05T13:40:14.587956Z"
     },
     {
       "job_id": "y6VyneZpjVuZX8xUAAAAAA==",
@@ -187,7 +198,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.talent.com/view?id=d2bbf1ec2f1d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-04T13:29:07.803937Z"
+      "job_posted_at_datetime_utc": "2026-01-05T13:40:14.587966Z"
     },
     {
       "job_id": "HEIWJ5lV3dbRx98-AAAAAA==",
@@ -198,7 +209,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.talent.com/view?id=57b993ea9a04&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-04T13:29:07.803940Z"
+      "job_posted_at_datetime_utc": "2026-01-05T13:40:14.587971Z"
     },
     {
       "job_id": "zdDDG9nAx5JPO-8qAAAAAA==",
@@ -209,18 +220,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.talent.com/view?id=c51c018a57e6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-04T13:29:07.803945Z"
-    },
-    {
-      "job_id": "IZ_laIB4QbsFhRiuAAAAAA==",
-      "job_title": "Senior Compensation Analyst",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Ventura",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=ffecd892244a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-04T13:29:07.803948Z"
+      "job_posted_at_datetime_utc": "2026-01-05T13:40:14.587975Z"
     },
     {
       "job_id": "dWlGBCXMV_fm0xzyAAAAAA==",
@@ -231,7 +231,18 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/sanmina-corporation/job/compensation-analyst-101?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-04T13:29:07.803951Z"
+      "job_posted_at_datetime_utc": "2026-01-05T13:40:14.587978Z"
+    },
+    {
+      "job_id": "GEnCiHzMsRjiNTMxAAAAAA==",
+      "job_title": "Senior Compensation Analyst",
+      "employer_name": "VirtualVocations",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+      "job_city": "Whittier",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.talent.com/view?id=a13393bcd901&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2025-12-31T00:00:00.000Z"
     }
   ]
 }
