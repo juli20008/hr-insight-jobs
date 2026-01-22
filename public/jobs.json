@@ -1,7 +1,18 @@
 {
-  "last_updated": "2026-01-21T13:45:05.296016",
-  "total_jobs": 29,
+  "last_updated": "2026-01-22T13:46:31.446638",
+  "total_jobs": 28,
   "jobs": [
+    {
+      "job_id": "5oIbID-zvaihnM_PAAAAAA==",
+      "job_title": "HR Data Analyst",
+      "employer_name": "LLNL",
+      "employer_logo": null,
+      "job_city": "Livermore",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://jobs.smartrecruiters.com/LLNL/3743990010993326-hr-data-analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-08T00:00:00.000Z"
+    },
     {
       "job_id": "iXopDC436eWJYWPzAAAAAA==",
       "job_title": "HR Data Analyst",
@@ -14,15 +25,15 @@
       "job_posted_at_datetime_utc": "2026-01-14T00:00:00.000Z"
     },
     {
-      "job_id": "5oIbID-zvaihnM_PAAAAAA==",
-      "job_title": "HR Data Analyst",
-      "employer_name": "LLNL",
-      "employer_logo": null,
-      "job_city": "Livermore",
+      "job_id": "7nwQv1vjc2l0gO3eAAAAAA==",
+      "job_title": "Senior Analyst - People/Workforce Analytics",
+      "employer_name": "Stanford University",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT85OpxupI9nXdqdopQMC1JnwOA1QjXa_qlrAGn&s=0",
+      "job_city": "Stanford",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://jobs.smartrecruiters.com/LLNL/3743990010993326-hr-data-analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-08T00:00:00.000Z"
+      "job_apply_link": "https://www.jobzmall.com/stanford-university/job/senior-analyst-people-workforce-analytics?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-22T13:46:21.324473Z"
     },
     {
       "job_id": "Ttr4wi3v5kdpPz4mAAAAAA==",
@@ -36,17 +47,6 @@
       "job_posted_at_datetime_utc": "2026-01-11T00:00:00.000Z"
     },
     {
-      "job_id": "7nwQv1vjc2l0gO3eAAAAAA==",
-      "job_title": "Senior Analyst - People/Workforce Analytics",
-      "employer_name": "Stanford University",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT85OpxupI9nXdqdopQMC1JnwOA1QjXa_qlrAGn&s=0",
-      "job_city": "Stanford",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.jobzmall.com/stanford-university/job/senior-analyst-people-workforce-analytics?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-21T13:44:50.120142Z"
-    },
-    {
       "job_id": "u3ky1S-PmJWOcP7hAAAAAA==",
       "job_title": "People Analytics Consultant",
       "employer_name": "VirtualVocations",
@@ -58,6 +58,17 @@
       "job_posted_at_datetime_utc": "2026-01-16T00:00:00.000Z"
     },
     {
+      "job_id": "OAPFmQbIkiFm_RZtAAAAAA==",
+      "job_title": "People/Workforce Analyst, Oracle HCM",
+      "employer_name": "Stanford University",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT85OpxupI9nXdqdopQMC1JnwOA1QjXa_qlrAGn&s=0",
+      "job_city": "Stanford",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.jobzmall.com/stanford-university/job/people-workforce-analyst-oracle-hcm?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-22T13:46:21.324495Z"
+    },
+    {
       "job_id": "BhG2S3Kr9DcFqhQiAAAAAA==",
       "job_title": "HR Analyst",
       "employer_name": "San Francisco Staffing",
@@ -66,18 +77,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.talent.com/view?id=ab042ab6d371&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-21T13:44:50.120161Z"
-    },
-    {
-      "job_id": "N8fJ0csLcG3wPs54AAAAAA==",
-      "job_title": "Lead People Analyst",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Ontario",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=200ca6d96fa7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-14T00:00:00.000Z"
+      "job_posted_at_datetime_utc": "2026-01-22T13:46:21.324500Z"
     },
     {
       "job_id": "K1KY3dN9jUdMqSqFAAAAAA==",
@@ -88,83 +88,50 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.talent.com/view?id=018b16feb4b9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-20T23:00:00.000Z"
-    },
-    {
-      "job_id": "WMS1ChP9khuWNKppAAAAAA==",
-      "job_title": "Lead People Analyst",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Riverside",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=0c5c418d2b06&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-18T00:00:00.000Z"
-    },
-    {
-      "job_id": "JaopvLloEfmcBK9eAAAAAA==",
-      "job_title": "HRIS Analyst with Workday Expertise",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": null,
-      "job_state": null,
-      "job_country": null,
-      "job_apply_link": "https://www.talent.com/view?id=8d5468e2ae78&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-20T23:00:00.000Z"
+      "job_posted_at_datetime_utc": "2026-01-20T00:00:00.000Z"
     },
     {
       "job_id": "Mz9WeE3rx5caZgCWAAAAAA==",
       "job_title": "HR Systems Analyst",
       "employer_name": "VirtualVocations",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": null,
-      "job_state": null,
-      "job_country": null,
+      "job_city": "Riverside",
+      "job_state": "California",
+      "job_country": "US",
       "job_apply_link": "https://www.talent.com/view?id=8cc7ecccce05&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "job_posted_at_datetime_utc": "2026-01-18T00:00:00.000Z"
-    },
-    {
-      "job_id": "nHqpfbIaqZaroolzAAAAAA==",
-      "job_title": "HRIS Analyst",
-      "employer_name": "North Italia",
-      "employer_logo": null,
-      "job_city": null,
-      "job_state": null,
-      "job_country": null,
-      "job_apply_link": "https://www.talentify.io/job/hrss-benefits-analyst-calabasas-california-us-north-italia-18381?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-21T13:44:59.554057Z"
     },
     {
       "job_id": "YqUdjRPeRYczt0R9AAAAAA==",
       "job_title": "Workday HRIS Analyst",
       "employer_name": "Pacific Life Insurance",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzcn-2XsqL4VVfXj6wV2-XKx8NF26_julV73Qr&s=0",
-      "job_city": null,
-      "job_state": null,
-      "job_country": null,
+      "job_city": "Newport Beach",
+      "job_state": "California",
+      "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/pacific-life-insurance/job/workday-hris-analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-21T13:44:59.554068Z"
+      "job_posted_at_datetime_utc": "2026-01-22T13:46:25.194168Z"
     },
     {
-      "job_id": "DSdJSseEN-EA4eZMAAAAAA==",
+      "job_id": "JaopvLloEfmcBK9eAAAAAA==",
       "job_title": "HRIS Analyst with Workday Expertise",
       "employer_name": "VirtualVocations",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": null,
-      "job_state": null,
-      "job_country": null,
-      "job_apply_link": "https://www.talent.com/view?id=b40323617db2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-20T23:00:00.000Z"
+      "job_city": "Oxnard",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.talent.com/view?id=8d5468e2ae78&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-20T00:00:00.000Z"
     },
     {
-      "job_id": "LYvBxTTghM4GdqJyAAAAAA==",
+      "job_id": "HGB28d0on3ARrggaAAAAAA==",
       "job_title": "HRIS Analyst with Workday Expertise",
       "employer_name": "VirtualVocations",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": null,
-      "job_state": null,
-      "job_country": null,
-      "job_apply_link": "https://www.talent.com/view?id=270e85c66812&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_city": "Glendale",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.talent.com/view?id=c384a6844112&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "job_posted_at_datetime_utc": "2026-01-15T00:00:00.000Z"
     },
     {
@@ -172,44 +139,77 @@
       "job_title": "HRIS Analyst - Production Support",
       "employer_name": "Cedars-Sinai Medical Center",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQft-znDSNAEaigAAzgCRLnR6gPpruNtPZ6GWDw&s=0",
-      "job_city": null,
-      "job_state": null,
-      "job_country": null,
+      "job_city": "West Hollywood",
+      "job_state": "California",
+      "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/cedars-sinai-medical-center/job/hris-analyst-production-support-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-21T13:44:59.554076Z"
+      "job_posted_at_datetime_utc": "2026-01-22T13:46:25.194186Z"
     },
     {
-      "job_id": "D5BH656HVkm2ZbEKAAAAAA==",
-      "job_title": "SAP HRIS Analyst 5",
-      "employer_name": "The Slate Group",
-      "employer_logo": null,
-      "job_city": null,
-      "job_state": null,
-      "job_country": null,
-      "job_apply_link": "https://www.jobilize.com/job/us-ca-all-cities-sap-hris-analyst-5-slate-group-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_id": "DSdJSseEN-EA4eZMAAAAAA==",
+      "job_title": "HRIS Analyst with Workday Expertise",
+      "employer_name": "VirtualVocations",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+      "job_city": "Modesto",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.talent.com/view?id=b40323617db2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-20T00:00:00.000Z"
+    },
+    {
+      "job_id": "d4xLWz_svG3YKWroAAAAAA==",
+      "job_title": "HRIS Analyst",
+      "employer_name": "Robinson Helicopter Company",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjiF_GOlOMzWE_J0h472wLLC9vw70j5-g9dg08&s=0",
+      "job_city": "Torrance",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.learn4good.com/jobs/torrance/california/hr_and_recruitment/4734757584/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-11T00:00:00.000Z"
+    },
+    {
+      "job_id": "9O42Ec1yG4IMPsagAAAAAA==",
+      "job_title": "HRIS Analyst with Workday Expertise",
+      "employer_name": "VirtualVocations",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+      "job_city": "Downey",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.talent.com/view?id=aae078edb4af&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "job_posted_at_datetime_utc": "2026-01-15T00:00:00.000Z"
     },
     {
-      "job_id": "Z5efDFoSlF9ha0DBAAAAAA==",
-      "job_title": "Workday Senior HRIS Analyst",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": null,
-      "job_state": null,
-      "job_country": null,
-      "job_apply_link": "https://www.talent.com/view?id=f8630b8daa8e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-16T00:00:00.000Z"
+      "job_id": "BQKrexcrEi6kX3BhAAAAAA==",
+      "job_title": "HRIS Analyst",
+      "employer_name": "Bayside Solutions",
+      "employer_logo": null,
+      "job_city": "San Mateo",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://us.trabajo.org/job-3821-fba0b055c9383bfed3948204a52a11e6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-15T00:00:00.000Z"
     },
     {
       "job_id": "i7jVRCvIk_inSsgcAAAAAA==",
       "job_title": "HR Systems Analyst",
       "employer_name": "VirtualVocations",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": null,
-      "job_state": null,
-      "job_country": null,
+      "job_city": "Oceanside",
+      "job_state": "California",
+      "job_country": "US",
       "job_apply_link": "https://www.talent.com/view?id=ac31cb6236a5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-20T23:00:00.000Z"
+      "job_posted_at_datetime_utc": "2026-01-20T00:00:00.000Z"
+    },
+    {
+      "job_id": "HZLVyaRgB0arDXI5AAAAAA==",
+      "job_title": "Temporary Compensation/Total Rewards Analyst - remote, must be West Coast Based",
+      "employer_name": "Telecare Corporation",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0YTqKzsrDl1FugdgL7fwfEH6aZxjcq8Z7vWcI&s=0",
+      "job_city": "Alameda",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.glassdoor.com/job-listing/temporary-compensation-total-rewards-analyst-remote-must-be-west-coast-based-telecare-corporation-JV_IC1147323_KO0,76_KE77,97.htm?jl=1009994985687&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-11T00:00:00.000Z"
     },
     {
       "job_id": "8ei_cDAhYSjhq85VAAAAAA==",
@@ -223,6 +223,39 @@
       "job_posted_at_datetime_utc": "2026-01-11T00:00:00.000Z"
     },
     {
+      "job_id": "UFdyavV2MjGt8PrHAAAAAA==",
+      "job_title": "Total Rewards Analyst",
+      "employer_name": "VirtualVocations",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+      "job_city": "San Francisco",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.talent.com/view?id=f376a8556438&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-21T23:00:00.000Z"
+    },
+    {
+      "job_id": "58TepZT5ZAR-p-cdAAAAAA==",
+      "job_title": "Total Rewards Analyst",
+      "employer_name": "VirtualVocations",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+      "job_city": "El Cajon",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.talent.com/view?id=cf078b946aa6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-21T23:00:00.000Z"
+    },
+    {
+      "job_id": "knY6J-gT-TAYqA3xAAAAAA==",
+      "job_title": "Total Rewards Analyst",
+      "employer_name": "VirtualVocations",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+      "job_city": "Fresno",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.talent.com/view?id=0dc7de6710db&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-21T23:00:00.000Z"
+    },
+    {
       "job_id": "Z_bSh0TrpdnY3Tq-AAAAAA==",
       "job_title": "Compensation Analyst",
       "employer_name": "Patreon",
@@ -231,7 +264,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://jobs.vault.com/jobs/364878779-compensation-analyst-at-patreon?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-21T13:45:04.294898Z"
+      "job_posted_at_datetime_utc": "2026-01-22T13:46:30.445516Z"
     },
     {
       "job_id": "uaDDaloAV_qDr0fTAAAAAA==",
@@ -242,18 +275,18 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/california-state-university-fullerton/job/compensation-analyst-64?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-21T13:45:04.294909Z"
+      "job_posted_at_datetime_utc": "2026-01-22T13:46:30.445527Z"
     },
     {
-      "job_id": "z6C79X5ryzHTcxDRAAAAAA==",
-      "job_title": "Compensation Analyst",
-      "employer_name": "Robert Half",
-      "employer_logo": null,
-      "job_city": "Sacramento",
+      "job_id": "h4U15tyrmFw2mVSSAAAAAA==",
+      "job_title": "Senior Compensation Analyst",
+      "employer_name": "VirtualVocations",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+      "job_city": "Riverside",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://tallo.com/jobs/humanresources/compensation-benefits-analyst/ca/sacramento/compensation-analyst-e02d6491115a/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-05T00:00:00.000Z"
+      "job_apply_link": "https://www.talent.com/view?id=1676ef383fc8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-18T00:00:00.000Z"
     },
     {
       "job_id": "7FoXYHyw-YeBIeLCAAAAAA==",
@@ -264,7 +297,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://outscal.com/job/compensation-analyst-at-patreon-in-san-francisco-ca-usa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-21T13:45:04.294915Z"
+      "job_posted_at_datetime_utc": "2026-01-22T13:46:30.445537Z"
     },
     {
       "job_id": "Yymqkfw2Yc6Tf1FlAAAAAA==",
@@ -276,50 +309,6 @@
       "job_country": "US",
       "job_apply_link": "https://www.talent.com/view?id=e175fd6e4704&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "job_posted_at_datetime_utc": "2026-01-15T00:00:00.000Z"
-    },
-    {
-      "job_id": "pX052L__eymhdcWcAAAAAA==",
-      "job_title": "Compensation Analyst",
-      "employer_name": "Cedars-Sinai Medical Center",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQft-znDSNAEaigAAzgCRLnR6gPpruNtPZ6GWDw&s=0",
-      "job_city": "West Hollywood",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.jobzmall.com/cedars-sinai-medical-center/job/compensation-analyst-90?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-21T13:45:04.294923Z"
-    },
-    {
-      "job_id": "k1MVXgVXcRbHNfcyAAAAAA==",
-      "job_title": "Workday Advanced Compensation Analyst",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Long Beach",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=153a21006262&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-19T00:00:00.000Z"
-    },
-    {
-      "job_id": "y6VyneZpjVuZX8xUAAAAAA==",
-      "job_title": "Compensation Analyst, HR​/Recruitment",
-      "employer_name": "LHH",
-      "employer_logo": null,
-      "job_city": "Santa Monica",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.learn4good.com/jobs/santa-monica/california/hr_and_recruitment/4740801143/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2025-12-29T00:00:00.000Z"
-    },
-    {
-      "job_id": "KpiWtOKWBc6AZOhpAAAAAA==",
-      "job_title": "Senior Compensation Analyst",
-      "employer_name": "Snowflake",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsnnPmfD-diy8KAR57cwO5zsakPJAJsgv7TXdB&s=0",
-      "job_city": "Menlo Park",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://career.io/job/senior-compensation-analyst-menlo-park-snowflake-6a94a122883b48454d855ecd871e620d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-21T13:45:04.294937Z"
     }
   ]
 }
