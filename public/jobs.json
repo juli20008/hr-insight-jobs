@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-07T13:43:37.483643",
-  "total_jobs": 21,
+  "last_updated": "2026-02-08T13:45:39.058475",
+  "total_jobs": 15,
   "jobs": [
     {
       "job_id": "6EeAr2XPoJveWU8JAAAAAA==",
@@ -14,17 +14,6 @@
       "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z"
     },
     {
-      "job_id": "qI6eDB33ZBV1Gz-3AAAAAA==",
-      "job_title": "People Analyst",
-      "employer_name": "Figma",
-      "employer_logo": null,
-      "job_city": "San Francisco",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.ziprecruiter.com/c/Figma/Job/People-Analyst/-in-San-Francisco,CA?jid=8d9519173311a7c3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-07T13:43:06.535431Z"
-    },
-    {
       "job_id": "7nwQv1vjc2l0gO3eAAAAAA==",
       "job_title": "Senior Analyst - People/Workforce Analytics",
       "employer_name": "Stanford University",
@@ -33,7 +22,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/stanford-university/job/senior-analyst-people-workforce-analytics?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-07T13:43:06.535444Z"
+      "job_posted_at_datetime_utc": "2026-02-08T13:44:56.076482Z"
     },
     {
       "job_id": "JD0olM08PY0DvyI9AAAAAA==",
@@ -66,7 +55,51 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/pacific-life-insurance/job/workday-hris-analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-07T13:43:20.526961Z"
+      "job_posted_at_datetime_utc": "2026-02-08T13:45:17.887300Z"
+    },
+    {
+      "job_id": "N82sjtfyimIoD8rUAAAAAA==",
+      "job_title": "HR Tech Analyst: Workday",
+      "employer_name": "LPL Financial",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5BSMIt7m2uiId_3142LNElhU-kvf9h48rIEOM&s=0",
+      "job_city": "San Diego",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://us.trabajo.org/job-2611-38463493374995f810284e57e267bcd1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-13T00:00:00.000Z"
+    },
+    {
+      "job_id": "I-f16GELtougq91LAAAAAA==",
+      "job_title": "HR Systems Analyst: BI & HRIS Integrations Lead",
+      "employer_name": "Crowell & Moring",
+      "employer_logo": null,
+      "job_city": "Irvine",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.learn4good.com/jobs/irvine/california/hr_and_recruitment/4820589514/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-01-28T00:00:00.000Z"
+    },
+    {
+      "job_id": "w0_fYD-60Nz0ZAFoAAAAAA==",
+      "job_title": "HRIS Analyst - Production Support",
+      "employer_name": "Cedars-Sinai Medical Center",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQft-znDSNAEaigAAzgCRLnR6gPpruNtPZ6GWDw&s=0",
+      "job_city": "West Hollywood",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.jobzmall.com/cedars-sinai-medical-center/job/hris-analyst-production-support-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-08T13:45:17.887320Z"
+    },
+    {
+      "job_id": "_3HRXESW0Qp6CpU2AAAAAA==",
+      "job_title": "HRIS Analyst; hybrid",
+      "employer_name": "ProPivotal",
+      "employer_logo": null,
+      "job_city": "Newport Beach",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.learn4good.com/jobs/newport-beach/california/hr_and_recruitment/4853427295/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z"
     },
     {
       "job_id": "gcaOGmvDfxg-b8YQAAAAAA==",
@@ -80,15 +113,15 @@
       "job_posted_at_datetime_utc": "2026-01-31T00:00:00.000Z"
     },
     {
-      "job_id": "w0_fYD-60Nz0ZAFoAAAAAA==",
-      "job_title": "HRIS Analyst - Production Support",
-      "employer_name": "Cedars-Sinai Medical Center",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQft-znDSNAEaigAAzgCRLnR6gPpruNtPZ6GWDw&s=0",
-      "job_city": "West Hollywood",
+      "job_id": "YSsxoruo3MMWFzfQAAAAAA==",
+      "job_title": "Workday Analyst",
+      "employer_name": "VirtualVocations",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+      "job_city": null,
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://www.jobzmall.com/cedars-sinai-medical-center/job/hris-analyst-production-support-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-07T13:43:20.526976Z"
+      "job_apply_link": "https://www.talent.com/view?id=7c4b9c32248b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z"
     },
     {
       "job_id": "pz4Amb6P5j41PiDFAAAAAA==",
@@ -113,48 +146,15 @@
       "job_posted_at_datetime_utc": "2026-01-26T00:00:00.000Z"
     },
     {
-      "job_id": "3prqhmLFdqX8T-UpAAAAAA==",
-      "job_title": "HRIS Analyst III 5",
-      "employer_name": "Pivot Workforce",
-      "employer_logo": null,
-      "job_city": null,
+      "job_id": "GWk9_47HGNPqIW6HAAAAAA==",
+      "job_title": "Compensation Analyst",
+      "employer_name": "California State University-Fullerton",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGt6UpRiLwxHA-d2Pu2-G5VX418Bo1kmC7-Tcr&s=0",
+      "job_city": "Fullerton",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://www.jobilize.com/amp/job/us-ca-all-cities-hris-analyst-iii-5-pivot-workforce-hiring-now-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z"
-    },
-    {
-      "job_id": "4U8IyYZlEnPNzYEbAAAAAA==",
-      "job_title": "Senior Workday HRIS Analyst",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Moreno Valley",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=2cc2388faafa&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z"
-    },
-    {
-      "job_id": "Q9TcoSi96p_W7O3TAAAAAA==",
-      "job_title": "HRIS Analyst",
-      "employer_name": "Bird Rides",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwyVsL1I-GRn06fBzm3VGkeI8RDqSU7gvY3M1Y&s=0",
-      "job_city": "Santa Monica",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.jobzmall.com/bird-rides-1/job/hris-analyst-20?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-07T13:43:20.526989Z"
-    },
-    {
-      "job_id": "VWrzdF6gNUNFBa51AAAAAA==",
-      "job_title": "Total Rewards Analyst",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Inglewood",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=83fcd5a376b3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z"
+      "job_apply_link": "https://www.jobzmall.com/california-state-university-fullerton/job/compensation-analyst-94?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-08T13:45:38.057331Z"
     },
     {
       "job_id": "osXzbGpPdCq-FFaRAAAAAA==",
@@ -166,72 +166,6 @@
       "job_country": "US",
       "job_apply_link": "https://www.learn4good.com/jobs/san-jose/california/hr_and_recruitment/4846671177/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z"
-    },
-    {
-      "job_id": "GWk9_47HGNPqIW6HAAAAAA==",
-      "job_title": "Compensation Analyst",
-      "employer_name": "California State University-Fullerton",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGt6UpRiLwxHA-d2Pu2-G5VX418Bo1kmC7-Tcr&s=0",
-      "job_city": "Fullerton",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.jobzmall.com/california-state-university-fullerton/job/compensation-analyst-94?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-07T13:43:36.482557Z"
-    },
-    {
-      "job_id": "XRhS9bNyBBGCtUr2AAAAAA==",
-      "job_title": "Compensation Analyst, HR​/Recruitment",
-      "employer_name": "Prime Healthcare Management Inc",
-      "employer_logo": null,
-      "job_city": "Ontario",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.learn4good.com/jobs/ontario/california/hr_and_recruitment/4835804200/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-01T00:00:00.000Z"
-    },
-    {
-      "job_id": "aMGCd9utvUBYTxjIAAAAAA==",
-      "job_title": "Hybrid Compensation Analyst | Data & Policy Expert",
-      "employer_name": "University of California - Santa Barbara",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuBsl34BIwiJgc-3GD3Mrtrmje1mqhBFzxw-MD&s=0",
-      "job_city": "Santa Barbara",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.learn4good.com/jobs/santa-barbara/california/hr_and_recruitment/4850987124/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z"
-    },
-    {
-      "job_id": "U5CfSo3igdxKi6ZlAAAAAA==",
-      "job_title": "Global Total Rewards Analyst",
-      "employer_name": "Warner Bros.",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROgzVyZaKZ0o63FOV8QRYo2Qa5zMWfqwQ7CXJB&s=0",
-      "job_city": "Burbank",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.jobzmall.com/warner-bros/job/global-total-rewards-analyst-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-07T13:43:36.482579Z"
-    },
-    {
-      "job_id": "8lURPvpmsYkYOhjTAAAAAA==",
-      "job_title": "Global Compensation Analyst",
-      "employer_name": "Stanford University",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT85OpxupI9nXdqdopQMC1JnwOA1QjXa_qlrAGn&s=0",
-      "job_city": "Redwood City",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.jobzmall.com/stanford-university/job/global-compensation-analyst-m1prp1i2ev?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-07T13:43:36.482586Z"
-    },
-    {
-      "job_id": "ixjYgijq_uDF3LNrAAAAAA==",
-      "job_title": "Senior Compensation Analyst; Opens window",
-      "employer_name": "Chan Zuckerberg",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxDufzpqU5d1lodhmpMqhZyM6WGqVGh_MRSnRY&s=0",
-      "job_city": "Redwood City",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.learn4good.com/jobs/redwood-city/california/hr_and_recruitment/4827653279/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-31T00:00:00.000Z"
     }
   ]
 }
