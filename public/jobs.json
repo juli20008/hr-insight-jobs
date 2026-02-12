@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-11T14:16:33.862246",
-  "total_jobs": 13,
+  "last_updated": "2026-02-12T14:11:59.065048",
+  "total_jobs": 11,
   "jobs": [
     {
       "job_id": "7nwQv1vjc2l0gO3eAAAAAA==",
@@ -11,7 +11,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/stanford-university/job/senior-analyst-people-workforce-analytics?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-11T14:15:42.197615Z"
+      "job_posted_at_datetime_utc": "2026-02-12T14:11:07.947495Z"
     },
     {
       "job_id": "8A6U4AFnR1nRPMZRAAAAAA==",
@@ -33,7 +33,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/pacific-life-insurance/job/workday-hris-analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-11T14:16:04.754566Z"
+      "job_posted_at_datetime_utc": "2026-02-12T14:11:33.746391Z"
     },
     {
       "job_id": "2tHmMmQIBsAJw1kZAAAAAA==",
@@ -58,6 +58,17 @@
       "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z"
     },
     {
+      "job_id": "Q9TcoSi96p_W7O3TAAAAAA==",
+      "job_title": "HRIS Analyst",
+      "employer_name": "Bird Rides",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwyVsL1I-GRn06fBzm3VGkeI8RDqSU7gvY3M1Y&s=0",
+      "job_city": "Santa Monica",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.jobzmall.com/bird-rides-1/job/hris-analyst-20?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-12T14:11:33.746407Z"
+    },
+    {
       "job_id": "pz4Amb6P5j41PiDFAAAAAA==",
       "job_title": "Senior Workday HRIS Analyst",
       "employer_name": "VirtualVocations",
@@ -69,17 +80,6 @@
       "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z"
     },
     {
-      "job_id": "Q9TcoSi96p_W7O3TAAAAAA==",
-      "job_title": "HRIS Analyst",
-      "employer_name": "Bird Rides",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwyVsL1I-GRn06fBzm3VGkeI8RDqSU7gvY3M1Y&s=0",
-      "job_city": "Santa Monica",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.jobzmall.com/bird-rides-1/job/hris-analyst-20?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-11T14:16:04.754591Z"
-    },
-    {
       "job_id": "w0_fYD-60Nz0ZAFoAAAAAA==",
       "job_title": "HRIS Analyst - Production Support",
       "employer_name": "Cedars-Sinai Medical Center",
@@ -88,7 +88,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/cedars-sinai-medical-center/job/hris-analyst-production-support-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-11T14:16:04.754596Z"
+      "job_posted_at_datetime_utc": "2026-02-12T14:11:33.746414Z"
     },
     {
       "job_id": "I-f16GELtougq91LAAAAAA==",
@@ -110,7 +110,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/spacex/job/hris-analyst-31?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-11T14:16:04.754605Z"
+      "job_posted_at_datetime_utc": "2026-02-12T14:11:33.746420Z"
     },
     {
       "job_id": "GWk9_47HGNPqIW6HAAAAAA==",
@@ -121,29 +121,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/california-state-university-fullerton/job/compensation-analyst-94?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-11T14:16:32.861144Z"
-    },
-    {
-      "job_id": "U5CfSo3igdxKi6ZlAAAAAA==",
-      "job_title": "Global Total Rewards Analyst",
-      "employer_name": "Warner Bros.",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROgzVyZaKZ0o63FOV8QRYo2Qa5zMWfqwQ7CXJB&s=0",
-      "job_city": "Burbank",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.jobzmall.com/warner-bros/job/global-total-rewards-analyst-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-11T14:16:32.861157Z"
-    },
-    {
-      "job_id": "8lURPvpmsYkYOhjTAAAAAA==",
-      "job_title": "Global Compensation Analyst",
-      "employer_name": "Stanford University",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT85OpxupI9nXdqdopQMC1JnwOA1QjXa_qlrAGn&s=0",
-      "job_city": "Redwood City",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.jobzmall.com/stanford-university/job/global-compensation-analyst-m1prp1i2ev?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-11T14:16:32.861163Z"
+      "job_posted_at_datetime_utc": "2026-02-12T14:11:58.063957Z"
     }
   ]
 }
