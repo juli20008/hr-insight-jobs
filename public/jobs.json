@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-14T13:44:43.842975",
-  "total_jobs": 13,
+  "last_updated": "2026-02-15T13:45:52.488173",
+  "total_jobs": 12,
   "jobs": [
     {
       "job_id": "7nwQv1vjc2l0gO3eAAAAAA==",
@@ -11,18 +11,18 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/stanford-university/job/senior-analyst-people-workforce-analytics?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-14T13:43:41.717732Z"
+      "job_posted_at_datetime_utc": "2026-02-15T13:44:50.525686Z"
     },
     {
-      "job_id": "X3VDTsIUSawH63HAAAAAAA==",
-      "job_title": "HR & Workforce Planning Analyst; Hybrid",
-      "employer_name": "CalPERS",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxt2EaUuzeJ87P2GqoeLtIIOctISxXKs5twS0Z&s=0",
-      "job_city": "Sacramento",
+      "job_id": "L0J3Yxzyo_BbMPt5AAAAAA==",
+      "job_title": "Workday HRIS Analyst & Technical HR Operations Specialist (6-Month Contract)",
+      "employer_name": "FormFactor Inc.",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXe5ZO8Vj7ZzpjpMjDkowoyjkx1pjMB3sKX4hP&s=0",
+      "job_city": null,
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://www.learn4good.com/jobs/sacramento/california/hr_and_recruitment/4856459817/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z"
+      "job_apply_link": "https://jobright.ai/jobs/info/698be486c5761b521a9b7c66?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z"
     },
     {
       "job_id": "8A6U4AFnR1nRPMZRAAAAAA==",
@@ -47,6 +47,28 @@
       "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z"
     },
     {
+      "job_id": "G2mR4409QrcPCTDaAAAAAA==",
+      "job_title": "HR Systems Analyst",
+      "employer_name": "CHOC Children's Hospital",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCtP8fI6lJ7srDAfgqVV7F6OXEP3JqJe2TZEt&s=0",
+      "job_city": "Orange",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.jobzmall.com/choc-children-s-hospital/job/hr-systems-analyst-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-15T13:45:20.797859Z"
+    },
+    {
+      "job_id": "_3HRXESW0Qp6CpU2AAAAAA==",
+      "job_title": "HRIS Analyst; hybrid",
+      "employer_name": "ProPivotal",
+      "employer_logo": null,
+      "job_city": "Newport Beach",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.learn4good.com/jobs/newport-beach/california/hr_and_recruitment/4864412939/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z"
+    },
+    {
       "job_id": "w0_fYD-60Nz0ZAFoAAAAAA==",
       "job_title": "HRIS Analyst - Production Support",
       "employer_name": "Cedars-Sinai Medical Center",
@@ -55,73 +77,18 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/cedars-sinai-medical-center/job/hris-analyst-production-support-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-14T13:44:11.104330Z"
+      "job_posted_at_datetime_utc": "2026-02-15T13:45:20.797872Z"
     },
     {
-      "job_id": "0uh-JXo-peYd1DFzAAAAAA==",
-      "job_title": "Senior HRIS Analyst: Workday & Analytics Lead",
-      "employer_name": "University of Southern California",
+      "job_id": "I7Lj7MBksdTgevP1AAAAAA==",
+      "job_title": "Workday HR Systems Analyst: Design & Deliver Solutions",
+      "employer_name": "WDBeacon",
       "employer_logo": null,
-      "job_city": "Los Angeles",
+      "job_city": "Redwood City",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://www.learn4good.com/jobs/los-angeles/california/hr_and_recruitment/4680044187/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-14T13:44:11.104340Z"
-    },
-    {
-      "job_id": "PYhF1V-ErUa75beHAAAAAA==",
-      "job_title": "HRIS Analyst",
-      "employer_name": "Oracle",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt4qIwQQIdQ9o2hBQ8M4cXbVtjEliw5lFLs06I&s=0",
-      "job_city": "Rocklin",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.jobzmall.com/oracle/job/hris-analyst-22?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-14T13:44:11.104344Z"
-    },
-    {
-      "job_id": "3prqhmLFdqX8T-UpAAAAAA==",
-      "job_title": "HRIS Analyst III 5",
-      "employer_name": "Pivot Workforce",
-      "employer_logo": null,
-      "job_city": null,
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.jobilize.com/job/us-ca-all-cities-hris-analyst-iii-5-pivot-workforce-hiring-now-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z"
-    },
-    {
-      "job_id": "Q9TcoSi96p_W7O3TAAAAAA==",
-      "job_title": "HRIS Analyst",
-      "employer_name": "Bird Rides",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwyVsL1I-GRn06fBzm3VGkeI8RDqSU7gvY3M1Y&s=0",
-      "job_city": "Santa Monica",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.jobzmall.com/bird-rides-1/job/hris-analyst-20?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-14T13:44:11.104349Z"
-    },
-    {
-      "job_id": "I-f16GELtougq91LAAAAAA==",
-      "job_title": "HR Systems Analyst: BI & HRIS Integrations Lead",
-      "employer_name": "Crowell & Moring",
-      "employer_logo": null,
-      "job_city": "Irvine",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.learn4good.com/jobs/irvine/california/hr_and_recruitment/4820589514/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-01-28T00:00:00.000Z"
-    },
-    {
-      "job_id": "WZaae8LHx6oC9NAtAAAAAA==",
-      "job_title": "Sr. HRIS Analyst - Absence, Time Tracking and Payroll 5",
-      "employer_name": "Hei Hotels and Resorts",
-      "employer_logo": null,
-      "job_city": null,
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.jobilize.com/job/us-ca-all-cities-sr-hris-analyst-absence-time-tracking-payroll-5-hei?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z"
+      "job_apply_link": "https://www.learn4good.com/jobs/redwood-city/california/info_technology/4854616823/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z"
     },
     {
       "job_id": "LUTRacZ5_kUJH8MGAAAAAA==",
@@ -135,15 +102,37 @@
       "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z"
     },
     {
-      "job_id": "GWk9_47HGNPqIW6HAAAAAA==",
-      "job_title": "Compensation Analyst",
-      "employer_name": "California State University-Fullerton",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGt6UpRiLwxHA-d2Pu2-G5VX418Bo1kmC7-Tcr&s=0",
-      "job_city": "Fullerton",
+      "job_id": "3prqhmLFdqX8T-UpAAAAAA==",
+      "job_title": "HRIS Analyst III 5",
+      "employer_name": "Pivot Workforce",
+      "employer_logo": null,
+      "job_city": null,
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://www.jobzmall.com/california-state-university-fullerton/job/compensation-analyst-94?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-14T13:44:42.841883Z"
+      "job_apply_link": "https://www.jobilize.com/job/us-ca-all-cities-hris-analyst-iii-5-pivot-workforce-hiring-now-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z"
+    },
+    {
+      "job_id": "olgcNpsuSJQgiz7IAAAAAA==",
+      "job_title": "Senior HRIS Analyst- Workday Lead",
+      "employer_name": "Palo Alto Networks",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV9CpIUZzkR0i-0xyHsxAYM6ZnQsWMGhoVV9bk&s=0",
+      "job_city": "Santa Clara",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.jobzmall.com/palo-alto-networks/job/senior-hris-analyst-workday-lead?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-15T13:45:20.797883Z"
+    },
+    {
+      "job_id": "WC-1no27FXv7FhYiAAAAAA==",
+      "job_title": "Senior Total Rewards Analyst",
+      "employer_name": "VirtualVocations",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+      "job_city": "Riverside",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.talent.com/view?id=257f619b8486&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z"
     }
   ]
 }
