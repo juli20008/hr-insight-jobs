@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-02-28T13:36:41.083251",
+  "last_updated": "2026-03-01T13:38:56.090395",
   "total_jobs": 19,
   "jobs": [
     {
-      "job_id": "HBdLznfps9g9hKHvAAAAAA==",
-      "job_title": "hr analyst",
-      "employer_name": "HiringCafe",
+      "job_id": "PQZmZ2sQYTCAswpyAAAAAA==",
+      "job_title": "HR Data Analyst",
+      "employer_name": "Lawrence Livermore National Laboratory",
       "employer_logo": null,
-      "job_city": "Beverly Hills",
+      "job_city": "Livermore",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://hiring.cafe/jobs/hr-analyst/locations/beverly-hills-california?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-28T13:36:12.265169Z"
+      "job_apply_link": "https://www.learn4good.com/jobs/livermore/california/info_technology/4899438341/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-27T00:00:00.000Z"
     },
     {
       "job_id": "a0v3V4x7aw8Ul8NvAAAAAA==",
@@ -22,7 +22,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://hiring.cafe/jobs/hr-data-analyst/locations/california-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-28T13:36:12.265183Z"
+      "job_posted_at_datetime_utc": "2026-03-01T13:38:28.425209Z"
     },
     {
       "job_id": "7nwQv1vjc2l0gO3eAAAAAA==",
@@ -33,18 +33,29 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/stanford-university/job/senior-analyst-people-workforce-analytics?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-28T13:36:12.265187Z"
+      "job_posted_at_datetime_utc": "2026-03-01T13:38:28.425223Z"
     },
     {
-      "job_id": "MyhRSTsiXj6NTxIxAAAAAA==",
+      "job_id": "HBdLznfps9g9hKHvAAAAAA==",
+      "job_title": "hr analyst",
+      "employer_name": "HiringCafe",
+      "employer_logo": null,
+      "job_city": "Beverly Hills",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://hiring.cafe/jobs/hr-analyst/locations/beverly-hills-california?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-03-01T13:38:28.425227Z"
+    },
+    {
+      "job_id": "95f5d_l5U2ykrrdEAAAAAA==",
       "job_title": "hr data analyst",
       "employer_name": "HiringCafe",
       "employer_logo": null,
-      "job_city": "San Jose",
+      "job_city": "Livermore",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://hiring.cafe/jobs/hr-data-analyst/locations/san-jose-california?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-28T13:36:12.265191Z"
+      "job_apply_link": "https://hiring.cafe/jobs/hr-data-analyst/locations/livermore-california?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-03-01T13:38:28.425230Z"
     },
     {
       "job_id": "EzofDzrVgs-MJubMAAAAAA==",
@@ -58,17 +69,6 @@
       "job_posted_at_datetime_utc": "2026-02-16T00:00:00.000Z"
     },
     {
-      "job_id": "tT-BLrN8wKheTb1GAAAAAA==",
-      "job_title": "Senior HR Data Analyst",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Inglewood",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=581242555759341047&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-25T00:00:00.000Z"
-    },
-    {
       "job_id": "0n1uKLa-XHfjpxysAAAAAA==",
       "job_title": "Senior HR Data Analyst",
       "employer_name": "VirtualVocations",
@@ -77,6 +77,17 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.talent.com/view?id=537490749499911514&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-02-25T00:00:00.000Z"
+    },
+    {
+      "job_id": "tT-BLrN8wKheTb1GAAAAAA==",
+      "job_title": "Senior HR Data Analyst",
+      "employer_name": "VirtualVocations",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+      "job_city": "Inglewood",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.talent.com/view?id=581242555759341047&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "job_posted_at_datetime_utc": "2026-02-25T00:00:00.000Z"
     },
     {
@@ -99,7 +110,40 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://hiring.cafe/jobs/hris-analyst/locations/dublin-california?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-28T13:36:24.131029Z"
+      "job_posted_at_datetime_utc": "2026-03-01T13:38:45.880959Z"
+    },
+    {
+      "job_id": "G2mR4409QrcPCTDaAAAAAA==",
+      "job_title": "HR Systems Analyst",
+      "employer_name": "CHOC Children's Hospital",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCtP8fI6lJ7srDAfgqVV7F6OXEP3JqJe2TZEt&s=0",
+      "job_city": "Orange",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.jobzmall.com/choc-children-s-hospital/job/hr-systems-analyst-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-03-01T13:38:45.880972Z"
+    },
+    {
+      "job_id": "k4fMFm50qTEmRE_pAAAAAA==",
+      "job_title": "hris analyst",
+      "employer_name": "HiringCafe",
+      "employer_logo": null,
+      "job_city": "Diamond Bar",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://hiring.cafe/jobs/hris-analyst/locations/diamond-bar-california?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-03-01T13:38:45.880976Z"
+    },
+    {
+      "job_id": "YqUdjRPeRYczt0R9AAAAAA==",
+      "job_title": "Workday HRIS Analyst",
+      "employer_name": "Pacific Life Insurance",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzcn-2XsqL4VVfXj6wV2-XKx8NF26_julV73Qr&s=0",
+      "job_city": "Newport Beach",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.jobzmall.com/pacific-life-insurance/job/workday-hris-analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-03-01T13:38:45.880979Z"
     },
     {
       "job_id": "hkWFZ-bHiOTqBQxVAAAAAA==",
@@ -111,28 +155,6 @@
       "job_country": "US",
       "job_apply_link": "https://www.talent.com/view?id=565515610168297151&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "job_posted_at_datetime_utc": "2026-02-21T00:00:00.000Z"
-    },
-    {
-      "job_id": "k4fMFm50qTEmRE_pAAAAAA==",
-      "job_title": "hris analyst",
-      "employer_name": "HiringCafe",
-      "employer_logo": null,
-      "job_city": "Diamond Bar",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://hiring.cafe/jobs/hris-analyst/locations/diamond-bar-california?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-28T13:36:24.131044Z"
-    },
-    {
-      "job_id": "YqUdjRPeRYczt0R9AAAAAA==",
-      "job_title": "Workday HRIS Analyst",
-      "employer_name": "Pacific Life Insurance",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzcn-2XsqL4VVfXj6wV2-XKx8NF26_julV73Qr&s=0",
-      "job_city": "Newport Beach",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.jobzmall.com/pacific-life-insurance/job/workday-hris-analyst?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-28T13:36:24.131047Z"
     },
     {
       "job_id": "cZwzD_qAaQUGQX2YAAAAAA==",
@@ -154,7 +176,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/cedars-sinai-medical-center/job/hris-analyst-production-support-2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-28T13:36:24.131053Z"
+      "job_posted_at_datetime_utc": "2026-03-01T13:38:45.880987Z"
     },
     {
       "job_id": "NlaDPjVdQUAV8i9MAAAAAA==",
@@ -168,6 +190,17 @@
       "job_posted_at_datetime_utc": "2026-02-21T00:00:00.000Z"
     },
     {
+      "job_id": "qHVW9YsQ0RxwAbTWAAAAAA==",
+      "job_title": "Hris Analyst",
+      "employer_name": "HiringCafe",
+      "employer_logo": null,
+      "job_city": "Redwood City",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://hiring.cafe/jobs/hris-analyst/locations/redwood-city-california?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_posted_at_datetime_utc": "2026-03-01T13:38:45.880993Z"
+    },
+    {
       "job_id": "-DQ7H1OPhlafofTbAAAAAA==",
       "job_title": "HR Systems Analyst",
       "employer_name": "VirtualVocations",
@@ -177,39 +210,6 @@
       "job_country": "US",
       "job_apply_link": "https://www.talent.com/view?id=565515608892966591&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
       "job_posted_at_datetime_utc": "2026-02-21T00:00:00.000Z"
-    },
-    {
-      "job_id": "9C_5Qdl92SF82EXbAAAAAA==",
-      "job_title": "HRIS Analyst",
-      "employer_name": "Mercury Insurance",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_gZvOa8cPWYw1h5cYlJkS7NbcpeMbEWJ7-Ank&s=0",
-      "job_city": "Brea",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.jobzmall.com/mercury-insurance/job/hris-analyst-33?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-28T13:36:24.131060Z"
-    },
-    {
-      "job_id": "AdLyTW4dtibEFqeGAAAAAA==",
-      "job_title": "Human Resources Information System; HRIS Analyst; Business Systems Analyst II), Human Resource",
-      "employer_name": "Illinois CPA Society",
-      "employer_logo": null,
-      "job_city": "San Bernardino",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.learn4good.com/jobs/san-bernardino/california/hr_and_recruitment/4862431291/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z"
-    },
-    {
-      "job_id": "HA3gbS_4Cu4FvF98AAAAAA==",
-      "job_title": "Compensation Analyst",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Bell Gardens",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=72f7f6a793d3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-      "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z"
     }
   ]
 }
