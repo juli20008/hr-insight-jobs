@@ -1,38 +1,16 @@
 {
-  "last_updated": "2026-04-16T14:55:39.888008",
-  "total_jobs": 30,
+  "last_updated": "2026-04-17T14:20:13.703028",
+  "total_jobs": 29,
   "jobs": [
     {
-      "job_id": "4N1QA6i53-d0nwEJAAAAAA==",
+      "job_id": "ERu1ZpNFo7syXXuoAAAAAA==",
       "job_title": "Workforce Analytics Analyst",
       "employer_name": "VirtualVocations",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Garden Grove",
+      "job_city": "Long Beach",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=563592971363556071",
-      "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z"
-    },
-    {
-      "job_id": "6TQ7ta76GdBtlrfbAAAAAA==",
-      "job_title": "Workforce Analytics Analyst",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Whittier",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=563592729586572007",
-      "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z"
-    },
-    {
-      "job_id": "hmrNoJDTxfqFtQuOAAAAAA==",
-      "job_title": "Workforce Analytics Analyst",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Oceanside",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=563592593993112295",
+      "job_apply_link": "https://www.talent.com/view?id=563592587131296487",
       "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z"
     },
     {
@@ -47,25 +25,14 @@
       "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z"
     },
     {
-      "job_id": "ERu1ZpNFo7syXXuoAAAAAA==",
+      "job_id": "RnRB68Mv9WICYmZoAAAAAA==",
       "job_title": "Workforce Analytics Analyst",
       "employer_name": "VirtualVocations",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Long Beach",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=563592587131296487",
-      "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z"
-    },
-    {
-      "job_id": "s0My5uSiGY9fwLPDAAAAAA==",
-      "job_title": "Workforce Analytics Analyst",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "San Diego",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=563592776764103399",
+      "job_city": null,
+      "job_state": null,
+      "job_country": null,
+      "job_apply_link": "https://www.talent.com/view?id=563592611374832359",
       "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z"
     },
     {
@@ -91,14 +58,14 @@
       "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z"
     },
     {
-      "job_id": "fY1gkNW3PTvJrEkCAAAAAA==",
+      "job_id": "BBko8p0lxxOLw8ypAAAAAA==",
       "job_title": "Workforce Analytics Analyst",
       "employer_name": "VirtualVocations",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Costa Mesa",
+      "job_city": "Redding",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=563900307613157806",
+      "job_apply_link": "https://www.talent.com/view?id=563903089175170712",
       "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z"
     },
     {
@@ -113,10 +80,43 @@
       "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z"
     },
     {
+      "job_id": "INnuTnP0m0SL2-9rAAAAAA==",
+      "job_title": "Workforce Analytics Analyst",
+      "employer_name": "VirtualVocations",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+      "job_city": "Salinas",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.talent.com/view?id=563592817784593127",
+      "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z"
+    },
+    {
+      "job_id": "fY1gkNW3PTvJrEkCAAAAAA==",
+      "job_title": "Workforce Analytics Analyst",
+      "employer_name": "VirtualVocations",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+      "job_city": "Costa Mesa",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.talent.com/view?id=563900307613157806",
+      "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z"
+    },
+    {
+      "job_id": "r313LEpYhHBsGZekAAAAAA==",
+      "job_title": "Workforce Analytics Analyst",
+      "employer_name": "VirtualVocations",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+      "job_city": "Hayward",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.talent.com/view?id=563592793289792231",
+      "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z"
+    },
+    {
       "job_id": "p9Sic5w3DxNQmbTsAAAAAA==",
       "job_title": "HRIS Analyst Workday Carrollton, TX (+1 more locations)",
       "employer_name": "Southland Industries",
-      "employer_logo": null,
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://southlandind.com&size=128",
       "job_city": "Garden Grove",
       "job_state": "California",
       "job_country": "US",
@@ -132,7 +132,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/choc-children-s-hospital/job/hr-systems-analyst-1",
-      "job_posted_at_datetime_utc": "2026-04-16T14:55:15.195535Z"
+      "job_posted_at_datetime_utc": "2026-04-17T14:20:05.136162Z"
     },
     {
       "job_id": "YqUdjRPeRYczt0R9AAAAAA==",
@@ -143,18 +143,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/pacific-life-insurance/job/workday-hris-analyst",
-      "job_posted_at_datetime_utc": "2026-04-16T14:55:15.195549Z"
-    },
-    {
-      "job_id": "-2a7dyqOy9ZP_hTKAAAAAA==",
-      "job_title": "HR Systems Analyst",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Oakland",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=551527276957665776",
-      "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z"
+      "job_posted_at_datetime_utc": "2026-04-17T14:20:05.136179Z"
     },
     {
       "job_id": "F7cX-bHlw05qAE6JAAAAAA==",
@@ -168,6 +157,17 @@
       "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z"
     },
     {
+      "job_id": "Mz9WeE3rx5caZgCWAAAAAA==",
+      "job_title": "HR Systems Analyst",
+      "employer_name": "VirtualVocations",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+      "job_city": "Riverside",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.talent.com/view?id=562348220114608527",
+      "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z"
+    },
+    {
       "job_id": "w0_fYD-60Nz0ZAFoAAAAAA==",
       "job_title": "HRIS Analyst - Production Support",
       "employer_name": "Cedars-Sinai Medical Center",
@@ -176,7 +176,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/cedars-sinai-medical-center/job/hris-analyst-production-support-2",
-      "job_posted_at_datetime_utc": "2026-04-16T14:55:15.195556Z"
+      "job_posted_at_datetime_utc": "2026-04-17T14:20:05.136189Z"
     },
     {
       "job_id": "ffiKXAlHigG_zyh1AAAAAA==",
@@ -190,24 +190,13 @@
       "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z"
     },
     {
-      "job_id": "paXhNEMWixmsI4EUAAAAAA==",
-      "job_title": "Sr HRIS Analyst",
-      "employer_name": "Delta Electronics Americas",
-      "employer_logo": null,
-      "job_city": "Fremont",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.learn4good.com/jobs/fremont/california/hr_and_recruitment/5015225876/e/",
-      "job_posted_at_datetime_utc": "2026-04-11T00:00:00.000Z"
-    },
-    {
       "job_id": "Icq3SuAIYUfVMW4mAAAAAA==",
       "job_title": "Contract Workday HRIS Analyst — SF/MTV, CA",
       "employer_name": "US IT Solutions Inc",
       "employer_logo": null,
-      "job_city": null,
-      "job_state": null,
-      "job_country": null,
+      "job_city": "San Francisco",
+      "job_state": "California",
+      "job_country": "US",
       "job_apply_link": "https://www.talent.com/view?id=611274086815113633",
       "job_posted_at_datetime_utc": "2026-03-18T00:00:00.000Z"
     },
@@ -220,29 +209,29 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/spacex/job/hris-analyst-31",
-      "job_posted_at_datetime_utc": "2026-04-16T14:55:15.195570Z"
+      "job_posted_at_datetime_utc": "2026-04-17T14:20:05.136203Z"
     },
     {
-      "job_id": "-LyS5QkrLY9Ly3WVAAAAAA==",
-      "job_title": "Compensation Analyst I",
-      "employer_name": "San Manuel",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNJZMG1hchRtQ-29p6K6N68jigd0cdzGL281RU&s=0",
-      "job_city": "Highland",
+      "job_id": "paXhNEMWixmsI4EUAAAAAA==",
+      "job_title": "Sr HRIS Analyst",
+      "employer_name": "Delta Electronics Americas",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://delta-americas.com&size=128",
+      "job_city": "Fremont",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://www.sanmanuelcareers.com/job/R0016581/Compensation-Analyst-I",
-      "job_posted_at_datetime_utc": "2026-04-16T14:55:38.886886Z"
+      "job_apply_link": "https://www.learn4good.com/jobs/fremont/california/hr_and_recruitment/5015225876/e/",
+      "job_posted_at_datetime_utc": "2026-04-11T00:00:00.000Z"
     },
     {
-      "job_id": "LO-E0HLcptu7q2YLAAAAAA==",
+      "job_id": "MRuQgXehAmJOpqZEAAAAAA==",
       "job_title": "Total Rewards Analyst",
-      "employer_name": "Atlas Corp",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBvo4SoICcdk68WiuTuNeOGURP62hPk9TF-Th&s=0",
-      "job_city": null,
-      "job_state": null,
-      "job_country": null,
-      "job_apply_link": "https://www.talent.com/view?id=613818118356803376",
-      "job_posted_at_datetime_utc": "2026-04-05T00:00:00.000Z"
+      "employer_name": "VirtualVocations",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+      "job_city": "Fontana",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.talent.com/view?id=545571946224886569",
+      "job_posted_at_datetime_utc": "2026-04-02T00:00:00.000Z"
     },
     {
       "job_id": "W8XhFN52m69w3fNbAAAAAA==",
@@ -256,15 +245,15 @@
       "job_posted_at_datetime_utc": "2026-03-26T00:00:00.000Z"
     },
     {
-      "job_id": "MRuQgXehAmJOpqZEAAAAAA==",
-      "job_title": "Total Rewards Analyst",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Fontana",
+      "job_id": "-LyS5QkrLY9Ly3WVAAAAAA==",
+      "job_title": "Compensation Analyst I",
+      "employer_name": "San Manuel",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sanmanuelcareers.com&size=128",
+      "job_city": "Highland",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=545571946224886569",
-      "job_posted_at_datetime_utc": "2026-04-02T00:00:00.000Z"
+      "job_apply_link": "https://www.sanmanuelcareers.com/job/R0016581/Compensation-Analyst-I",
+      "job_posted_at_datetime_utc": "2026-04-17T14:20:12.701898Z"
     },
     {
       "job_id": "01Foin_ok_HoVU4WAAAAAA==",
@@ -286,28 +275,17 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/california-state-university-fullerton/job/compensation-analyst-94",
-      "job_posted_at_datetime_utc": "2026-04-16T14:55:38.886905Z"
+      "job_posted_at_datetime_utc": "2026-04-17T14:20:12.701913Z"
     },
     {
-      "job_id": "K5vPgOwm3x9zr1wsAAAAAA==",
+      "job_id": "KvSrz8a11O6M3alWAAAAAA==",
       "job_title": "Senior Compensation Analyst",
       "employer_name": "VirtualVocations",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Redding",
+      "job_city": "Costa Mesa",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=534739560318831800",
-      "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z"
-    },
-    {
-      "job_id": "cMWZHDAlZZ4dUMUPAAAAAA==",
-      "job_title": "Senior Compensation Analyst",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Mission Viejo",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=544703320896579207",
+      "job_apply_link": "https://www.talent.com/view?id=538195920453248728",
       "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z"
     },
     {
@@ -322,14 +300,25 @@
       "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z"
     },
     {
-      "job_id": "CFuLCbzcf6ZFmWYkAAAAAA==",
+      "job_id": "WAsb9osymu0OTxaGAAAAAA==",
       "job_title": "Senior Compensation Analyst",
       "employer_name": "VirtualVocations",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Moreno Valley",
+      "job_city": "Fontana",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=537629607554263363",
+      "job_apply_link": "https://www.talent.com/view?id=537339745967877154",
+      "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "job_id": "GOSaNnf5lKxle-slAAAAAA==",
+      "job_title": "Senior Compensation Analyst",
+      "employer_name": "VirtualVocations",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+      "job_city": "Orange",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.talent.com/view?id=537800757605771338",
       "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z"
     }
   ]
