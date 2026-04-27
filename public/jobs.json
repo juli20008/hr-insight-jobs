@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T14:04:20.617763",
+  "last_updated": "2026-04-27T15:07:12.047499",
   "total_jobs": 30,
   "jobs": [
     {
@@ -11,28 +11,6 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.talent.com/view?id=563900307613157806",
-      "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z"
-    },
-    {
-      "job_id": "YQCNZ1z5rXJcSDUwAAAAAA==",
-      "job_title": "Workforce Analytics Analyst",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Visalia",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=563592762067458791",
-      "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z"
-    },
-    {
-      "job_id": "7fFfIyTXYn0jscQiAAAAAA==",
-      "job_title": "Workforce Analytics Analyst",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Stockton",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=563592312824011495",
       "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z"
     },
     {
@@ -69,17 +47,6 @@
       "job_posted_at_datetime_utc": "2026-04-23T00:00:00.000Z"
     },
     {
-      "job_id": "7nwQv1vjc2l0gO3eAAAAAA==",
-      "job_title": "Senior Analyst - People/Workforce Analytics",
-      "employer_name": "Stanford University",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT85OpxupI9nXdqdopQMC1JnwOA1QjXa_qlrAGn&s=0",
-      "job_city": "Stanford",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.jobzmall.com/stanford-university/job/senior-analyst-people-workforce-analytics",
-      "job_posted_at_datetime_utc": "2026-04-26T14:03:50.380689Z"
-    },
-    {
       "job_id": "Qk_O8AGTxnsN4DA3AAAAAA==",
       "job_title": "Workforce Planning Data Analytics Lead",
       "employer_name": "VirtualVocations",
@@ -91,15 +58,26 @@
       "job_posted_at_datetime_utc": "2026-04-23T00:00:00.000Z"
     },
     {
-      "job_id": "36EaCHcYBPhhw9-hAAAAAA==",
-      "job_title": "Strategic HRBP Operations & Workforce Analytics",
-      "employer_name": "UniUni",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://uniuni.com&size=128",
-      "job_city": "Brea",
+      "job_id": "7nwQv1vjc2l0gO3eAAAAAA==",
+      "job_title": "Senior Analyst - People/Workforce Analytics",
+      "employer_name": "Stanford University",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT85OpxupI9nXdqdopQMC1JnwOA1QjXa_qlrAGn&s=0",
+      "job_city": "Stanford",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://www.learn4good.com/jobs/brea/california/hr_and_recruitment/5014234001/e/",
-      "job_posted_at_datetime_utc": "2026-04-11T00:00:00.000Z"
+      "job_apply_link": "https://www.jobzmall.com/stanford-university/job/senior-analyst-people-workforce-analytics",
+      "job_posted_at_datetime_utc": "2026-04-27T15:06:55.804485Z"
+    },
+    {
+      "job_id": "PVVlODman-gFc5_oAAAAAA==",
+      "job_title": "HR Data Analyst: Shape People & Culture Insights",
+      "employer_name": "Google DeepMind",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJnw9EGEmcelHpCEyIdv9pMd7Vw5XU0w_N5e0e&s=0",
+      "job_city": "Mountain View",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.learn4good.com/jobs/mountain-view/california/hr_and_recruitment/5037194482/e/",
+      "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z"
     },
     {
       "job_id": "4G3wOW6uAHgIZQ99AAAAAA==",
@@ -111,6 +89,28 @@
       "job_country": "US",
       "job_apply_link": "https://www.learn4good.com/jobs/san-francisco/california/hr_and_recruitment/5044232049/e/",
       "job_posted_at_datetime_utc": "2026-04-19T00:00:00.000Z"
+    },
+    {
+      "job_id": "dBaODAOJdvsWssXiAAAAAA==",
+      "job_title": "HR Technology and AI Analyst",
+      "employer_name": "Virtual Vocations Inc",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://virtualvocations.com&size=128",
+      "job_city": "Costa Mesa",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.talent.com/view?id=614971415751885524",
+      "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z"
+    },
+    {
+      "job_id": "L_DNyQDJA4SDYhFlAAAAAA==",
+      "job_title": "Manager, Analytics",
+      "employer_name": "The Guitar Center Company",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcruYNTX_M9flmi-iqyEoYDpIOVdX3GPilwMKf&s=0",
+      "job_city": "Westlake Village",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.learn4good.com/jobs/california/info_technology/5020828691/e/",
+      "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z"
     },
     {
       "job_id": "F0ObCc1MwwTYntk4AAAAAA==",
@@ -135,14 +135,14 @@
       "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z"
     },
     {
-      "job_id": "oHpTA_2D0Vm9A36NAAAAAA==",
+      "job_id": "czUzLasTQqUGGTFtAAAAAA==",
       "job_title": "HRIS Analyst - Workday Talent",
       "employer_name": "VirtualVocations",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Hayward",
+      "job_city": "Downey",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=616214158520887145",
+      "job_apply_link": "https://www.talent.com/view?id=616214180308461417",
       "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z"
     },
     {
@@ -157,14 +157,14 @@
       "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z"
     },
     {
-      "job_id": "czUzLasTQqUGGTFtAAAAAA==",
+      "job_id": "oHpTA_2D0Vm9A36NAAAAAA==",
       "job_title": "HRIS Analyst - Workday Talent",
       "employer_name": "VirtualVocations",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Downey",
+      "job_city": "Hayward",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=616214180308461417",
+      "job_apply_link": "https://www.talent.com/view?id=616214158520887145",
       "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z"
     },
     {
@@ -190,17 +190,6 @@
       "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z"
     },
     {
-      "job_id": "3lypLGe8wFkDrjoXAAAAAA==",
-      "job_title": "HRIS Analyst - Workday Talent",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "San Bernardino",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=616214157706733417",
-      "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z"
-    },
-    {
       "job_id": "vUg6qM7LH3gjKIJXAAAAAA==",
       "job_title": "HRIS Analyst, Workday",
       "employer_name": "Fivetran",
@@ -220,7 +209,29 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/choc-children-s-hospital/job/hr-systems-analyst-1",
-      "job_posted_at_datetime_utc": "2026-04-26T14:04:09.782176Z"
+      "job_posted_at_datetime_utc": "2026-04-27T15:07:03.668100Z"
+    },
+    {
+      "job_id": "3lypLGe8wFkDrjoXAAAAAA==",
+      "job_title": "HRIS Analyst - Workday Talent",
+      "employer_name": "VirtualVocations",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+      "job_city": "San Bernardino",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.talent.com/view?id=616214157706733417",
+      "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z"
+    },
+    {
+      "job_id": "MqLQJg6XnjnUIAgnAAAAAA==",
+      "job_title": "Total Rewards Analyst",
+      "employer_name": "Alameda Health System",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://alamedahealthsystem.org&size=128",
+      "job_city": "Danville",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://jobs.womenforhire.com/job/usa/danville-ca/total-rewards-analyst-708491/",
+      "job_posted_at_datetime_utc": "2026-04-27T03:00:00.000Z"
     },
     {
       "job_id": "kXIJtZaaM35LQgUFAAAAAA==",
@@ -234,6 +245,17 @@
       "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z"
     },
     {
+      "job_id": "EZw8964QnINDD37NAAAAAA==",
+      "job_title": "Compensation Analyst",
+      "employer_name": "Cypress HCM",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTplTdE6pxC7GoxVzvB345tyEhGxiCwHXm4rWMb&s=0",
+      "job_city": "Santa Clara",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.ziprecruiter.com/c/Cypress-HCM/Job/Compensation-Analyst/-in-Santa-Clara,CA?jid=44a3e7a224bf0c47",
+      "job_posted_at_datetime_utc": "2026-04-27T15:07:11.046404Z"
+    },
+    {
       "job_id": "uIOrTyfucVDuqHFMAAAAAA==",
       "job_title": "Compensation Analyst, HR​/Recruitment",
       "employer_name": "Apple Inc.",
@@ -245,28 +267,6 @@
       "job_posted_at_datetime_utc": "2026-04-20T00:00:00.000Z"
     },
     {
-      "job_id": "EZw8964QnINDD37NAAAAAA==",
-      "job_title": "Compensation Analyst",
-      "employer_name": "Cypress HCM",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTplTdE6pxC7GoxVzvB345tyEhGxiCwHXm4rWMb&s=0",
-      "job_city": "Santa Clara",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.ziprecruiter.com/c/Cypress-HCM/Job/Compensation-Analyst/-in-Santa-Clara,CA?jid=44a3e7a224bf0c47",
-      "job_posted_at_datetime_utc": "2026-04-26T14:04:19.616634Z"
-    },
-    {
-      "job_id": "z7looCzBImgUXd1BAAAAAA==",
-      "job_title": "Compensation Analyst, HR​/Recruitment",
-      "employer_name": "American Association for Public Opinion Research",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu3ZxtydNC7KiogfSo3GUbFEMwlmr1jcmKEeKq&s=0",
-      "job_city": "Oakland",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.learn4good.com/jobs/oakland/california/hr_and_recruitment/5047193013/e/",
-      "job_posted_at_datetime_utc": "2026-04-21T00:00:00.000Z"
-    },
-    {
       "job_id": "zdDDG9nAx5JPO-8qAAAAAA==",
       "job_title": "Sr. Compensation Analyst",
       "employer_name": "Southwest Healthcare System",
@@ -275,7 +275,18 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.talent.com/view?id=c51c018a57e6",
-      "job_posted_at_datetime_utc": "2026-04-26T14:04:19.616655Z"
+      "job_posted_at_datetime_utc": "2026-04-27T15:07:11.046419Z"
+    },
+    {
+      "job_id": "GWk9_47HGNPqIW6HAAAAAA==",
+      "job_title": "Compensation Analyst",
+      "employer_name": "California State University-Fullerton",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGt6UpRiLwxHA-d2Pu2-G5VX418Bo1kmC7-Tcr&s=0",
+      "job_city": "Fullerton",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.jobzmall.com/california-state-university-fullerton/job/compensation-analyst-94",
+      "job_posted_at_datetime_utc": "2026-04-27T15:07:11.046422Z"
     },
     {
       "job_id": "gHIvlNXAraJM7IjxAAAAAA==",
@@ -289,17 +300,6 @@
       "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z"
     },
     {
-      "job_id": "GWk9_47HGNPqIW6HAAAAAA==",
-      "job_title": "Compensation Analyst",
-      "employer_name": "California State University-Fullerton",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGt6UpRiLwxHA-d2Pu2-G5VX418Bo1kmC7-Tcr&s=0",
-      "job_city": "Fullerton",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.jobzmall.com/california-state-university-fullerton/job/compensation-analyst-94",
-      "job_posted_at_datetime_utc": "2026-04-26T14:04:19.616662Z"
-    },
-    {
       "job_id": "_HyokQErfPVk0xuPAAAAAA==",
       "job_title": "HR Compensation Analyst 5",
       "employer_name": "Identified Talent Solutions",
@@ -311,14 +311,14 @@
       "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z"
     },
     {
-      "job_id": "rpyPoFo2ReaO0sQDAAAAAA==",
-      "job_title": "Hybrid Compensation Analyst Analytics",
+      "job_id": "z7looCzBImgUXd1BAAAAAA==",
+      "job_title": "Compensation Analyst, HR​/Recruitment",
       "employer_name": "American Association for Public Opinion Research",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu3ZxtydNC7KiogfSo3GUbFEMwlmr1jcmKEeKq&s=0",
       "job_city": "Oakland",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://www.learn4good.com/jobs/oakland/california/hr_and_recruitment/5047166506/e/",
+      "job_apply_link": "https://www.learn4good.com/jobs/oakland/california/hr_and_recruitment/5047193013/e/",
       "job_posted_at_datetime_utc": "2026-04-21T00:00:00.000Z"
     },
     {
