@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-28T15:26:21.321760",
-  "total_jobs": 28,
+  "last_updated": "2026-04-29T15:13:00.434586",
+  "total_jobs": 19,
   "jobs": [
     {
       "job_id": "8BHCvUzH_dbMwIW0AAAAAA==",
@@ -14,17 +14,6 @@
       "job_posted_at_datetime_utc": "2026-04-21T00:00:00.000Z"
     },
     {
-      "job_id": "y1PE5APMkwPbTo4hAAAAAA==",
-      "job_title": "Workforce Planning Data Analytics Lead",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Pasadena",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=616450505298157496",
-      "job_posted_at_datetime_utc": "2026-04-23T00:00:00.000Z"
-    },
-    {
       "job_id": "oJz6uUoeSt6grskNAAAAAA==",
       "job_title": "Workforce Planning Data Analytics Lead",
       "employer_name": "VirtualVocations",
@@ -33,6 +22,17 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.talent.com/view?id=616450476640116664",
+      "job_posted_at_datetime_utc": "2026-04-23T00:00:00.000Z"
+    },
+    {
+      "job_id": "y1PE5APMkwPbTo4hAAAAAA==",
+      "job_title": "Workforce Planning Data Analytics Lead",
+      "employer_name": "VirtualVocations",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+      "job_city": "Pasadena",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.talent.com/view?id=616450505298157496",
       "job_posted_at_datetime_utc": "2026-04-23T00:00:00.000Z"
     },
     {
@@ -66,18 +66,29 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/stanford-university/job/senior-analyst-people-workforce-analytics",
-      "job_posted_at_datetime_utc": "2026-04-28T15:26:06.234306Z"
+      "job_posted_at_datetime_utc": "2026-04-29T15:12:12.263330Z"
     },
     {
-      "job_id": "PVVlODman-gFc5_oAAAAAA==",
-      "job_title": "HR Data Analyst: Shape People & Culture Insights",
-      "employer_name": "Google DeepMind",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJnw9EGEmcelHpCEyIdv9pMd7Vw5XU0w_N5e0e&s=0",
-      "job_city": "Mountain View",
+      "job_id": "t7pttwFUCdsS7z9CAAAAAA==",
+      "job_title": "HRIS Analyst - Workday Talent",
+      "employer_name": "VirtualVocations",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+      "job_city": "Oxnard",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://www.learn4good.com/jobs/mountain-view/california/hr_and_recruitment/5037194482/e/",
-      "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z"
+      "job_apply_link": "https://www.talent.com/view?id=616214195252307817",
+      "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z"
+    },
+    {
+      "job_id": "QwQeHm8dmsO23uoRAAAAAA==",
+      "job_title": "Principal Workplace Analytics",
+      "employer_name": "VirtualVocations",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+      "job_city": "Oxnard",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.talent.com/view?id=617073329466381184",
+      "job_posted_at_datetime_utc": "2026-04-27T00:00:00.000Z"
     },
     {
       "job_id": "L_DNyQDJA4SDYhFlAAAAAA==",
@@ -89,116 +100,6 @@
       "job_country": "US",
       "job_apply_link": "https://www.learn4good.com/jobs/california/info_technology/5020828691/e/",
       "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z"
-    },
-    {
-      "job_id": "F0ObCc1MwwTYntk4AAAAAA==",
-      "job_title": "HRIS Analyst - Workday Talent",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Irvine",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=616214146793351017",
-      "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z"
-    },
-    {
-      "job_id": "OSv1qpVw71WUsjZUAAAAAA==",
-      "job_title": "HRIS Analyst - Workday Talent",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Whittier",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=616214187619460969",
-      "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z"
-    },
-    {
-      "job_id": "czUzLasTQqUGGTFtAAAAAA==",
-      "job_title": "HRIS Analyst - Workday Talent",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Downey",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=616214180308461417",
-      "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z"
-    },
-    {
-      "job_id": "oHpTA_2D0Vm9A36NAAAAAA==",
-      "job_title": "HRIS Analyst - Workday Talent",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Hayward",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=616214158520887145",
-      "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z"
-    },
-    {
-      "job_id": "aCLbzss1OkOlHY8DAAAAAA==",
-      "job_title": "HRIS Analyst - Workday Talent",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Sunnyvale",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=616214145832200041",
-      "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z"
-    },
-    {
-      "job_id": "Xz-aH5xgFH8jaZ7eAAAAAA==",
-      "job_title": "HRIS Analyst - Workday Talent",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Fontana",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=616214161143375721",
-      "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z"
-    },
-    {
-      "job_id": "6xMYka8lW0A0uF7tAAAAAA==",
-      "job_title": "HRIS Analyst - Workday Talent",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Santa Ana",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=616214173872498537",
-      "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z"
-    },
-    {
-      "job_id": "vUg6qM7LH3gjKIJXAAAAAA==",
-      "job_title": "HRIS Analyst, Workday",
-      "employer_name": "Fivetran",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://fivetran.com&size=128",
-      "job_city": "Oakland",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://jobs.hireheroesusa.org/jobs/521796060-hris-analyst-workday-at-fivetran",
-      "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z"
-    },
-    {
-      "job_id": "G2mR4409QrcPCTDaAAAAAA==",
-      "job_title": "HR Systems Analyst",
-      "employer_name": "CHOC Children's Hospital",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCtP8fI6lJ7srDAfgqVV7F6OXEP3JqJe2TZEt&s=0",
-      "job_city": "Orange",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.jobzmall.com/choc-children-s-hospital/job/hr-systems-analyst-1",
-      "job_posted_at_datetime_utc": "2026-04-28T15:26:13.554955Z"
-    },
-    {
-      "job_id": "3lypLGe8wFkDrjoXAAAAAA==",
-      "job_title": "HRIS Analyst - Workday Talent",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "San Bernardino",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=616214157706733417",
-      "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z"
     },
     {
       "job_id": "jiWYq1pwlpwUpq7LAAAAAA==",
@@ -223,17 +124,6 @@
       "job_posted_at_datetime_utc": "2026-04-26T00:00:00.000Z"
     },
     {
-      "job_id": "c13DOgDQseedlNClAAAAAA==",
-      "job_title": "Total Rewards Analyst",
-      "employer_name": "Alameda Health System",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://alamedahealthsystem.org&size=128",
-      "job_city": "San Mateo",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://jobs.womenforhire.com/job/usa/san-mateo-ca/total-rewards-analyst-832486/",
-      "job_posted_at_datetime_utc": "2026-04-26T00:00:00.000Z"
-    },
-    {
       "job_id": "Oqrr25S9fuSKtmQBAAAAAA==",
       "job_title": "Workday Compensation Analyst",
       "employer_name": "VirtualVocations",
@@ -243,6 +133,17 @@
       "job_country": "US",
       "job_apply_link": "https://www.talent.com/view?id=617061935254344357",
       "job_posted_at_datetime_utc": "2026-04-26T00:00:00.000Z"
+    },
+    {
+      "job_id": "MqLQJg6XnjnUIAgnAAAAAA==",
+      "job_title": "Total Rewards Analyst",
+      "employer_name": "Alameda Health System",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://alamedahealthsystem.org&size=128",
+      "job_city": "Danville",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://jobs.womenforhire.com/job/usa/danville-ca/total-rewards-analyst-708491/",
+      "job_posted_at_datetime_utc": "2026-04-27T00:00:00.000Z"
     },
     {
       "job_id": "dA_muWuB7OvUMk-DAAAAAA==",
@@ -275,7 +176,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.ziprecruiter.com/c/Cypress-HCM/Job/Compensation-Analyst/-in-Santa-Clara,CA?jid=44a3e7a224bf0c47",
-      "job_posted_at_datetime_utc": "2026-04-28T15:26:20.320597Z"
+      "job_posted_at_datetime_utc": "2026-04-29T15:12:59.433480Z"
     },
     {
       "job_id": "xctgZOthunpnL2YqAAAAAA==",
@@ -289,17 +190,6 @@
       "job_posted_at_datetime_utc": "2026-04-26T00:00:00.000Z"
     },
     {
-      "job_id": "mfLm4pnNQEayMi-iAAAAAA==",
-      "job_title": "Workday Compensation Analyst",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Glendale",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=586840066045379474",
-      "job_posted_at_datetime_utc": "2026-04-26T00:00:00.000Z"
-    },
-    {
       "job_id": "uIOrTyfucVDuqHFMAAAAAA==",
       "job_title": "Compensation Analyst, HR​/Recruitment",
       "employer_name": "Apple Inc.",
@@ -309,6 +199,17 @@
       "job_country": "US",
       "job_apply_link": "https://www.learn4good.com/jobs/cupertino/california/hr_and_recruitment/5046155038/e/",
       "job_posted_at_datetime_utc": "2026-04-20T00:00:00.000Z"
+    },
+    {
+      "job_id": "mfLm4pnNQEayMi-iAAAAAA==",
+      "job_title": "Workday Compensation Analyst",
+      "employer_name": "VirtualVocations",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+      "job_city": null,
+      "job_state": null,
+      "job_country": null,
+      "job_apply_link": "https://www.talent.com/view?id=586840066045379474",
+      "job_posted_at_datetime_utc": "2026-04-26T00:00:00.000Z"
     }
   ]
 }
