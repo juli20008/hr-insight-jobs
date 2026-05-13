@@ -1,7 +1,18 @@
 {
-  "last_updated": "2026-05-12T15:38:54.908720",
-  "total_jobs": 24,
+  "last_updated": "2026-05-13T15:42:06.718031",
+  "total_jobs": 23,
   "jobs": [
+    {
+      "job_id": "u3ky1S-PmJWOcP7hAAAAAA==",
+      "job_title": "People Analytics Consultant",
+      "employer_name": "VirtualVocations",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+      "job_city": "Downey",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.talent.com/view?id=545399891092312176",
+      "job_posted_at_datetime_utc": "2026-05-11T00:00:00.000Z"
+    },
     {
       "job_id": "60b5-jpssONrzapLAAAAAA==",
       "job_title": "People Analytics Specialist",
@@ -25,17 +36,6 @@
       "job_posted_at_datetime_utc": "2026-05-06T00:00:00.000Z"
     },
     {
-      "job_id": "6o8OZitEqo3TJpn-AAAAAA==",
-      "job_title": "Workforce Forecasting Analyst",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": null,
-      "job_state": null,
-      "job_country": null,
-      "job_apply_link": "https://www.talent.com/view?id=617972186902633211",
-      "job_posted_at_datetime_utc": "2026-05-04T00:00:00.000Z"
-    },
-    {
       "job_id": "cZwzD_qAaQUGQX2YAAAAAA==",
       "job_title": "Senior HR Systems Analyst",
       "employer_name": "VirtualVocations",
@@ -45,6 +45,17 @@
       "job_country": "US",
       "job_apply_link": "https://www.talent.com/view?id=537058732295857554",
       "job_posted_at_datetime_utc": "2026-04-30T00:00:00.000Z"
+    },
+    {
+      "job_id": "6j4hQoI3E0JII9FTAAAAAA==",
+      "job_title": "Data Analyst: Drive Talent Strategy & Analytics",
+      "employer_name": "Chaos, Inc.",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://chaosinc.com&size=128",
+      "job_city": "Hawthorne",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.learn4good.com/jobs/hawthorne/california/info_technology/5034525352/e/",
+      "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z"
     },
     {
       "job_id": "85oEXeo5uEIu2lT7AAAAAA==",
@@ -69,14 +80,14 @@
       "job_posted_at_datetime_utc": "2026-04-28T00:00:00.000Z"
     },
     {
-      "job_id": "xmauWDvkfd2lHnNWAAAAAA==",
+      "job_id": "A6PEHXDEc8YSXPzzAAAAAA==",
       "job_title": "HRIS Analyst, Rewards",
       "employer_name": "VirtualVocations",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Downey",
+      "job_city": "Whittier",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=618470814349006297",
+      "job_apply_link": "https://www.talent.com/view?id=618470839568963033",
       "job_posted_at_datetime_utc": "2026-05-06T00:00:00.000Z"
     },
     {
@@ -88,7 +99,18 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/pacific-life-insurance/job/workday-hris-analyst",
-      "job_posted_at_datetime_utc": "2026-05-12T15:38:45.113841Z"
+      "job_posted_at_datetime_utc": "2026-05-13T15:41:53.681628Z"
+    },
+    {
+      "job_id": "G2mR4409QrcPCTDaAAAAAA==",
+      "job_title": "HR Systems Analyst",
+      "employer_name": "CHOC Children's Hospital",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCtP8fI6lJ7srDAfgqVV7F6OXEP3JqJe2TZEt&s=0",
+      "job_city": "Orange",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.jobzmall.com/choc-children-s-hospital/job/hr-systems-analyst-1",
+      "job_posted_at_datetime_utc": "2026-05-13T15:41:53.681642Z"
     },
     {
       "job_id": "Qb_bOKrcu-Kp_XWlAAAAAA==",
@@ -102,17 +124,6 @@
       "job_posted_at_datetime_utc": "2026-05-10T00:00:00.000Z"
     },
     {
-      "job_id": "G2mR4409QrcPCTDaAAAAAA==",
-      "job_title": "HR Systems Analyst",
-      "employer_name": "CHOC Children's Hospital",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCtP8fI6lJ7srDAfgqVV7F6OXEP3JqJe2TZEt&s=0",
-      "job_city": "Orange",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.jobzmall.com/choc-children-s-hospital/job/hr-systems-analyst-1",
-      "job_posted_at_datetime_utc": "2026-05-12T15:38:45.113857Z"
-    },
-    {
       "job_id": "pr6PZ9aT2ekSOm0rAAAAAA==",
       "job_title": "Senior Workday HRIS Analyst",
       "employer_name": "California Water Service Group",
@@ -122,6 +133,17 @@
       "job_country": "US",
       "job_apply_link": "https://simplify.jobs/p/dd086a3b-fe65-48e6-818a-84fcc048857e/Senior-Workday-HRIS-Analyst",
       "job_posted_at_datetime_utc": "2026-05-09T00:00:00.000Z"
+    },
+    {
+      "job_id": "xh9MX0h36rWNBhFHAAAAAA==",
+      "job_title": "Senior HRIS Analyst Consultant",
+      "employer_name": "VirtualVocations",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+      "job_city": "Downey",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.talent.com/view?id=618883572633705570",
+      "job_posted_at_datetime_utc": "2026-05-10T00:00:00.000Z"
     },
     {
       "job_id": "C2xYjSeI-jkH7fnEAAAAAA==",
@@ -135,26 +157,15 @@
       "job_posted_at_datetime_utc": "2026-05-06T00:00:00.000Z"
     },
     {
-      "job_id": "kuSFYoGw67kOIxExAAAAAA==",
-      "job_title": "HRIS Analyst, Rewards",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Hayward",
+      "job_id": "Y9O9dDBi2NA6098UAAAAAA==",
+      "job_title": "HRIS Analyst III - Time at RadNet Los Angeles California",
+      "employer_name": "RadNet Los Angeles",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://radnet.com&size=128",
+      "job_city": null,
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=618470808259401177",
-      "job_posted_at_datetime_utc": "2026-05-06T00:00:00.000Z"
-    },
-    {
-      "job_id": "Icq3SuAIYUfVMW4mAAAAAA==",
-      "job_title": "Contract Workday HRIS Analyst — SF/MTV, CA",
-      "employer_name": "US IT Solutions Inc",
-      "employer_logo": null,
-      "job_city": null,
-      "job_state": null,
-      "job_country": null,
-      "job_apply_link": "https://www.talent.com/view?id=611274086815113633",
-      "job_posted_at_datetime_utc": "2026-05-12T15:38:45.113871Z"
+      "job_apply_link": "https://blackfostercarersalliance.co.uk/wp-job/job/hris-analyst-iii-time-at-radnet-los-angeles-california-ZkpTQnRZYlplVmQxSkJVWG1nQWF2cENEUlE9PQ==",
+      "job_posted_at_datetime_utc": "2026-04-17T00:00:00.000Z"
     },
     {
       "job_id": "GgRs6tvXkxTZvwkWAAAAAA==",
@@ -179,26 +190,26 @@
       "job_posted_at_datetime_utc": "2026-05-06T00:00:00.000Z"
     },
     {
-      "job_id": "c13DOgDQseedlNClAAAAAA==",
+      "job_id": "943gKsqvBZTq1uxBAAAAAA==",
       "job_title": "Total Rewards Analyst",
       "employer_name": "Alameda Health System",
       "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://alamedahealthsystem.org&size=128",
-      "job_city": "San Mateo",
+      "job_city": "Hayward",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://jobs.womenforhire.com/job/usa/san-mateo-ca/total-rewards-analyst-828844/",
+      "job_apply_link": "https://jobs.womenforhire.com/job/usa/hayward-ca/total-rewards-analyst-059552/",
       "job_posted_at_datetime_utc": "2026-05-10T00:00:00.000Z"
     },
     {
-      "job_id": "JVr0KDG9CpdYxjtMAAAAAA==",
+      "job_id": "T3_bPzD7nR9PC-o4AAAAAA==",
       "job_title": "Compensation Analyst",
-      "employer_name": "Cypress HCM",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTplTdE6pxC7GoxVzvB345tyEhGxiCwHXm4rWMb&s=0",
-      "job_city": "Santa Clara",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.ziprecruiter.com/c/Cypress-HCM/Job/Compensation-Analyst/-in-Santa-Clara,CA?jid=44a3e7a224bf0c47",
-      "job_posted_at_datetime_utc": "2026-05-12T15:38:53.907571Z"
+      "employer_name": "Aya Healthcare",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtsSHrO3boe4wgiYkebrEEXfZlzF_XLLfvkHau&s=0",
+      "job_city": null,
+      "job_state": null,
+      "job_country": null,
+      "job_apply_link": "https://www.talent.com/view?id=615315691352233354",
+      "job_posted_at_datetime_utc": "2026-04-15T00:00:00.000Z"
     },
     {
       "job_id": "7HKTLpMlz1E5GkQDAAAAAA==",
@@ -212,26 +223,15 @@
       "job_posted_at_datetime_utc": "2026-05-04T00:00:00.000Z"
     },
     {
-      "job_id": "ngcW1Ab8s9EhXvLcAAAAAA==",
-      "job_title": "Compensation Analyst",
-      "employer_name": "LinkedIn",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Carpinteria",
+      "job_id": "OqTh8pV6XaQc4UKKAAAAAA==",
+      "job_title": "Senior Executive Compensation Analyst",
+      "employer_name": "Intel",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://intel.com&size=128",
+      "job_city": "Sacramento",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=617834446306155259",
-      "job_posted_at_datetime_utc": "2026-05-03T00:00:00.000Z"
-    },
-    {
-      "job_id": "-FfKoCF1ftAfqYpLAAAAAA==",
-      "job_title": "Provider Compensation Analyst",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Concord",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=581549813055032625",
-      "job_posted_at_datetime_utc": "2026-05-04T00:00:00.000Z"
+      "job_apply_link": "https://www.talent.com/view?id=618882295324880799",
+      "job_posted_at_datetime_utc": "2026-05-10T00:00:00.000Z"
     },
     {
       "job_id": "AxGSw2RuMe1mdFG-AAAAAA==",
@@ -245,26 +245,15 @@
       "job_posted_at_datetime_utc": "2026-05-08T00:00:00.000Z"
     },
     {
-      "job_id": "bIrMaHFXy0-GnF0bAAAAAA==",
-      "job_title": "Sr. Compensation Analyst",
-      "employer_name": "Alignment Healthcare USA, LLC",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://alignmenthealth.com&size=128",
-      "job_city": "Santa Ana",
+      "job_id": "HMGnUJU4vwaA9sBVAAAAAA==",
+      "job_title": "Total Rewards Analyst (Compensation & HRIS) at PACSUN Anaheim, CA",
+      "employer_name": "PACSUN",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://mahoneyalpineadventures.com&size=128",
+      "job_city": "Anaheim",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://www.adzuna.com/details/5726043435",
-      "job_posted_at_datetime_utc": "2026-05-10T00:00:00.000Z"
-    },
-    {
-      "job_id": "wcOwwVGtQZilBTPXAAAAAA==",
-      "job_title": "Compensation Analyst III",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Oceanside",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=617979800219093447",
-      "job_posted_at_datetime_utc": "2026-05-04T00:00:00.000Z"
+      "job_apply_link": "https://mahoneyalpineadventures.com/list/job/total-rewards-analyst-compensation-and-hris-at-pacsun-anaheim-ca-M0dTMFBQTUZQa1pxd0tGdTFhN1Y4S1U4cHc9PQ==",
+      "job_posted_at_datetime_utc": "2026-04-21T00:00:00.000Z"
     }
   ]
 }
