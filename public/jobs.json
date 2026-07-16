@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-15T14:49:29.916883",
-  "total_jobs": 24,
+  "last_updated": "2026-07-16T15:01:13.257934",
+  "total_jobs": 23,
   "jobs": [
     {
       "job_id": "7nwQv1vjc2l0gO3eAAAAAA==",
@@ -11,18 +11,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/stanford-university/job/senior-analyst-people-workforce-analytics",
-      "job_posted_at_datetime_utc": "2026-07-15T14:49:13.605208Z"
-    },
-    {
-      "job_id": "dbB3dZ-qPoWuV2-xAAAAAA==",
-      "job_title": "Workforce Planning Analyst",
-      "employer_name": "Air Canada",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://aircanada.com&size=128",
-      "job_city": "Santa Clarita",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.jobilize.com/job/us-ca-santa-clarita-workforce-planning-analyst-air-canada-hiring-now",
-      "job_posted_at_datetime_utc": "2026-07-11T00:00:00.000Z"
+      "job_posted_at_datetime_utc": "2026-07-16T15:00:42.541241Z"
     },
     {
       "job_id": "8NnfbkUbM1Miyem5AAAAAA==",
@@ -66,7 +55,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/choc-children-s-hospital/job/hr-systems-analyst-1",
-      "job_posted_at_datetime_utc": "2026-07-15T14:49:20.708347Z"
+      "job_posted_at_datetime_utc": "2026-07-16T15:00:57.606315Z"
     },
     {
       "job_id": "4w79VqW4GVtTAZZpAAAAAA==",
@@ -77,7 +66,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.talent.com/view?id=544519196823005806",
-      "job_posted_at_datetime_utc": "2026-07-15T14:49:20.708357Z"
+      "job_posted_at_datetime_utc": "2026-07-16T15:00:57.606328Z"
     },
     {
       "job_id": "w0_fYD-60Nz0ZAFoAAAAAA==",
@@ -88,7 +77,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/cedars-sinai-medical-center/job/hris-analyst-production-support-2",
-      "job_posted_at_datetime_utc": "2026-07-15T14:49:20.708361Z"
+      "job_posted_at_datetime_utc": "2026-07-16T15:00:57.606333Z"
     },
     {
       "job_id": "i7sHKQVFuKX2QC_jAAAAAA==",
@@ -110,29 +99,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.talent.com/view?id=537490801176030554",
-      "job_posted_at_datetime_utc": "2026-07-15T14:49:20.708372Z"
-    },
-    {
-      "job_id": "7wM9qWR3PrtzBnV-AAAAAA==",
-      "job_title": "Compensation and HRIS Analyst",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Oceanside",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=625214133519588220",
-      "job_posted_at_datetime_utc": "2026-06-22T00:00:00.000Z"
-    },
-    {
-      "job_id": "-BjonhgkdKmTcG9iAAAAAA==",
-      "job_title": "HRIS Analyst",
-      "employer_name": "SpaceX",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJgAPHgt97aNauRXyT9iExXyBE2FaI0k_02Yli&s=0",
-      "job_city": "Hawthorne",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.jobzmall.com/spacex/job/hris-analyst-31",
-      "job_posted_at_datetime_utc": "2026-07-15T14:49:20.708378Z"
+      "job_posted_at_datetime_utc": "2026-07-16T15:00:57.606344Z"
     },
     {
       "job_id": "6ikDd7r1t1O_0iT8AAAAAA==",
@@ -143,7 +110,18 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.talent.com/view?id=535045120145031184",
-      "job_posted_at_datetime_utc": "2026-07-15T14:49:20.708382Z"
+      "job_posted_at_datetime_utc": "2026-07-16T15:00:57.606348Z"
+    },
+    {
+      "job_id": "-BjonhgkdKmTcG9iAAAAAA==",
+      "job_title": "HRIS Analyst",
+      "employer_name": "SpaceX",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJgAPHgt97aNauRXyT9iExXyBE2FaI0k_02Yli&s=0",
+      "job_city": "Hawthorne",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.jobzmall.com/spacex/job/hris-analyst-31",
+      "job_posted_at_datetime_utc": "2026-07-16T15:00:57.606351Z"
     },
     {
       "job_id": "28nxaCMtYQ6Z-0NIAAAAAA==",
@@ -165,7 +143,18 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/oracle/job/hris-analyst-22",
-      "job_posted_at_datetime_utc": "2026-07-15T14:49:20.708387Z"
+      "job_posted_at_datetime_utc": "2026-07-16T15:00:57.606357Z"
+    },
+    {
+      "job_id": "4bOQXaKukm_z4t-EAAAAAA==",
+      "job_title": "Associate HRIS Analyst",
+      "employer_name": "SpaceX",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJgAPHgt97aNauRXyT9iExXyBE2FaI0k_02Yli&s=0",
+      "job_city": "Hawthorne",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.jobzmall.com/spacex/job/associate-hris-analyst",
+      "job_posted_at_datetime_utc": "2026-07-16T15:00:57.606360Z"
     },
     {
       "job_id": "DzLN1Jg5Q8Hpd6NpAAAAAA==",
@@ -209,29 +198,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/california-state-university-fullerton/job/compensation-analyst-94",
-      "job_posted_at_datetime_utc": "2026-07-15T14:49:28.915781Z"
-    },
-    {
-      "job_id": "y6VyneZpjVuZX8xUAAAAAA==",
-      "job_title": "Compensation Analyst, HR​/Recruitment",
-      "employer_name": "LHH",
-      "employer_logo": null,
-      "job_city": "Santa Monica",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.learn4good.com/jobs/santa-monica/california/hr_and_recruitment/5269059398/e/",
-      "job_posted_at_datetime_utc": "2026-07-07T00:00:00.000Z"
-    },
-    {
-      "job_id": "dAxJSj5Bn1nZK8FVAAAAAA==",
-      "job_title": "Compensation Analyst, HR​/Recruitment",
-      "employer_name": "Hunt",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://huntcompanies.com&size=128",
-      "job_city": "Santa Ana",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.learn4good.com/jobs/santa-ana/california/hr_and_recruitment/5255940636/e/",
-      "job_posted_at_datetime_utc": "2026-07-03T00:00:00.000Z"
+      "job_posted_at_datetime_utc": "2026-07-16T15:01:12.256829Z"
     },
     {
       "job_id": "d4U8pOzhq3FKSKTQAAAAAA==",
@@ -245,6 +212,17 @@
       "job_posted_at_datetime_utc": "2026-07-07T00:00:00.000Z"
     },
     {
+      "job_id": "EDIgEZSg210QoZFrAAAAAA==",
+      "job_title": "Senior Compensation Analyst",
+      "employer_name": "El Camino Health",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCN3__yLMcjS1stxmgh2FnV-gcHEI3-lyv9Vg7&s=0",
+      "job_city": "Mountain View",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://us.trabajo.org/job-4023-318cd88822539e3f70656a5754188ba3",
+      "job_posted_at_datetime_utc": "2026-07-05T00:00:00.000Z"
+    },
+    {
       "job_id": "q7qkuy5BlL8nwgPIAAAAAA==",
       "job_title": "Senior Compensation Analyst",
       "employer_name": "Chan Zuckerberg Initiative",
@@ -253,7 +231,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.talent.com/view?id=587654852711351728",
-      "job_posted_at_datetime_utc": "2026-07-15T14:49:28.915800Z"
+      "job_posted_at_datetime_utc": "2026-07-16T15:01:12.256846Z"
     },
     {
       "job_id": "gEVK1Ap6f0tGonH0AAAAAA==",
@@ -264,7 +242,18 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.talent.com/view?id=544703249777698439",
-      "job_posted_at_datetime_utc": "2026-07-15T14:49:28.915803Z"
+      "job_posted_at_datetime_utc": "2026-07-16T15:01:12.256850Z"
+    },
+    {
+      "job_id": "bYCvRoTm_VT-tWwHAAAAAA==",
+      "job_title": "Senior Compensation Analyst - Pay Strategy & Analytics",
+      "employer_name": "Foundation Building Materials",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobilize.com&size=128",
+      "job_city": "Santa Ana",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.jobilize.com/job/us-ca-santa-ana-senior-compensation-analyst-pay-strategy-analytics",
+      "job_posted_at_datetime_utc": "2026-07-08T00:00:00.000Z"
     }
   ]
 }
