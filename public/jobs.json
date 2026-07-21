@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-20T15:10:50.098924",
-  "total_jobs": 24,
+  "last_updated": "2026-07-21T15:03:13.253007",
+  "total_jobs": 23,
   "jobs": [
     {
       "job_id": "7nwQv1vjc2l0gO3eAAAAAA==",
@@ -11,7 +11,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/stanford-university/job/senior-analyst-people-workforce-analytics",
-      "job_posted_at_datetime_utc": "2026-07-20T15:10:32.058111Z"
+      "job_posted_at_datetime_utc": "2026-07-21T15:02:51.562648Z"
     },
     {
       "job_id": "X57TwlfzhA65kDcLAAAAAA==",
@@ -50,7 +50,7 @@
       "job_id": "eX7pslJ0e9umGrZTAAAAAA==",
       "job_title": "Workday HRIS Analyst: Systems & Data Specialist",
       "employer_name": "Tech Marketing",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://techmarketing.biz&size=128",
+      "employer_logo": null,
       "job_city": "San Francisco",
       "job_state": "California",
       "job_country": "US",
@@ -67,17 +67,6 @@
       "job_country": "US",
       "job_apply_link": "https://www.dice.com/job-detail/32aa5ce5-74f9-4a87-ab48-a8c37acad849",
       "job_posted_at_datetime_utc": "2026-07-09T00:00:00.000Z"
-    },
-    {
-      "job_id": "7h0-HXSWfpmDubcQAAAAAA==",
-      "job_title": "HR Systems Analyst",
-      "employer_name": "Staffmark",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://staffmark.com&size=128",
-      "job_city": null,
-      "job_state": null,
-      "job_country": null,
-      "job_apply_link": "https://www.talent.com/view?id=619634767367904964",
-      "job_posted_at_datetime_utc": "2026-07-20T15:10:40.697911Z"
     },
     {
       "job_id": "9IMeet5FPjAQ2pxYAAAAAA==",
@@ -110,7 +99,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/choc-children-s-hospital/job/hr-systems-analyst-1",
-      "job_posted_at_datetime_utc": "2026-07-20T15:10:40.697928Z"
+      "job_posted_at_datetime_utc": "2026-07-21T15:03:03.582513Z"
     },
     {
       "job_id": "lReSQuA-F7BCybAGAAAAAA==",
@@ -124,37 +113,59 @@
       "job_posted_at_datetime_utc": "2026-07-16T00:00:00.000Z"
     },
     {
-      "job_id": "X6j15_EAKfbnjIBkAAAAAA==",
-      "job_title": "HRIS Analyst",
-      "employer_name": "VirtualVocations",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-      "job_city": "Escondido",
+      "job_id": "6z7MhZq638PKNnnpAAAAAA==",
+      "job_title": "Senior Workday Payroll & HRIS Analyst",
+      "employer_name": "Innovation Consulting",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2kN8Q8ZuttjdbPL46YCNCjqpsyjyzvV3rlv4l&s=0",
+      "job_city": "San Jose",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=537490801176030554",
-      "job_posted_at_datetime_utc": "2026-07-20T15:10:40.697939Z"
+      "job_apply_link": "https://career.io/job/senior-workday-payroll-hris-analyst-san-jose-innovation-consulting-d9394c1ee1ddf5801372a639a5c2be00",
+      "job_posted_at_datetime_utc": "2026-07-21T15:03:03.582534Z"
     },
     {
-      "job_id": "i7sHKQVFuKX2QC_jAAAAAA==",
-      "job_title": "Workday HRIS Analyst – Payroll & Time Tracking, Hybrid",
-      "employer_name": "Anthropic",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR26crkSuwVv6rpBabXrctFu3BQHzbv3B9U8Z0p&s=0",
+      "job_id": "MUkUNgrh0sKPLKqkAAAAAA==",
+      "job_title": "Sr. Workday HRIS Analyst - Talent and Learning modules 5",
+      "employer_name": "Syntricate Technologies",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://syntricatetechnologies.com&size=128",
+      "job_city": null,
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.jobilize.com/job/us-ca-all-cities-sr-workday-hris-analyst-talent-learning-modules-5",
+      "job_posted_at_datetime_utc": "2026-07-14T00:00:00.000Z"
+    },
+    {
+      "job_id": "nTG5UCOvPk4pZcFwAAAAAA==",
+      "job_title": "Sr. Workday HRIS Analyst - Payroll & Benefits Modules 5",
+      "employer_name": "Syntricate Technologies",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://syntricatetechnologies.com&size=128",
+      "job_city": null,
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.jobilize.com/job/us-ca-all-cities-sr-workday-hris-analyst-payroll-benefits-modules",
+      "job_posted_at_datetime_utc": "2026-07-13T00:00:00.000Z"
+    },
+    {
+      "job_id": "swjq7NUYeHJG8-jHAAAAAA==",
+      "job_title": "Senior HRIS Analyst",
+      "employer_name": "VirtualVocations",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+      "job_city": "Sunnyvale",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.talent.com/view?id=537800714740639818",
+      "job_posted_at_datetime_utc": "2026-07-13T00:00:00.000Z"
+    },
+    {
+      "job_id": "UrQDQ9UQm656MMpfAAAAAA==",
+      "job_title": "Incentive Compensation Analyst",
+      "employer_name": "Persona",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6dRYWvTAr_Va2DeR-13yN3HgFwtE1q9Ig2Msr&s=0",
       "job_city": "San Francisco",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://www.learn4good.com/jobs/san-francisco/california/info_technology/5272961992/e/",
-      "job_posted_at_datetime_utc": "2026-07-08T00:00:00.000Z"
-    },
-    {
-      "job_id": "-BjonhgkdKmTcG9iAAAAAA==",
-      "job_title": "HRIS Analyst",
-      "employer_name": "SpaceX",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJgAPHgt97aNauRXyT9iExXyBE2FaI0k_02Yli&s=0",
-      "job_city": "Hawthorne",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.jobzmall.com/spacex/job/hris-analyst-31",
-      "job_posted_at_datetime_utc": "2026-07-20T15:10:40.697946Z"
+      "job_apply_link": "https://www.ziprecruiter.com/c/Persona/Job/Incentive-Compensation-Analyst/-in-San-Francisco,CA?jid=d78b9628605d79f5",
+      "job_posted_at_datetime_utc": "2026-07-21T15:03:12.251828Z"
     },
     {
       "job_id": "WcW021zM2HtE2qr0AAAAAA==",
@@ -187,7 +198,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.jobzmall.com/california-state-university-fullerton/job/compensation-analyst-94",
-      "job_posted_at_datetime_utc": "2026-07-20T15:10:49.097782Z"
+      "job_posted_at_datetime_utc": "2026-07-21T15:03:12.251850Z"
     },
     {
       "job_id": "XQf1vwbyf59-DvpUAAAAAA==",
@@ -198,29 +209,18 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.thesaasjobs.com/jobs/478182477-compensation-analyst-equity-executive-compensation",
-      "job_posted_at_datetime_utc": "2026-07-20T15:10:49.097793Z"
+      "job_posted_at_datetime_utc": "2026-07-21T15:03:12.251856Z"
     },
     {
-      "job_id": "EDIgEZSg210QoZFrAAAAAA==",
-      "job_title": "Senior Compensation Analyst",
-      "employer_name": "El Camino Health",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCN3__yLMcjS1stxmgh2FnV-gcHEI3-lyv9Vg7&s=0",
-      "job_city": "Mountain View",
+      "job_id": "TLHiMoHcvmjUF28bAAAAAA==",
+      "job_title": "Compensation Analyst Short-Term Employee",
+      "employer_name": "Meta Inc",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobilize.com&size=128",
+      "job_city": "San Francisco",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://us.trabajo.org/job-4023-318cd88822539e3f70656a5754188ba3",
-      "job_posted_at_datetime_utc": "2026-07-05T00:00:00.000Z"
-    },
-    {
-      "job_id": "q7qkuy5BlL8nwgPIAAAAAA==",
-      "job_title": "Senior Compensation Analyst",
-      "employer_name": "Chan Zuckerberg Initiative",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2_h-5LWGNGhdltgIWwFs4j2JSyzAspCToswII&s=0",
-      "job_city": "Redwood City",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.talent.com/view?id=587654852711351728",
-      "job_posted_at_datetime_utc": "2026-07-20T15:10:49.097801Z"
+      "job_apply_link": "https://www.jobilize.com/job/us-ca-san-francisco-compensation-analyst-short-term-employee-meta",
+      "job_posted_at_datetime_utc": "2026-07-21T00:00:00.000Z"
     },
     {
       "job_id": "d4U8pOzhq3FKSKTQAAAAAA==",
@@ -232,17 +232,6 @@
       "job_country": "US",
       "job_apply_link": "https://www.learn4good.com/jobs/bakersfield/california/hr_and_recruitment/5269522749/e/",
       "job_posted_at_datetime_utc": "2026-07-07T00:00:00.000Z"
-    },
-    {
-      "job_id": "BGbKxk8F0blU12yOAAAAAA==",
-      "job_title": "Senior Compensation Analyst: Design Structures",
-      "employer_name": "PDS Health",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pdshealth.com&size=128",
-      "job_city": "Irvine",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.learn4good.com/jobs/irvine/california/business/5299469954/e/",
-      "job_posted_at_datetime_utc": "2026-07-18T00:00:00.000Z"
     },
     {
       "job_id": "KhbeUsi3hGx6WbdGAAAAAA==",
@@ -264,7 +253,7 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://www.talent.com/view?id=589977597175207752",
-      "job_posted_at_datetime_utc": "2026-07-20T15:10:49.097816Z"
+      "job_posted_at_datetime_utc": "2026-07-21T15:03:12.251871Z"
     }
   ]
 }
