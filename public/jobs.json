@@ -1,53 +1,31 @@
 {
-  "last_updated": "2026-09-19T16:14:32.623306",
-  "total_jobs": 20,
+  "last_updated": "2026-09-20T16:42:04.158217",
+  "total_jobs": 17,
   "jobs": [
     {
-      "job_id": "SmpNeENQV2ZrekxwZFZxdEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMUJrY1ZORlMwUkdNM0pGWm5CZmJqWlhiWFZZY1RWUldqRklla05YZG5KMGRVZFlkMGhwYURkdGNVMTFNQzFCTFhGdmNVWnlOSGh6YVU5RFMxUjVOV2hyWjBweVZ6bFNkM2RYUVRZMmFGQm5hRTFDUjBod2VIVkVVV2RDV1dZeE1ETklMV3RhTTB0RFEzbExhV1ZsUjNaelgwbzBZMlExYmxjeVRXeDFjMUpHTmpGR2JIY1NGM1ZpVTNWaGN6Wm9RVFpETTNoak9GQndZVGMxZDBFMEdpSkJSSE55T1daVFJFSjFhMkphWVZaYWVWOWhUMVJGU21wSGJIaEJZMGh6YlZKbg",
-      "job_title": "HR Data Analyst",
-      "employer_name": "Bechtel Corporation",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr4KX4SBBd4HkS97zOX7OIPNNS07wjqlFiQXtx&s=0",
-      "job_city": "Glendale",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://us.trabajo.org/job-2850-f3a78596d2e3c6c50a43b73573a47f81",
-      "job_posted_at_datetime_utc": "2026-09-10T00:00:00.000Z"
-    },
-    {
-      "job_id": "YU13ZHlqZUc4dzh2cm5uQUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbGRtTWtWbU9FdDZPRmhGZERodmN5MUpibFV6UzFObFYyeFROMk5PZGkwd1VGUmpXbkJvUW5KeWNuVkdZa2R5Y0V0cFlWSjBaVXBaTVRseVMyNVVSWGhSWjFFeGVTMVhVRzFWWmpaNVpsOUJRazFwWTJ4cVJWOUJiek0wV1hGUk9WSkxSRTVYY1hkYVZtWnRRa1pRTkRoUlJWRklkMnM0TTBSaFlVSnNWbEkyTVRFMVNuQVNGM1ZpVTNWaGN6Wm9RVFpETTNoak9GQndZVGMxZDBFMEdpSkJSSE55T1daU2JrbGxTWGMxVG0xU1dFczFRemQ2V2xaRlQyRkdSM0pWYUcxMw",
-      "job_title": "Senior HRIS Manager — People Analytics",
-      "employer_name": "Boot Barn",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsywxwu-Hg-XlJLLH1z1m7oMDwQi7l6xOmEggE&s=0",
-      "job_city": "Irvine",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://us.trabajo.org/job-28652-a5d1a337eac1f5f4d7afe46cdd5edab0",
-      "job_posted_at_datetime_utc": "2026-08-19T00:00:00.000Z"
-    },
-    {
-      "job_id": "SlR1VG4xc05ReUhGMzZJQkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURlV3TTBSTFdHNVNhVXRaUlhoWlZqbG9ibTFsV2s5blZuZFRUVVY1TkZoSFl6QnhaelJwUmtkT1FYWldTVEI0YjE5eFMzUnNOakJWYUZsb2RYTmhja1ZTY1dWT1NGVTFUbXQ0UlRkTlltcG1Va1Z0VTBwaWRsaEdVV3d0TmtoUVFqa3pTa1V3YVhwVmJ6QnNSREZyUW0xaGRGUkxPRGRoYW00M2FrVk5UMFpETkZWM2RXc1NGM2R5VTNWaGIySkdRbVpQWkRWUFZWQjZOVXRIYzFGckdpSkJSSE55T1daVWVXeENjbEJTYkVzMmRtSjVZamRzVEdsNk5UaDRlVzAzZERaMw",
-      "job_title": "Need Local Workday HRIS Analyst in San Francisco/Mountain View CA",
-      "employer_name": "Tech Marketing",
+      "job_id": "NHVvcW4wNksxa0txYm41bkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSFk1ZEVsc2VFbDBhRXhaWmkxaU5FMDFWMkZLUm10SVEwWnhZelp4TjJWR1l6VnNka2hvYlVOMmRGcFRNRzFWWW5sZlFrSjRZWGhQUWxCYVJHTjRXRmc0VGpKelZucDFNemMzVm5wdmRFczRiVzFrUVhOeFFXeDJNWEZaUms5QmNWWjRNalpYUVRGMFIwTldkR1ZHVWtRMVJXWk5YM0pCZEVFeVpWYzROV3BCZFVkd1V6RVNGMjkzZVhkaGRFaHFSbk54TVhaeU1GQjJiMDlUTkVGTkdpSkJSSE55T1daVWFYSTVaMU40YW1WSmNHSk1iMEV6Y2xwRVVFSkZja2Q2TURKMw",
+      "job_title": "Senior Workday HRIS Lead: Build Scalable HR Tech",
+      "employer_name": "Rentokil Pest Control North America",
       "employer_logo": null,
-      "job_city": null,
-      "job_state": null,
-      "job_country": null,
-      "job_apply_link": "https://www.talent.com/view?id=618999499483131807",
-      "job_posted_at_datetime_utc": "2026-09-08T00:00:00.000Z"
-    },
-    {
-      "job_id": "Vy0ycGI1SHo1Q2NVWTdFV0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV05zT0RaU1dtNHpWV2xPWkV4c016Y3RhekpmT1c5dVNWb3haMk5ZVEZaRmVFSm1kakExYm1kYVl6UnVObXBaTjFCT05XWlhWbkJzTlRsc1dreFlYMDQ0VVVoa1RuVnhaRFUyWlU5RE5XNVJUbEF6WlRJek1reFJkVmhVU0hoTVkwdFplV0ZFUmtwYVZubFVTaTFJYkRneVpUWTBYMU5sWjFjMmVrTjRUSGM1VVc5T2JFMFNGM2R5VTNWaGIySkdRbVpQWkRWUFZWQjZOVXRIYzFGckdpSkJSSE55T1daVFVYcGZRVWMzUWpsdVlVNVhiVUkzZWxoalJITjFWV1o2YXpkbg",
-      "job_title": "Senior Workday Payroll & HRIS Analyst",
-      "employer_name": "Innovation Consulting",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2kN8Q8ZuttjdbPL46YCNCjqpsyjyzvV3rlv4l&s=0",
-      "job_city": "San Jose",
+      "job_city": "Antioch",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://career.io/job/senior-workday-payroll-hris-analyst-san-jose-innovation-consulting-d9394c1ee1ddf5801372a639a5c2be00",
-      "job_posted_at_datetime_utc": "2026-09-19T16:13:58.274351Z"
+      "job_apply_link": "https://us.trabajo.org/job-28652-72655165beaa0beb7ecabd071a4f49e4",
+      "job_posted_at_datetime_utc": "2026-09-13T00:00:00.000Z"
     },
     {
-      "job_id": "X3A3MUlmUFhia1NUZll2NkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTaTEyV1dwQlFrVnNiR3hsU25wTlFWRlRiRWx6Y1dwZmFIYzVPRlU1VUZOeFNrRnBaMTlQYURCT2VFcHpjVkp4UTNSVWVWVnhUREpIVWxGU1dYVmtUMGh0VVRrNWRIbGhiMEYxYkdKVFozSnZVSGRZVVdrdFgzaDRSRXRqZG1WTE5YYzJkbFZGYWpaNWMyeHBUV1k1UTFJMFpXaDFORFZVYUROdlRIWjZVM0ZzYUMxeE4zZ1NGM2R5VTNWaGIySkdRbVpQWkRWUFZWQjZOVXRIYzFGckdpSkJSSE55T1daVVVHOVNaRUpyUmpNeFUxaDJRbmhDTm14VVZtVnFaVFp0TFRSMw",
+      "job_id": "RFh4b0N3M2RWcHUwSkxCWUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbVV6UW0wNWFVaFpibTlSTVcweGFWQkRha28zUldkUGVDMXFWV2hQTkdwZmN6WnJibHBqTVdGdFUzUTBOalZzUm1wRGJsQjNVVTE2UW1Jd1JrNTNZVFpwWkZFdGRrMUJjV0YwTFZoNExWQndXVUUzWVhKS1VuWlNSRkZvYzFkRk0yZzFabE5vT0dST1NHRmtUV05pT0dGQmJFdHNWa05PT1UxSWFVVnRTVUUyZFdvMlUzZ1NGMjkzZVhkaGRFaHFSbk54TVhaeU1GQjJiMDlUTkVGTkdpSkJSSE55T1daVVFXdGZkVlZCY21kNFdGWnBVa0ZLU1hKMFVEZERhMkZHVjBaMw",
+      "job_title": "HRIS Analyst",
+      "employer_name": "Oracle",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfAbceqK3dLHhI6ozBxNgWPsTqJhnRq3SrEZ2e&s=0",
+      "job_city": "Santa Clara",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.jobzmall.com/oracle/job/hris-analyst-27",
+      "job_posted_at_datetime_utc": "2026-09-20T16:41:12.015278Z"
+    },
+    {
+      "job_id": "X3A3MUlmUFhia1NUZll2NkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSGQzVWt3NFIxOXVUelJ3T0d0UFFUQjZkaTE2ZEVkUFp6VlJaMjEyUWtKWWVXTkZhV1ZoWlVsaFNpMXZVek5MUTNFMFFWQlpORUpxT0UxeWVFUllkRmQ2ZEhwbVpuaHNhVU5QT0hKWVdqTXRVMGN4ZDFwbVRqaDVhREJ1YVVzMloxVnFaSGd6VlRRME4wZHZWWHBsVFRGalVWWXpOMnRtYW13dE1qZHBhRzB0V2xGalNWTVNGMjkzZVhkaGRFaHFSbk54TVhaeU1GQjJiMDlUTkVGTkdpSkJSSE55T1daVVJYUTRibk51VkZKcVZWZDVZVnAzTWpkSFkwVjNlSGN5U2xCUg",
       "job_title": "Lead HRIS Analyst; Hybrid",
       "employer_name": "Lakeshore Learning Materials",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIpzrcyBuqqBJoZQFbrRX_3J3cvRNozMRO8oOh&s=0",
@@ -58,7 +36,7 @@
       "job_posted_at_datetime_utc": "2026-08-23T00:00:00.000Z"
     },
     {
-      "job_id": "QzdDQlhRS3ZoWkFkUUhNRkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURFowTTE5RFZESjNhR2hRYkdwZlpYUTRSbk41ZHpsdWFHTkpTWGxrUTI1cFdsSmlkakJLY1dSZk5UaEhlakJtVms1dlgyaEliSEJ4T1hKNGEyMW9iRmxRVFZCeFUzcHFWakpmY0ZwQ1JFVjFZemxvVWxKcFVqZG9kSEZoV0haSk1URlplR3h0T0ZGcU9XcEhZM293YkhCSFoxRlRWak40YlVVNFFVOVBSRmxxUzBGVlZEY1NGM2R5VTNWaGIySkdRbVpQWkRWUFZWQjZOVXRIYzFGckdpSkJSSE55T1daVVduZEZiMjlCVWxCVlYxcExjR3MwVlVVMWVsUmZZbWRITTNaQg",
+      "job_id": "QzdDQlhRS3ZoWkFkUUhNRkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSGxsVVVkNlZETlBVM1ZUVkZWSGJVd3hhVTV2U2pCRWVuTnVVMkZaUlVwd2JEQXpaM2N3TkhSSlZUUTJTRkJmUkhWQ09IQmFkV1pFYkU1a1NtMU9MV0V5UldKR1NqSnljVWd5ZW1wQkxXZHFRVFZWUm1GRlUzUXRjalV5YzB0a1gxSlJMWEJLUmpkek1USk9ZMVUxTlZGeFVVVjZYMkZ5WVdSRU9UaG1ObmxNY2xGRmFHd1NGMjkzZVhkaGRFaHFSbk54TVhaeU1GQjJiMDlUTkVGTkdpSkJSSE55T1daVVJEVlFZMFowWkZZNU0yRTNlVlJZVm5reU4zQlpTbFZzUlMxUg",
       "job_title": "HRIS Analyst-Human Resources",
       "employer_name": "Eisenhower Medical Center",
       "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://eisenhowerhealth.org&size=128",
@@ -69,18 +47,7 @@
       "job_posted_at_datetime_utc": "2026-09-08T00:00:00.000Z"
     },
     {
-      "job_id": "b2xnY05wc3VTSlFnaXo3SUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR1UxZFhSS2NuQk1NVXhTVEhwdlgxVlRUa3hLUzB4dkxVMXRSVU52VDJSMlZVeERRM04yWmkweVkyZzJZbkpWU3poNVdVeDZWVmRGUmxOQ1FUZFRWMkkwT1RsRWMyZDJlV3d0VW1SYVpubFVaa3BIVkRSdFFsSjBYMHB0UWpkTFYwRkRXa1IzTnkxTE1HTXhlWE4wTmpWMlZrdDROM2hxTkhVNWQxaGpjRWxSY201algyOFNGM2R5VTNWaGIySkdRbVpQWkRWUFZWQjZOVXRIYzFGckdpSkJSSE55T1daUmFrWlBOVTV3TVd3eVZEbE9OVzlUU1dscFRWZDNkRVp4U0d0Mw",
-      "job_title": "Senior HRIS Analyst- Workday Lead",
-      "employer_name": "Palo Alto Networks",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV9CpIUZzkR0i-0xyHsxAYM6ZnQsWMGhoVV9bk&s=0",
-      "job_city": "Santa Clara",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.jobzmall.com/palo-alto-networks/job/senior-hris-analyst-workday-lead",
-      "job_posted_at_datetime_utc": "2026-09-19T16:13:58.274372Z"
-    },
-    {
-      "job_id": "QVB4U0taRFd5U1ROLUNwSEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURmhQZEdkbWJVMUZORkI1WDBVdFFWZE9SVGRJYzNkbkxVbEZjWEJaWXpSNlgxRnZiR2hSUVVkWVMzQndlamhUY2paM1ZXUTVkRTh0Y210eVpUbDRaUzFMVFhOTmFGRkJSR1JJWDA5SVVVRTVjRXQ2ZGpGQlZEWnNjM2N0TTBscmJGbFVUM0JTYW0wNGFFaHVUazV5WXpZelozWlRZV04xTVhSRFlVdFlhVWRNVEhJNVZVb1NGM2R5VTNWaGIySkdRbVpQWkRWUFZWQjZOVXRIYzFGckdpSkJSSE55T1daUmFXTjJOblJRWkhGTWNtZzBhMmh4VmtoZmFVWTJMVGRvZEd4bg",
+      "job_id": "QVB4U0taRFd5U1ROLUNwSEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMnB1UjNCUlJITkRkbWhTYVZKaFVuSk9kazB5UVdkWU9XMU9WR2RCY1VGRlEzVjJaRGx0U2tkbWRWbFBSSEpoU0dGaVkxbERaVnAyTFVaRWREazVlSE5xVkZOM1QwVnlaMWw1ZW1jMWNYUTBPVlZ5WDAwMGNqSmZjRFZqT1d4UWVqZEdZbkZITmtFd2RIRk5lV3BVVjNvMExVb3lSRzVNWkdsMlpWTlhPVTFIZGtKSVpVd1NGMjkzZVhkaGRFaHFSbk54TVhaeU1GQjJiMDlUTkVGTkdpSkJSSE55T1daU1lqTndRVEIwZWsxemRGbFRUR2sxWmtFelltOXBUamxFTW10Qg",
       "job_title": "Senior Workday Analyst",
       "employer_name": "Workato",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLVLlK_H2eNp4ojtlv5svvgB-f3UgXqe_rMrjv&s=0",
@@ -91,7 +58,7 @@
       "job_posted_at_datetime_utc": "2026-09-01T00:00:00.000Z"
     },
     {
-      "job_id": "N0J6dmg3dllBbXg5V0tTdEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVVJyYzBsdFlrcDBXVkpSUWxkd1RVTjVhbTluYTB0MGVXYzRPR2hzVVhFM1pYZzFZVEpJZDFsT2VWQmpVM0IxTVVWNGFrNXZObkUwWW1kM1RuYzJNbVJEYlVkYWEybHlNa05HV0VoaVdtbE9kRkpZWjJKRFRIRk9Za2Q0V1ZSM2NrRlJhVWt0VFc1WlVUVlRka2RXZVhSSldEWlRhVVJUWkRSMGEyTTBMVzF1VkVJMWRIVVNGM2R5VTNWaGIySkdRbVpQWkRWUFZWQjZOVXRIYzFGckdpSkJSSE55T1daVFFrOWxUbVZaYjJ0b2IwRlVhRTlLZG5oMVNuSjBRMFIzUW5sbg",
+      "job_id": "N0J6dmg3dllBbXg5V0tTdEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM1ZFWWxkS05GZGlaM2R0U0Zwbk1WVmFPREpIWTJGeFUxcGpYelJ1VHpOSGNucEZUMDFsWWxReExUaEdNMjh3UmxaRldWbzJZMWw1TFdOamVuQXdiRUoyZFhsdU4ybzVWRFk0U1hOT1EwMU5SMk00WjBaRE1GSXdaRGxTVjFKYVdVUkxhVEZIV0Uxak1YWktSVUp4ZERJNFpGUnNXR3g0V210U2NGOU1OakF3U210NFlqa1NGMjkzZVhkaGRFaHFSbk54TVhaeU1GQjJiMDlUTkVGTkdpSkJSSE55T1daVVlVZ3ljVkozYlZoT2JrMUVMUzA1VDJWb00yZzFWRkpHTkV4bg",
       "job_title": "People Operations Analyst",
       "employer_name": "PIMCO",
       "employer_logo": null,
@@ -102,7 +69,7 @@
       "job_posted_at_datetime_utc": "2026-09-10T00:00:00.000Z"
     },
     {
-      "job_id": "bHpGZm5nU2tBQk1DamNabEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMlZJUVRORFprZE5aR1pNWlhSS04zbzFWR3BNWm5ZMWIzUnBaRlYzYW5FMGVXdzNkMXBLVTFoQmJFcFRTMDgyTVcwMFRUaGtTVXRDVDA4eGVuZ3hMVE5wYWpSb1prRnJORFU1VGpsNlFWSXdWa3BwV2xoNlFtdGlZazAyWm1vdFdGTmZkazlMWjJKaVVFZFlXbTlJUTBaVmJuWm9ZWE5wUXpSNlFucGliRXBLUzNkWGIwRVNGM2R5VTNWaGIySkdRbVpQWkRWUFZWQjZOVXRIYzFGckdpSkJSSE55T1daUllUUm9VMDgwTVhOVFMwUlhMVlZFYTFReWNFRTFWMlZZYVdkQg",
+      "job_id": "bHpGZm5nU2tBQk1DamNabEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVFF4Y21KUmJ6UTJVSEpKV1Y5TU5uWmxNVFZTY1RadVVWRm5WVWR0TFVSTU9IUnhkM2hYU1RFMllYWmtlSFoyUVUxUVdrRlRlbFJSZVZVNE5VbHpORVJxUTJ4Q2VrWTRWRlpGTVdSSk4xOTBSRGx0TFdkclRXUTFZMVZtZGxKdFFrbFFjV3BoUlhKblRUZGxTalYwWkVoamVubEVibGMwWDJnemEyTkxRekpDZDI0M2FrOFNGMjkzZVhkaGRFaHFSbk54TVhaeU1GQjJiMDlUTkVGTkdpSkJSSE55T1daVWQySjRNVzlLVWpCRE1FMWpiRVJRUzFWTGFtWTBkWEE1ZDFSUg",
       "job_title": "HRIS Analyst at Synectics Inc. San Ramon, CA",
       "employer_name": "Synectics Inc.",
       "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://synectics.com&size=128",
@@ -113,18 +80,7 @@
       "job_posted_at_datetime_utc": "2026-08-31T00:00:00.000Z"
     },
     {
-      "job_id": "QTlfVW9rVWVZU1VJQW15WEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMlpaZUZkZlRFVldhM1JxUzFOYU5qaEZOSGxzYzFBeU9GaFJUVEowYjBWUWJqRTFUVXA0Wm14eWIzZG9XRFpKWTA5a05HVjBkekExYlVSaVFWZG9PVXhQUVU0NE4zZHFXRXhSYUdoR1gwVkdXbk5QUzFGSVJEUnZkRzR5UWtsdVZtVkZhR0ZGWms4NWNGbzBTa1poWkZjMmFsY3dkWE52ZFhGTlowaHNOSGRKVEd4SGRFVVNGM2czVTNWaGIwZEtTblkyWnpGbE9GQnVjakp5ZFZGUkdpSkJSSE55T1daU1lWRndhVUZLWTBsVmFGYzBXVkZ6TkRjeloySkJTV0ZDZDJWbg",
-      "job_title": "Remote Compensation Analyst",
-      "employer_name": "The Wonderful Company",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoNZ5ssnidTS6a_20VkgjGX-0Ze23WBeOvJBJc&s=0",
-      "job_city": "Murrieta",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://us.trabajo.org/job-3137-d10be8f587503e952523cf0a3fc2dd4b",
-      "job_posted_at_datetime_utc": "2026-09-12T00:00:00.000Z"
-    },
-    {
-      "job_id": "U21CRnFIdHdCaENOVWxNaUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTekJrVDFCNlZGbEJaRE53VTJWTFFsbFNYelphVjJsUmNVUjFOV1pEZDFkNVpGaERkR2xYZDA1aVV6TmxRVTU1YlZaRFIyNVRVelk0Vmxob2ExRXhiVUpWT1ZsdGJHcHNibTlIT1haU1ZrSk1hSGxDYlRKUVpHbFFXbXB0UzFsR01uQnJNM1ZaVmxwTWJEbDNhV2hFWDJaUVNWZGhOREJsVG5WUmRFMDRhRzU1YVZKblNUZ1NGM2czVTNWaGIwZEtTblkyWnpGbE9GQnVjakp5ZFZGUkdpSkJSSE55T1daVWFXVjFOR1JmYVZaWlkxZzJibTlKV25vdE1IQnpObG80YUU1Mw",
+      "job_id": "U21CRnFIdHdCaENOVWxNaUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSEZOUWtkNFRtZHFXbk56YUVKalIyZGtNRUUyUm10cU1taGtUbU01ZGpGaWMycEVXbXgxUlhwaVJGWldTRVptZW5CcFgwazJVa0pWWVdaMWFtRkdTQzEzTVc5SWMzSlNiR3N6UW5GelIwZEVUV0ZUZG1sSWFXYzNiRVZxTTFObWFHWlJjVmRPVjJScU1XZEVSV3RqZDFNd2NqY3lSWFJPWWpSaVVIZFdkMjB5Tld3MmFuZ1NGM05uZVhkaGNYSXlRWEZNT0hBNE5GQTFZVjlWYzFFMEdpSkJSSE55T1daVVVuZGthSE5LTTFoUWQxVllTVTFYVUVVeFNtTk9VRkF0UTB4bg",
       "job_title": "Compensation Analyst",
       "employer_name": "Lifelong Learning Adminstration Corporation",
       "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://career.io&size=128",
@@ -132,32 +88,21 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://career.io/job/compensation-analyst-hi-vista-lifelong-learning-adminstration-corporation-b0fc12152aae4447096727bb00dbbcf4",
-      "job_posted_at_datetime_utc": "2026-09-19T16:14:31.622167Z"
+      "job_posted_at_datetime_utc": "2026-09-20T16:42:03.157060Z"
     },
     {
-      "job_id": "N0p2eDk0Z014VTFzSTNIT0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVkZwVm5kS1F6SllVVXRwU2xOak9FcGxiRTFyVGxsRk9IYzRVMjVYY2pJemFuUkNWa0ZmVW5SUlIyUnNkbU5UTUd4RlJVTkZZbWhDYWxCaVJ6Qllla0Y0Ulcxd01HcFJVM3B4TW5oTlNFeHBOV1JPZEdSWVFUTlViMDF3YkROVWMyTnpWWGxFU0VvNFRYcFVVVXBKVjBaWmRYTjJOVU0yVkhwMGEwWjZhVEJqVEZseGJrTVNGM2czVTNWaGIwZEtTblkyWnpGbE9GQnVjakp5ZFZGUkdpSkJSSE55T1daU05sUmhSMnM0YmtGSlgxYzJZM0Z6UlZoWldIWm9WUzFSU1dsQg",
+      "job_id": "MzB1WENOUFByV3pLTUg2bEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa05FT0dGMlZubFRObUpGYTFabk1GTkNPSEpGTjJ4dU5reGpZbXN5Y0hCcWJYZ3lSbE4xUWtRM04zbFZWa04wZFhKTlNucG5lRXR4VlhKUlgzTlBhbDl0VXpsU1pVUmZSWFExYzBkNVZrZ3RhSE5NZUdOb1pGbzFPVTl6VFRsTVgwMDRXVU0xYUVoaFgzZEZjRU56UkRSU1pHWTNMVmw2UlVoT1IzRllXRkJEUnpKZmEyMFNGM05uZVhkaGNYSXlRWEZNT0hBNE5GQTFZVjlWYzFFMEdpSkJSSE55T1daVWVreDBhRXd4VDFBMmRuUmFSRFV3Y1VJNWQxTmZPRFJxY2xOQg",
       "job_title": "Senior Compensation Analyst",
       "employer_name": "LanceSoft, Inc.",
       "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://lancesoft.com&size=128",
-      "job_city": "Lancaster",
+      "job_city": "Fetters Hot Springs-Agua Caliente",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://us.trabajo.org/job-2850-77b3860bdd2566b79b11487f67dca775",
+      "job_apply_link": "https://us.trabajo.org/job-2850-365bbac265ff5b5b8ebf1e35f1ad87bd",
       "job_posted_at_datetime_utc": "2026-09-11T00:00:00.000Z"
     },
     {
-      "job_id": "T0pSWWotalJKR0pUanlOdEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMDFuWVVveU16UkRaRGhpWWpORU0wOXFURzQ1Vkd3eFIwZE5OV2RKVFZBeWVHaHRkM0p4TVdKTlVtTlFVRUZRVFROMmRIUTNZVXBuTjNGTmFVZGpRVEp2WkhWd2IwbG1YMU01TjFOUVR6bHhNMkpDT1ZsUFluVlJhMmxCZG10dE5XTmliR1JSVm5veGFVSnhhbEF4WVVsSk9WOWlka0pzTmpjelNWcG9TM1Z2Y0V4UGMya1NGM2czVTNWaGIwZEtTblkyWnpGbE9GQnVjakp5ZFZGUkdpSkJSSE55T1daVVRIcEhNV2wyWlVaYWQzZG9kMnMyTkdsa2FsQktjMVpGUkVwUg",
-      "job_title": "Senior Compensation Analyst",
-      "employer_name": "LanceSoft, Inc.",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://lancesoft.com&size=128",
-      "job_city": "Smith River",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://us.trabajo.org/job-2850-7ab7cea5bc1b287298aab1fc7531f0ee",
-      "job_posted_at_datetime_utc": "2026-09-11T00:00:00.000Z"
-    },
-    {
-      "job_id": "YlNGX2JicFJWeHl3c2sxdUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTekZxUzFkNFlteE5kVmMzUmpOVFNYQXdjVWt4V1dFM2FEaHhNVlE1U0hWU1NWbFVkVUptVHpWcFZtMU9TRWN3UkZsQlZERlhlbFZNVTBSSFpsUjFZVk16TjJkSU0xY3daMXBpTVU5Tk5rSm9RV1pEYjFOMGRGbFNNMjg0Y0hOS1dFRnpabGxaWlc1V04xQjNlV1IzV1ZGb1ZrczBWbVZhVG5FMFEzRk5TRkJmUzFwM2NHRVNGM2czVTNWaGIwZEtTblkyWnpGbE9GQnVjakp5ZFZGUkdpSkJSSE55T1daU1JtNHpSRGxTZW1wRlgxZEtZekJtWW1kWmIyVjJkRmhZTjJkMw",
+      "job_id": "YlNGX2JicFJWeHl3c2sxdUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbHBSVldsa1lYaGxSRTl1YWpCTFpVNUVVMm81WkdKM2JraEhaVzVtU0VwRGIyWktTMU55VTJOTWNrWlRMVXhGTldaSFkwWTVTMFpHYVVoUk0zVnJUVlJaUmxwck0yaG5TMUpvYzNoMmRYbHpablJOYVU1SU9HcHZNblo0T1VJdFdHTnNSWGxMWTBFemNVNVRVRXhPUld0a1NFaFNTVFpmT1hGWlNVeHhOMlJoYUhKVVVuWVNGM05uZVhkaGNYSXlRWEZNT0hBNE5GQTFZVjlWYzFFMEdpSkJSSE55T1daVVpHMHdSVGxGWDBkc01tcEtaVWc0UkZad1IyZ3hVUzFUWjJkUg",
       "job_title": "Senior Compensation Analyst",
       "employer_name": "LanceSoft, Inc.",
       "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://lancesoft.com&size=128",
@@ -168,7 +113,18 @@
       "job_posted_at_datetime_utc": "2026-09-11T00:00:00.000Z"
     },
     {
-      "job_id": "ZjUyU2xfblphczFxUmhpQkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM1ZQTUVNNVpWZGZiV1Z5YlhSSFYzSjVURlJPWjBGSFVVOVVhakJLVmtKQ1J6WnpSRWxtYXpGSlJEVkpaMmRTY1ZKU1ZqVm9OR3h2Y25CWVRVVlFSR0pGVUVkck5FSkVlWE5TV0RKeVZFcHFMVVI0VDJKcFpVRjNORkZuYUdKdFQyRkpXWGxEVGs1MFUyTktibTVqVVVsdVNuSlhhbTVhWDFwaGVGVjFaSHBIYzFKU1ZHZ1NGM2czVTNWaGIwZEtTblkyWnpGbE9GQnVjakp5ZFZGUkdpSkJSSE55T1daUlpHcHJWekJFY3pVelZqaEhUR0p6UTE5U1NHbGthV1oxTlRsMw",
+      "job_id": "bFBQTmRkNV81eTRmWmpYYUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa2MxT1Rob1R6bDJRbGN5TFdKRU5HaG5kM0pqT1dOVE0xVndRbTVyVTNWTGVsbHpUVFZVUWsxYWJHSm1lamRmWWxkTmVtNUNia1YwUTJoSk1GVjRhbXRGUlc1dmRXbFZiakp4WlhkeGRFbzRSVzFzV0VSeWExUmxUakZKUnprNVVrOW9XR1Z4WTBsdVUxQnNUMWswVEdkUGVXZE5hRmRaUWpJM1NXOXViak52TlhGZlNYa1NGM05uZVhkaGNYSXlRWEZNT0hBNE5GQTFZVjlWYzFFMEdpSkJSSE55T1daVFQwSmhSVWwzTVRsRE0yeGlZV2szV1RKa1ZFNTBlbmRZTkVwMw",
+      "job_title": "Senior Compensation Analyst",
+      "employer_name": "LanceSoft, Inc.",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://lancesoft.com&size=128",
+      "job_city": "Raisin City",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://us.trabajo.org/job-2850-41db5abdc7307e12db6c5deed2ae9a91",
+      "job_posted_at_datetime_utc": "2026-09-11T00:00:00.000Z"
+    },
+    {
+      "job_id": "ZjUyU2xfblphczFxUmhpQkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMG90Y0RsNVIyUTBRekF4ZHkxTlRsUlNaRVZmYVRkNU5ubG5kME5uZDBGQ2FGUkpUekpuWTA1SVVHeDZVVFZqTFRWcE5sQlJRM2xxYXkxVlNtVlNRMlJaYW10R1NqSTNiRzlaYmtaSlJVbExVemx0ZFdSS1YyaE9aelJCVjFReUxVaHpZa0ZuT1d4R2VsQmlTMWh0Y1c0M1FXOUpORGhLVWpsMFFsQldNa3BHV2xrMU1VMFNGM05uZVhkaGNYSXlRWEZNT0hBNE5GQTFZVjlWYzFFMEdpSkJSSE55T1daUlZqbFlRVm90VjJOck5pMHRVaTFvTFRCZlpEWndUbGRDVjE5bg",
       "job_title": "Senior Compensation Analyst",
       "employer_name": "LanceSoft, Inc.",
       "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://lancesoft.com&size=128",
@@ -179,7 +135,18 @@
       "job_posted_at_datetime_utc": "2026-09-11T00:00:00.000Z"
     },
     {
-      "job_id": "NnNlWktZZHRIN0Y4Tzk5dEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbEkyWWxoU2NsSkpVMVZYV1RScGFuVTNRMFl6Y21jeE1GRnlVV1ZTUVRSSVZXMXliR2RuUldWUVlWaHNOUzFXVEhKaVJFaDFNRGd0UTFseFRXeEJhakZqTjNkUlUyUXhWWFpHY25WMmIwdzBZakZTWkZWUFZFbE1VVmh5ZVhab1ZHTXRWSGhSTmw5WU5WVmFXVnBWZDFaU1VVOVlWVTlZUzNsNGIwVkpjMEl4ZW5GWVNFc1NGM2czVTNWaGIwZEtTblkyWnpGbE9GQnVjakp5ZFZGUkdpSkJSSE55T1daVU5YQkpORWRmTjFOMlMxRlBhVVZTYms1S2NESjVaRFExTUhkMw",
+      "job_id": "N0p2eDk0Z014VTFzSTNIT0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMlY1U0RkRk1IVnRhVFV5VDFac2FVTkJaR3BFZWpkNE5YZzNTRFpNZW5KeFluUmZWRnBvVFVSelQycEtPQzExV1cxRWFERlBXbVZGYkZoRmJscG5UMnhxUm1KWlRGcGZkSEJGUlZScGR6SlNOV1EwUTBzeE5ISlViVXBPVDNwcFNXbHhkbmN0WTFOWmEyMXBlbkV3YlV0QlowNUdWWEo0VG5waGFscHlTeTFqVGxwVmVGWVNGM05uZVhkaGNYSXlRWEZNT0hBNE5GQTFZVjlWYzFFMEdpSkJSSE55T1daUk9VUm5abXRMTkhveFVVTldZMVkyTFUxNGQwbEJWbXBTV2xoMw",
+      "job_title": "Senior Compensation Analyst",
+      "employer_name": "LanceSoft, Inc.",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://lancesoft.com&size=128",
+      "job_city": "Lancaster",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://us.trabajo.org/job-2850-77b3860bdd2566b79b11487f67dca775",
+      "job_posted_at_datetime_utc": "2026-09-11T00:00:00.000Z"
+    },
+    {
+      "job_id": "NnNlWktZZHRIN0Y4Tzk5dEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM2d6YVVScUxXd3dRVmN5TUVaUFZIYzFiR05RVkhWdVRuWnpMVFo2VjAxM2JWSkxUek01UVVKV1ZUTjFWWGRTVkdaSmRIaGFka2RzZG5CcmVEUjRjRWxaYmt0b1ZubDBha3BGUkVaUlRFSTFURk5SZEVoRVdHaGhURzlyTVZCNFVscHBZVVpvYUhFMVZub3hZelY1ZW10blVHZDBVVk0wT1dabFptdGFSVzVsYTBaRldtTVNGM05uZVhkaGNYSXlRWEZNT0hBNE5GQTFZVjlWYzFFMEdpSkJSSE55T1daVExXeEJXWFJrZEVOV1QyMTJabEp0ZURWVU1GQkNWWGRHYjB0Ug",
       "job_title": "Compensation Analyst II",
       "employer_name": "San Manuel",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNJZMG1hchRtQ-29p6K6N68jigd0cdzGL281RU&s=0",
@@ -190,36 +157,36 @@
       "job_posted_at_datetime_utc": "2026-08-29T00:00:00.000Z"
     },
     {
-      "job_id": "dEVCc05wWkYwQ3lLUUMwNkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbEF3V0hkM1VYcEVWMmh2YnpGdk5VTnhhMEZsVDNreWJUaEhiUzFuTldod0xTMTVZV3BmU1ZsVFZHRnhjR2RSYjJZMVVUWkZPSHBWZEhoUFRUbGpjRWhvYmtWQ1ltTTNXVFV6WW10TE9WRnpWemx0ZFhSSFJrdHFNbkU1WW5WTVkweDROM2xPYkRkbGVEUTRkRGM0T0d0cVIwcG9OWFJDTTBGWlZtaEJTMEYyV20xR1kwd1NGM2czVTNWaGIwZEtTblkyWnpGbE9GQnVjakp5ZFZGUkdpSkJSSE55T1daVFdIaE9TRTlETjJwU2FHaEVXWFpqU0hJMWJWSXdkbkV3Ym01Qg",
+      "job_id": "ZEJKSzVJbU92b29xZC1EeEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR2RoWm1GT2VqUkRkVnBEUmxCNU5tMVVWM0Z5YTBObGJVcEZjV000VUU1UFdscEdkMDVPVEZKVFVXbE5PVTVaT1MxVWNrRmpkMmxYZURJMlFXcE1aM3BMTkVkWGRVSTVTREkyU1ZaV09YZHVXbk4xVDNWM2IwdHBVVTFVYmtOeVJURkVRM1F4UjIxR2EyTm1hR2N0VERsUlRHRnFlV1pTYURNd1puUnhPRnA0TmxKYWRsa1NGM05uZVhkaGNYSXlRWEZNT0hBNE5GQTFZVjlWYzFFMEdpSkJSSE55T1daVU9GRlhXbk5NVTBsMlNYTjRWemh5YW5ScVJreHJUMUk1UWtkMw",
       "job_title": "Senior Compensation Analyst",
       "employer_name": "LanceSoft, Inc.",
       "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://lancesoft.com&size=128",
-      "job_city": "Santa Fe Springs",
+      "job_city": "Fields Landing",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://us.trabajo.org/job-2850-0e6cc205f659be8d385066754a0c7179",
+      "job_apply_link": "https://us.trabajo.org/job-2850-cfa6724db024e4ff6a486031016bceb6",
       "job_posted_at_datetime_utc": "2026-09-11T00:00:00.000Z"
     },
     {
-      "job_id": "NHlEMmdDVV9XVm5tUzNLcEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMk4xU0RRMFJVSnFhblEwYTJKWlVqTlBVMU55TUZNMGVXVmFjVVpDUjNneFZtUk9kbGd6VVd4Q05GcFhaMEZQUzBsMFVXeHFRWEJXY2xaUVRVWnRaVVpQYkdaTVQyaEJSME14ZURoVGFreFhhM2hVZERoMlJqaHFkWE5PVmtvMU4wb3pOVmxaZVRONGRGTTBORVpwWDNScmNrbFBkbEZCWnpsblpURm5Za2hCTTNOSlVVc1NGM2czVTNWaGIwZEtTblkyWnpGbE9GQnVjakp5ZFZGUkdpSkJSSE55T1daVFNWZ3lNMVF0V0hKa1ZUbHNiRVF6ZWxvNGVITmtaVkJhUzJkQg",
+      "job_id": "Z25NQ1J2N0FCMFB5VjNnaEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMlZEUjFnMlp6azVSekp1WDNWNWJrNW5hWE0yYUdSNE1IcDBWVkoxVFRSM1oxVm1ZMlozTlhKemRTMW5NaTF3Y1hob2VUUlJXWEI1UWt4TVMyeDRkRmswTTJaeVJWTm9lRFpwUjFrMmMxUlNkbVZMVHpZMmNFbHVjM0JQVTNCdU5uQklkMVZZTFVsUE1WbHVMVk5UVkVOMVZVbDFjVXBzUkMxWmRrNUthVTlOYzJaSFMxb1NGM05uZVhkaGNYSXlRWEZNT0hBNE5GQTFZVjlWYzFFMEdpSkJSSE55T1daVE5qWXdia3BPTmxOcFkxcE9OR2R6YW5oMU5HZHFRMnhKVEhCbg",
       "job_title": "Senior Compensation Analyst",
       "employer_name": "LanceSoft, Inc.",
       "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://lancesoft.com&size=128",
-      "job_city": "Meiners Oaks",
+      "job_city": "New Cuyama",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://us.trabajo.org/job-2850-7b3f3ed21becf64bf24c62444c473beb",
+      "job_apply_link": "https://us.trabajo.org/job-2850-c71c32fc2fdeebff4a8fc310890be94f",
       "job_posted_at_datetime_utc": "2026-09-11T00:00:00.000Z"
     },
     {
-      "job_id": "NGpuaVRuTFpYZmFyTTBDQ0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURlJzU0d4QlRuZDJabnBQUkdkRVpUVnVaMHN5Y1ZCRldFTkpSV0Z6TmtsNlVuTktWa041VmpkUGNqUjNWemN4YkRZNFVtTmtXbU5NU0RFNFFTMDVhbk5oVlVnNU56WldkVWR0TmxCa2IybDNTMlo0WW5CcGFISmtlSFpVU25BNVFrZHljVWxWVFZaYVdVWmFSVlI0UldnNGRsUjNRMVJaU2xoaWFsRXRNV1JIUVdOWGFXNFNGM2czVTNWaGIwZEtTblkyWnpGbE9GQnVjakp5ZFZGUkdpSkJSSE55T1daUmNIZFBaMHhYWVhOZmQzRlhSVlIzYTIxMVJYYzRjSFZ4ZFhCQg",
+      "job_id": "eThOcXhHSmlHbmJQSVFhNEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSE5LUW5wZk1sTk9MVVE0TFhSYVlWWnNSR2hCVDB4R2VXWXphV2xGTkVJNFpHc3pia3RpZGpWd05USTVTbFpWTmxCR05GUkdUVEZ4UzBZdGRWbHZWbTlwUm5KWldTMXZRMDF6Tms5aVpIQjJhM0J4UVRCRk9UTTFVbk01WXpGb1pFUkpVSGRLUzFaNFJHSktiSFJ1YURkYU4wZDRUWFphVkVaaU5VTnVVV2R3VERGSVgySVNGM05uZVhkaGNYSXlRWEZNT0hBNE5GQTFZVjlWYzFFMEdpSkJSSE55T1daU1YyMU5lVVpDU0doeU9WOWFMVXBVTWpNM1p6ZDJRbWxKY0c1Ug",
       "job_title": "Senior Compensation Analyst",
       "employer_name": "LanceSoft, Inc.",
       "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://lancesoft.com&size=128",
-      "job_city": "Muscoy",
+      "job_city": "Wrightwood",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://us.trabajo.org/job-2850-62ce76dfa63c0d49dd2a73bcb6fc0b0d",
+      "job_apply_link": "https://us.trabajo.org/job-2850-0d297840d61b279eee8efef9b10efdcd",
       "job_posted_at_datetime_utc": "2026-09-11T00:00:00.000Z"
     }
   ]
