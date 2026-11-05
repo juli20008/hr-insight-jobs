@@ -1,9 +1,31 @@
 {
-  "last_updated": "2026-11-04T20:16:41.440278",
-  "total_jobs": 23,
+  "last_updated": "2026-11-05T20:28:35.175733",
+  "total_jobs": 26,
   "jobs": [
     {
-      "job_id": "N3ZCdmNqalRrcHVXRHpibEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa2hpUW5SMVMzcDZaRUZtU0ZCcGJrNWZhVE5vY1VKUU4zQjVTMTlTU0drMU1rOVJObDlrZFRob2RteExVemhwZVZsVWFFVmhVRU50TFZWbmQzYzFSRm93Y0ZKeU9WRm1OVXhLUnpkM1RIWXdha2x0ZW5NeFVsVlVjV1UxU1cweGJsbGFRMVpSY0ZkWmQyZGlkMDloYzBwVmJtTTVVR3BSYzFwM2RqTjNZalE0U2xsUlEyc1NGMmsxVEhKaGNqTldUV1ZxYUhKMVJWQjRPRmhYTWtGckdpSkJTRTR3UlRkSGNtSmZZWEZzV1RWMWJsaDZVakowVDBoa1gzUlhkamRoYzNObg",
+      "job_id": "UWdKWHNvVWVheXR1dVdXbUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVEIwU2tkM1NqSmhNakpLUmtGU1VHOHlPVWRuWmpGNmRWaFJOek5oVDFWSFoxVmhWbE5rWXkxbk1rVTBRemxuVGxSTFlUWnpUak5yWmtWVk5tZ3hNVko0WXpKNWNGaEtRbGRaVHpacWRrVnRaVUZMYWxOU1pVSlFUazVLY20wMVZETktWWGRqY1VnMlVIbE5aRUZSTVhwSVJEUjFOMkZQYm1OMVRFaE5NbGRYZVMxc1JDMFNGekl0WW5OaGNraENSVXBsWlhCMFVWQXhTWFpaZDBGWkdpSkJTRTR3UlRkR1FtZzNObmxMVFc4NE1EUmlRaTAyYjFwdllWbElTbFIwWVY5Mw",
+      "job_title": "People Analytics",
+      "employer_name": "Child Care Resource Center",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://childcareresourcecenter.org&size=128",
+      "job_city": "Los Angeles",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://us.trabajo.org/job-2283-17e8b0965dddbd3edb440bad726d34dc",
+      "job_posted_at_datetime_utc": "2026-10-20T00:00:00.000Z"
+    },
+    {
+      "job_id": "MEdBcUhPd0RJQl9nTEVucUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZakU0YVd0UU5tMWxXRUY2VmpaUE1razFVM1JUZUdSc2JtdzJZMmR0U0hOUlVFSlRRMkpVV1VaTFQyUTVRWFpyVmsxSlZTMTRRVjlsUWpSTFVIVlJOR05mWTBObFZHTTRiWEpVVUZKTGQzTjNhbWt5UXpKaFEwUjFNaTFFYXpoV1dWOUtkV2d0VmtwQmFtdFdlVVJKV0hSM1RXSkJOSFpPTW1wQk5uY3hjMmh0WldwTmJFSVNGekl0WW5OaGNraENSVXBsWlhCMFVWQXhTWFpaZDBGWkdpSkJTRTR3UlRkSVh6VjBVVWxGWTJ4UlNFUlBUMTlKZUZGWGNHZEhTMnBzWVhkbg",
+      "job_title": "PSC Workforce Analytics",
+      "employer_name": "AltaMed Health Services",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://altamed.org&size=128",
+      "job_city": "Anaheim",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://us.trabajo.org/job-5381-2a2306d52660a3dc5ceffbbac10064d7",
+      "job_posted_at_datetime_utc": "2026-10-12T00:00:00.000Z"
+    },
+    {
+      "job_id": "N3ZCdmNqalRrcHVXRHpibEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV05FUmsxS1ltVmtXa0ZmUzBOVlptVnViR1EyVjNWR01YWjNiSFZ5TmpWU0xVMWFVMWhSUTNOSFdrbG1WbE5QWVRGaFVsZENkVW8yY0MxdmRXNUNkMFZrUVZoWGRrUllTQzFRZWtOR2JHRmtjMEZ6Y2xobmNHTTBVRmxVWVVWUVV6TkZTa2hPUTBoS2RXSjVSMlZwVlhOalZXUnlUbUpPZEdSRmJqY3pTazVXVmxOSFZuUVNGekl0WW5OaGNraENSVXBsWlhCMFVWQXhTWFpaZDBGWkdpSkJTRTR3UlRkR01HZFdOMFJHZFV3NU1ubHFiREpvYjFGS1dFMDBlR0o1YzBWUg",
       "job_title": "Senior Service Workforce Analytics",
       "employer_name": "Supermicro",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsRLi0UycCHBwc_thf7sOQ_ufDj0ZGvsnMWHMG&s=0",
@@ -11,21 +33,32 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://us.trabajo.org/job-3991-1b92c8bd2221a64936c7accc11b9e56c",
-      "job_posted_at_datetime_utc": "2026-11-04T20:16:15.023201Z"
+      "job_posted_at_datetime_utc": "2026-11-05T20:28:13.784292Z"
     },
     {
-      "job_id": "OHBkNExqQjIxSHdSc0pveEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVVZJV0cxcVNITnNNMDlmWkZCc1VVTjFjR2x3TjA1eWVXRk1aVlJuYjFsQ1RreE5lWFF6Vms0NVREbGpORFJwYkdWNWJqZDBOR0poYm14cU5tRjFNWG95UkZabVgwdElUblJzTjFSR2VqQkdjR2xWVnpGSGVtaHFVMDFaYzFWSlpuSlhTR1JxY1hKU01sSnJOR2RpZUhsWVRGcE9hR0pxTTJOQ2FGazRjUzB3YURsVWEzZ1NGMmsxVEhKaGNqTldUV1ZxYUhKMVJWQjRPRmhYTWtGckdpSkJTRTR3UlRkR2QyaG5kRmRxZFdkS2NXUlJPV1YwZEdkdlMyNXhXa3hHWkd4Qg",
-      "job_title": "HR Operations Analyst",
-      "employer_name": "Energy Innovation: Policy and Technology LLC",
-      "employer_logo": null,
-      "job_city": "Inglewood",
+      "job_id": "QlBCbTJTYUtpdk9jUWt1MUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV1pLWnpSZmIzbEdWRzlSVURsVk9DMVZURGMxVDBndGIyOXVSWGd5YlRSR1ZVZ3RaSE5DUnpSWmEyRjVTM1o2YTNVM2EyMUNXSEJPUjNJelF6ZDJTbUZsVW0xdmRrMUpkSG8zY0ZsVmFuRnNSMkpTVWs1U1ZVWmxjazF6U0dwT1ZHNDVaRzgxYTIxaGRUUktVazVqZGsxeFkwaFJOa3hrWlZSMlRWRkRVR2RpV1U5TVMyd1NGekl0WW5OaGNraENSVXBsWlhCMFVWQXhTWFpaZDBGWkdpSkJTRTR3UlRkSGMyZGpYMnhWVGpSQlVuTlNPWFZGUlZwTE0yaFFTbkEzUVd0bg",
+      "job_title": "HR Data",
+      "employer_name": "Naval Air Warfare Center Training Systems Division (NAWCTSD)",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGyuG23jFx2N8qQXu8-OoAFJzmHmyodh8LD4JF&s=0",
+      "job_city": "San Diego",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://us.trabajo.org/job-5381-b7f82b92ce016532b191a45c428fd472",
-      "job_posted_at_datetime_utc": "2026-10-29T00:00:00.000Z"
+      "job_apply_link": "https://us.trabajo.org/job-972-a39c9a12ead035a52fa5990f53bf5f02",
+      "job_posted_at_datetime_utc": "2026-10-17T00:00:00.000Z"
     },
     {
-      "job_id": "TjM4Q0QxUU95Q1J1anF3dUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVXhmUmpKblNUTlJRbFkyT1RNNWNqWkJVelJoY3pKamVGbFpURk52ZVVOclUwaHBhVUppYmtwamMySlpaR3R1VFdaUmFVdHNXa3A2WDJwNVREUlFaRTlZTFZKblpVNXJiazFrZUVOamJtdDJlRWQwVWtSa2NqSlVWR3RQYTBKcVpVNHlOMGRSTlZaME5tRnJZbkZsUkUxTFRFUnFXbUpDVVRWeU16Tk5PVnB0ZW1ac2JsSVNGMmsxVEhKaGNqTldUV1ZxYUhKMVJWQjRPRmhYTWtGckdpSkJTRTR3UlRkSWJGVlZTa3AwVEdGSmFXRXlSMDlEY2t0eVFtdHBkVlk0Y2s1Ug",
+      "job_id": "aVNISWlpLVFpT29Zc284TEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV3hDYVRsWFJWZFRURUkzTURjeVUxVXlZVEUwYUVKQlRYcDZWRWxCVEhwUFRsZE9jRGxuV2tOUFVqQkpaVGREVWtKdE5Hb3dTMVkwY25BeU5HTlBkQzFoU0hwcWJIYzFkMDh3V1hwaU9UaEtjREZKVDFwQ04wRTVlbEpxUVcwNVVuSm5VRloyZUdJNGNXa3lNR1JuYTJkaFRWUktlRTlGV2xwM1UzZ3dNSE5DTmxaZmFUTVNGekl0WW5OaGNraENSVXBsWlhCMFVWQXhTWFpaZDBGWkdpSkJTRTR3UlRkR01FTjJWMXA1YVVKMVRrSklURFJ5ZVcxT2RrNUNha1JhWkhWQg",
+      "job_title": "Workforce Management; WFM) Lead",
+      "employer_name": "TechDigital Group",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://techdigitalcorp.com&size=128",
+      "job_city": "San Francisco",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.learn4good.com/jobs/san-francisco/california/info_technology/5582133883/e/",
+      "job_posted_at_datetime_utc": "2026-11-03T00:00:00.000Z"
+    },
+    {
+      "job_id": "TjM4Q0QxUU95Q1J1anF3dUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbFUxTTIxa1JuRkxUWE01UTNWU1FUWXdWMFpHU0ZsalNsSlRPVkJ0Ym1jeWRtZHZTRmMzTUdSak5VRTVNMW8xV2s5dFpVcDRWRlJFZDJ4MlNGaFRaREU1Y0ZocGRGOXVaMVJpYjBaQlJtWllOM0ZHUlRWa2QzZEVia0pxVGtNdE5uUnVjV1V3VkZGc05IbFBaelJhYm5walkwNDJNVkpLWTBkTlZrUXhlazU1Y1VSMVFuTVNGekl0WW5OaGNraENSVXBsWlhCMFVWQXhTWFpaZDBGWkdpSkJTRTR3UlRkSE1UWnplWEJwVWpsdGVsWTFSblpZYTNoTmNtTlNRVFZtYVVaQg",
       "job_title": "Senior HR Data Analyst",
       "employer_name": "CAI",
       "employer_logo": null,
@@ -36,7 +69,7 @@
       "job_posted_at_datetime_utc": "2026-10-31T00:00:00.000Z"
     },
     {
-      "job_id": "eW5TeFp5TExyVWlEMXBlakFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVE5sYlMxUlVIZENhWE5wUVdaSE1uQm1iR3RtVWtkc09FVkNlbUZMUzB0TVpHUlNja2hmZG5scU5sbDRUek5CTTNFdFVYVnZObVZ3VFhrNGFYSkJkMkpVZVZBMlNYUkJOMWt0UmtWWWNHaFVRM0p6YjBveWR6WlNaRWhOUkZwWmJtczBRVmR6Y25nMVNHOU9aMEkzWm1ac1pqbGFOVVJmUTNocVZsaHJZV2MzWmpCU1dXWVNGMmsxVEhKaGNqTldUV1ZxYUhKMVJWQjRPRmhYTWtGckdpSkJTRTR3UlRkSWFtcG5NbFpOYmtsT1ZIUjFOMDFHVjFsRVNtbExaekZMTTFaMw",
+      "job_id": "eW5TeFp5TExyVWlEMXBlakFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbmd5ZGxST05URjRVRGRFYzJWalRtVlJkbmRuYUdoaVNEWmxOM0paU0RacE5VcHZhRkZrYVRKbVp6TkJWMFZ2Y0dsUFptNW9WMnBsYW5CRldWUXdaVkEyUVRreU1GRXRaMFF5WldjMFNXOUNPSFJuVW1Wa1JGcG9kR1Y0YUc1eGNGTnpkM2hhVkMxbmVYZGhlSFZVTTJSalJWTTFXbTFQYTNseVRtcHlVM2M0WjJkNGVWb1NGekl0WW5OaGNraENSVXBsWlhCMFVWQXhTWFpaZDBGWkdpSkJTRTR3UlRkSE5EaGZPRXRzY0hsT2NuUkVOazgxU1hoYVRWY3RRMmRITUc5bg",
       "job_title": "Analytics Engineer, HR Analytics",
       "employer_name": "Elastic",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx5pEN-ZYaZgVzKINhvUh6EDCi7Nr7jvC7KnG4&s=0",
@@ -47,18 +80,7 @@
       "job_posted_at_datetime_utc": "2026-10-29T00:00:00.000Z"
     },
     {
-      "job_id": "TjN3cGE2ZnhoQTYzNGNab0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV2gxVlY5TVdtbHpUR1YxUkRFelFsSTFXRWN3VkZac1RsbGFhak5UVUZsV2EyZHFlSGQ1Tm14clgzcGpTM1kxUW5CRGVrNXliV1U1ZG5aNU5XbGFSRWhxVVRCVWRsRlFMWEZhT1dreVYzYzNUMUpuTmxZemIwWXRUMlU1VW5SQmNUTmFRbmhTVURJMU5HMTNaMlpvUzA1elFVRXdlSFJwZEZScFJVaGZiRU5JZWpKbU9EZ1NGMnRhVEhKaGRXcElRMlo1VkRRdFJWQjVORmRYZFVGbkdpSkJTRTR3UlRkSUxVTlJTMGh0TVhWRVRHTlhlbUZhUkZwUE9HRlpVVzEyYUU5Mw",
-      "job_title": "Senior HRIS Analyst (Workday)",
-      "employer_name": "EarnIn",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnhR37XXhBG25dIAjeF3MkoBUkc3Np_8wSldUU&s=0",
-      "job_city": null,
-      "job_state": null,
-      "job_country": null,
-      "job_apply_link": "https://www.linkedin.com/jobs/view/senior-hris-analyst-workday-at-earnin-4487292589",
-      "job_posted_at_datetime_utc": "2026-11-04T16:00:00.000Z"
-    },
-    {
-      "job_id": "R21pTFFWNU1ESHZJMmNVakFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbkpxYldGTFlrZ3hkME4zTjB4NlpYSm1YMmN3VFRWZk0xRkROa2hZYWxOSVZpMWhha3RKTFVseU9FZ3pXRmhETFZaT0xWUlBWMk4yUzJKaFZERjNOVXd0WWs1Tk9FTklaSFZpVnpkMmQyRmZjRVkxUTFJd1ZrbDJTMVpMZUhwblpUZFFSR2xTVVMwNU5sUk5RMGRzU3pCNloyNU9iemgyVUVoQ01HazNWbmhNTm5BMGFHRVNGMnRhVEhKaGRXcElRMlo1VkRRdFJWQjVORmRYZFVGbkdpSkJTRTR3UlRkR01qSTBWRTFKWTBSeU1pMXZNbVJ2Wld0RlZuQkVUMjVrTlVKMw",
+      "job_id": "R21pTFFWNU1ESHZJMmNVakFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVEpwTTJGTVoxQjJOMnRMTWprdGJHOTFNSFpaYkdaRllXeFhOMjVWZEdKRE1XbE9lVWhJU1hSQk0xZE5aR3d3WTNaa1kxWTJhbEJzZHpGSVQwUkJYMkZUVUZOSkxVeERhR2RoUVVGVldHUmZjVVJ6U25WdFprZEVZa1JaTVcxS1ZUSTVlbFZCZG1OcFJFWTRjV2wyWWxwWVV6SlJVSFZRYW5wTU5WSTJTVWRHVlU5clZEWVNGelV0WW5OaGIwZE5URzlVV0RWT2IxQXRkbFEzYzBGbkdpSkJTRTR3UlRkR01WVk1YMHd5YWpScFdITm5XRVkwWTNGU1JraFVURnBZVjA1Mw",
       "job_title": "HRIS Analyst: Workday Expert",
       "employer_name": "John Muir Health",
       "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://johnmuirhealth.com&size=128",
@@ -69,18 +91,7 @@
       "job_posted_at_datetime_utc": "2026-10-25T00:00:00.000Z"
     },
     {
-      "job_id": "RTltZ21BODA1NThXaWlsSUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbUkwUkdGZmMxYzBWMHRVZFVSS1NVTjRVSEEwTmxaTGJ6bFhia05hZGxkT2EySlhiM2gyYjE5VFZFdFhNekZmV0RrdGJIcGpWSGRPVERGUUxYZElVbkJtU2tFNGFtOTVWVWRJZDNCb1pXSjBORlpVWm1acFNWazFjeTF1VGtwTGNXaG1UbkZ4WjFSMVpVMXZVbXhyYlhscU1tSTNWbmcyTjBWa05WcGxMVGsxYjJSaFJUUVNGMnRhVEhKaGRXcElRMlo1VkRRdFJWQjVORmRYZFVGbkdpSkJTRTR3UlRkR00wRkthR1ZqTW05WFVqbDNWM05FWW5SUmR6RkZWRU5pWjNaQg",
-      "job_title": "Hybrid HRIS Analyst I: Workday Data",
-      "employer_name": "Rambus",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://rambus.com&size=128",
-      "job_city": "Sacramento",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://us.trabajo.org/job-5381-11f44c056d76e4a51169203c2a8a69cf",
-      "job_posted_at_datetime_utc": "2026-10-28T00:00:00.000Z"
-    },
-    {
-      "job_id": "aDU4cm55OE1pN3NSVjg4R0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV2xWTkdsdFRtaHFlV1pPWmxCaFdYZHdOSEI2UjBkSmRtSkZiVzFyUmt4V1VVRllPVVJDTTNKT1JGSnRSbFphTVhKT1lrbHhUMUEyTlU1NlFXZExUWFJYWkVVNFVUSXdTelF3TFZoaVNFTjROMVZCU0hsb0xWazRjbkJ4Tmtab04xVnJNWFo0YUc5WWQzcFlhbUU0ZDJ4eGJ6VmFVV2Q1YjNOSGMxSnRhVVpNVkhodFJuWVNGMnRhVEhKaGRXcElRMlo1VkRRdFJWQjVORmRYZFVGbkdpSkJTRTR3UlRkSVMwNHdhaTFFU2taSllWaEpZM2xpUzJWSldUVmpVWE54T0ZwQg",
+      "job_id": "aDU4cm55OE1pN3NSVjg4R0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXV3RrY0VOa2NqbG5NWGx1Ym5WV2JXeFFWRlJUVkhsVVEwNHliMUZaV0hFMk5VdFNiRXRhY25oTE1WUXRkVGhHZFY5S2VUQlpjVlZZYlVSb05saHJjMkUxTjNwUE1sVmpZbTFwV0U5M2NYSnRZMTh6YlU4eVZWRXpSamhEYkdreVgyTlVPWEZWYURKdWJVaHdXRzlsTmtFMk5ucG9UR0UyVWtRdGJrdEhXbkJGUzNaVlMwb1NGelV0WW5OaGIwZE5URzlVV0RWT2IxQXRkbFEzYzBGbkdpSkJTRTR3UlRkR2VYbFJOVmcxVm5wTmFuWlpNamhKYm1GM1RIbFFNMU5EUkZabg",
       "job_title": "Impactful Workday HR Systems Analyst",
       "employer_name": "AltaMed Health Services Corp",
       "employer_logo": null,
@@ -91,18 +102,18 @@
       "job_posted_at_datetime_utc": "2026-10-08T00:00:00.000Z"
     },
     {
-      "job_id": "TkJWSFg2bGdOZW9IR1QyMUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVTQ1UWxObVRsWnRjRlpwZVRNMlpVVkJMV1JyZUMxWE4wNDFVRWR1V1U5SlZWUXdlRll5YTJWclFtTTBTa2xwT1Y5QlRWY3lSelJQYWxoeldsRmlOMmRMVDFCcE5tVnhObGhETjBjNFZUTkNibGRSTUU1aFNsSnNMVTFKY2tGQmJHVk9NRUYxT1RkdGQzaGlTRGxrZDNaeFFWSmZSbVV0Ukd0RFRWb3RORkJUYkU5MFNUa1NGMnRhVEhKaGRXcElRMlo1VkRRdFJWQjVORmRYZFVGbkdpSkJTRTR3UlRkR1NHSk1iRjl3U25GVFVrTkVkRk4wVWpKSlgwVmxkMWQ2VVhsUg",
-      "job_title": "Junior HR Systems Analyst Benefits",
-      "employer_name": "The Cheesecake Factory Incorporated",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn2r_ijalo9qKhAds6cE1EJhhe7sVBdCv_quFn&s=0",
-      "job_city": "Calabasas",
+      "job_id": "bVZXTGR3N2lOUnNHOVdiakFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa05ZTkRCekxUZHpaa1p5WmxGTlZHSTJRazB3TW1OUGQxVlpXRWRNZVZwTGRXRnRVbFpTVDE5NWIyWTJOMUJHVDNkYUxWZzVOVEI0Y0RaVE1YWkJXRGRrU2kxWldFMTVSR3h2YUZKSWVEQnZVMVpFVFY4NWIyeEllRk5RTVVKcVNWRmxWSEZwUm5Nek1IZFpVRmhaUlcxUmFIRklSVXRLUVVwb1lYbGtUV1ZyYzI5blJUQVNGelV0WW5OaGIwZE5URzlVV0RWT2IxQXRkbFEzYzBGbkdpSkJTRTR3UlRkRk0zWTNkemt5WTNnNVdXaHpaemhOV25STVZFbG9PVlJOTlhGbg",
+      "job_title": "HRIS Analyst",
+      "employer_name": "Figma",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpAeYHiLEzY_G77weaTEbHV1ZFHuptd20HXfIu&s=0",
+      "job_city": "Riverside",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://us.trabajo.org/job-5381-d2d2acb9d10e83291376ec9ea1af2c06",
-      "job_posted_at_datetime_utc": "2026-10-30T00:00:00.000Z"
+      "job_apply_link": "https://www.learn4good.com/jobs/riverside/california/info_technology/5586761401/e/",
+      "job_posted_at_datetime_utc": "2026-11-05T00:00:00.000Z"
     },
     {
-      "job_id": "dWNHOUN1LWRtQW1qSEFrYUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa3hqU0Zsb2JVZ3pObmd6YldSRFYxSkNSbm8zVVVGT1JXTm5XVmd5V25WMFVWaGthSHBPZVZaWWMyUlhWVGhIWm00NVRsTm1XbFZoVVdjeE4zVlNlbUZIWlRJdFJrTmhOMGd5VDBaYWRFeHRUV28wT0hoZk1rc3dNSE0xTkRoT1dXcHVZamc1U0RKRlVrbEJSbTR4ZFMxa1lWbFFTSEJyWmw5U1RraEZZbFEyTTJsdk4xWVNGMnRhVEhKaGRXcElRMlo1VkRRdFJWQjVORmRYZFVGbkdpSkJTRTR3UlRkSVpreElkVTVWWDB0NFZFdGxZV1Z3YXpWeVJVOUdPREJuWkhOUg",
+      "job_id": "dWNHOUN1LWRtQW1qSEFrYUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa1ZTVFU5cFpEWnpTV1JFYUROWWNXNWlRbTR3TmxwWVZXdE1hMEZhTjFCZmFXZHhTWFJaVkRoclRtWXlRVTUwYkdNNFVrdEdRbU5CU3pGU2NHNXZUMVJ2Vldnd00zSnliVmxMYm5wUmRUbEtiV2w0TkV3d01XUktlVTVGU0U5blIwcGFjM1JKZDFwbGFuVlFXV0ZvVUZKV1RVTkZURm80YURGb2VVZDJVMk13Y2tGSlZWTVNGelV0WW5OaGIwZE5URzlVV0RWT2IxQXRkbFEzYzBGbkdpSkJTRTR3UlRkSVNqaE9SeTFxYURKV05EZ3dhbVJXTWs1eE1FWnJWbWd4YzBkbg",
       "job_title": "Senior Workday Analyst, HRIS",
       "employer_name": "Foundation for California Community Colleges",
       "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://foundationccc.org&size=128",
@@ -113,18 +124,7 @@
       "job_posted_at_datetime_utc": "2026-10-31T00:00:00.000Z"
     },
     {
-      "job_id": "dzBfZllELTYwTnowWkFGb0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXak00ZDNSSGFGZHpTekZZWldsVFYwbzNOVk5qUmpFelVuSkxPV1pwYTBaSFJHOHRjamQzWHpSUGVFZGhjMjFaWldGYU5WQjFhblpWUkdwWU5XWkVhalJCUXpOelFWQTJMVTVCZUZWS01WQnZNWFJoV1dob01tdFlXRXMwZEV0dk4waGhhVWx1VTBZeVpUUlFTRTU2WkZJMlJYZDJOa2xzUzJSNlpVbG5hRXhVWnkxSE5EZ1NGMnRhVEhKaGRXcElRMlo1VkRRdFJWQjVORmRYZFVGbkdpSkJTRTR3UlRkRlNIWmtTamxTVTJ0bVVtZERURWhoYkV4ck4yRnhTVTlZVEVwQg",
-      "job_title": "HRIS Analyst - Production Support",
-      "employer_name": "Cedars-Sinai Medical Center",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQft-znDSNAEaigAAzgCRLnR6gPpruNtPZ6GWDw&s=0",
-      "job_city": "West Hollywood",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.jobzmall.com/cedars-sinai-medical-center/job/hris-analyst-production-support-2",
-      "job_posted_at_datetime_utc": "2026-11-04T20:16:20.526636Z"
-    },
-    {
-      "job_id": "WDEweGRxRDFTRlBHa3NwVkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZa2hUVGxabWRYVkthVlZTYjFOemJHUTFVa001UlVkcVVXbDVaalpQWmxwS04xWkNiMlozTFZWcVJGQjVPR2hKU3pKVk1UTTFRblZ1WkZkbVVqbEtaRlV4Ykc5clRqVk1PR28wUlRoelowMDVZbEEyYzBwWlNsOTFjVFJVVkVGaVMxZHFNelJNYzFKWFgxZEVObDkxVFU5NVRsSm5XVXBRWWkxaVZVSkdRMUJvWkV4alQxOFNGMnRhVEhKaGRXcElRMlo1VkRRdFJWQjVORmRYZFVGbkdpSkJTRTR3UlRkSWFIcFhlamhUTms5NmR6STBNM0JCVkZCVlV5MXdkamhzZGkxQg",
+      "job_id": "WDEweGRxRDFTRlBHa3NwVkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbWhzVVhGZlJXcE9aV1U0V0dOWVNIaE5NM0JSTWxWc2EwdFlibk5TY0V0WlNYTmFiMjh6WlZCdlZFZDZWMWg2VTJOS1prOWhSVWRRVVhCUE9GTmxaalpwYWpWVlVtOTFabWg0VWxsTmVIaG1OQzEwY2xkVlNHVm9iRkp2VDFOMGJYTm9NR2hMYjFGRllVOTJWelJwY1VaWGFXNUVRWFprWlU0MlV6Rk1XV1IyUW5KdFVsWVNGelV0WW5OaGIwZE5URzlVV0RWT2IxQXRkbFEzYzBGbkdpSkJTRTR3UlRkSVgxZHZjbU5NYzNaclRGSnpiM2h6TlU5WVYxZEJNVWRNY0ROQg",
       "job_title": "Remote HRIS Analyst",
       "employer_name": "Aeroflow Career",
       "employer_logo": null,
@@ -132,76 +132,87 @@
       "job_state": null,
       "job_country": null,
       "job_apply_link": "https://www.talent.com/view?id=635758341053227892",
-      "job_posted_at_datetime_utc": "2026-11-04T20:16:20.526646Z"
+      "job_posted_at_datetime_utc": "2026-11-05T20:28:28.674306Z"
     },
     {
-      "job_id": "UlFSZFFnczIwYzI2YklJUEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZa3hHZGxacExWZHVWazFuUjI5cU9FdHRXRTV0TldKYWJYUjVMVzB0WjA1bFlreGhZMVJuZWtZMlNHeE5abWRwUlhCdFRVaEJNMFJmUWtWbVIwSjVTVWN5UkdWblgwdE1WQzFpU2xoV09FazRWM3B6TFdwNlQwSjJTelpxWVdsWE1WcDNZbHBIYVVOQ1IzbGlTRzE1UlRWcFpTMUlOa1Y2TjJvMlRITkRjR2RNYVdjMFExRVNGMnRhVEhKaGRXcElRMlo1VkRRdFJWQjVORmRYZFVGbkdpSkJTRTR3UlRkSGVEVjNTa3RvTlVkWE9ERlNNbmhhV20wd1JqUlFVWFpCWW1sQg",
+      "job_id": "ZmtEMUZjb0U3MU5kSzF3ZUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVUZNTVVaU2NHeFFhMGhLVVdNMloyUkxUMlJXUkdoU2QzQnlVa0pHVm5STGQwMVlObXhUV1hWdlUyYzBia1psU0hvd2NVWTNiV2RyY0doNE0zTnZVVEp0Vldwd1ZtaGxRV054TVVsMVJESndaWEpsZFRRMU1tMHhSMUZ1WXpaVGVrUXdhbmRqTkRVM05GaFVlVWhEVms0eVdXTlphVkZ6YWxodk5URnNSekZQWDBSS05rMFNGelV0WW5OaGIwZE5URzlVV0RWT2IxQXRkbFEzYzBGbkdpSkJTRTR3UlRkSFZrSnpNRWxTVFc1MFRWcE9OM0poTTFONWVsTkJNSGxqVEZSbg",
       "job_title": "HR​/HRIS Analyst, Workday",
       "employer_name": "Helios Consulting LLC",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKPXZtey8K7X_UFTluAD4rMl0JQra31PHAVGjW&s=0",
-      "job_city": "San Diego",
+      "job_city": "Los Angeles",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://www.learn4good.com/jobs/san-diego/california/hr_and_recruitment/5565330220/e/",
+      "job_apply_link": "https://www.learn4good.com/jobs/los-angeles/california/hr_and_recruitment/5565330231/e/",
       "job_posted_at_datetime_utc": "2026-10-29T00:00:00.000Z"
     },
     {
-      "job_id": "elFnWVhIY0lsUHZhZ2xVR0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVTVVV0hodE1HMVNhMEpJYm5sdWVGRmhjMEZ6VWtocWQyRkVkelJNVDNWWWJqRkVZbUZpY1VwTGRVaFdaMDB5UVZGSlNrRjZaR013ZDNkSWFuZ3RlRTVZYlZObGNsQmFVbTlxWTB3Mk0yeGxWM05PUjIxMVVuazFVVzFRUjFsUFpVVnZlblJhYjIwMlpXdGxXRlF6VWtKeE1EZDZYMXBaVm5KbVpHTkNPVVU0YWpoMGRuTVNGMnRhVEhKaGRXcElRMlo1VkRRdFJWQjVORmRYZFVGbkdpSkJTRTR3UlRkSE5HOUtNVE50VlhFeFVVdFFPVnBCYWpacWVHSjZhbXRpYW1abg",
-      "job_title": "Workday HRIS Specialist",
-      "employer_name": "Ultimate Staffing",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBbCtHuIoWKm-23SWUFHuDRf0NpryrQ8dNX801&s=0",
-      "job_city": null,
+      "job_id": "b1h3U1Q4VEk4bUJjR2NFaEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWEZmYzJVMGJYUTVXbkEyTm1KT1dEUlVhV1pqVFc1bGVtODBOVGh3UVRWclNreG1OVGRMUWkweGJHOXdSMjAwT1VoNmJWVjZiRGRrVTNselVqSjFVbmhyVHpSR1VqaGlhVnB1WjBVeVp6RTFia05hVDJoTE1WRm5jWEF4VjBjelNWaFhXSEZaUW5aZmVtRk5VMFZFVTB0M1ZXaG5TemhGV0hkSWJWQldUVkpyUkhNM1Z6RVNGelV0WW5OaGIwZE5URzlVV0RWT2IxQXRkbFEzYzBGbkdpSkJTRTR3UlRkR2FqWkhPRkpoU2pGbVpsaHVURmxEVDI1bGJFbFNUeTFOTm01Ug",
+      "job_title": "Workday Analyst-Advanced Compensation",
+      "employer_name": "Jobrapido",
+      "employer_logo": null,
+      "job_city": "San Diego",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://us.trabajo.org/job-3991-ec273b22a80e2bf06610360b3baf69f1",
-      "job_posted_at_datetime_utc": "2026-10-25T00:00:00.000Z"
+      "job_apply_link": "https://us.trabajo.org/job-5381-1a18ae283baf65156b6ce728cef889a0",
+      "job_posted_at_datetime_utc": "2026-10-28T00:00:00.000Z"
     },
     {
-      "job_id": "N3VOdnpadDhPSGlJdzNTaUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZak5KYkdOUWRuaEVUMEk0YzAxT1FsVnFRbXBWWWtob1ZEaG9ZV1ZKTVZWeFRXUklRWE15WVdjeWRGRlNUVTUyVlZkQk0xQnZZbUoyVW5CbVZteFZiakppVmpsclNWZGxiV1ExUW5kclVsWTNaMk41UlV0VU5tZGliMUJNZDBKQ2QyNWpkVlJtTlV4TE1sQnFaakpuVVVSUE0xZDJVVlpGZGtoRFRqbDJZazluYUZwdVNtTVNGMjV3VEhKaGNrUnJSR1p0YjNaeU1GQTNMV2xrYVZGRkdpSkJTRTR3UlRkSVdGOURiRU40UTE5RWRUTXhhM2N6V0ZBeFNuYzBiREJZZUhsUg",
+      "job_id": "dHg2a0g0T0tQYktQZHNiSEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWGRNY2pGU0xUTlFXQzFXVUdKQ1VIVmpUVkI1Y0RkNk1HcHdNRjlxTlhOWlJYbHRjVWgwY2tkeFpHNXNRbUpNUmpKUmVUSjBiV3h3ZUZWNWFXRndXWEJNWlMxbUxYRm1kamRtZURKTGEzbGhVa2xwVDNoYVZFVkhXakZSUm10dGNUZzJlRkYyUkZkR2NteDVibkpwUzJKTE1GZzVTMnd4VUZkbVFVaElWMGx4YURSS2FqUVNGelV0WW5OaGIwZE5URzlVV0RWT2IxQXRkbFEzYzBGbkdpSkJTRTR3UlRkSVkyaEVXWFF5UnpKYVdtTk1SRVZ3UzNwT1UweFRNMHQ1UzFGUg",
+      "job_title": "Senior Workday HR Systems Analyst",
+      "employer_name": "Whitecap",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://whitecap.com&size=128",
+      "job_city": "Los Angeles",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.learn4good.com/jobs/los-angeles/california/info_technology/5565369379/e/",
+      "job_posted_at_datetime_utc": "2026-10-29T00:00:00.000Z"
+    },
+    {
+      "job_id": "bzJEZkw2ZDdNbjdlZXFmR0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbEpwYlZCRE1qaHdVMDlDU25aUE0yWjZSVFJUTjFOS1UzQllUa2hPVlRFMk1FSlFTVVJwV2taaWFsTldTbWxJTmpWdVMyUTRkMjgyUW1WTGJIVkNXSFZoVEVKeldEUTFjVEIxTlVkTVJrcDVMV3RsV0dWUGVXRmlaVlI0WW1aUlgya3pXRzgxV1Rac2VtMUxWbXhTU1ZSbkxVdGpkM1kxVmw4dFZEVkhhekpyUkZGbVMyb1NGelV0WW5OaGIwZE5URzlVV0RWT2IxQXRkbFEzYzBGbkdpSkJTRTR3UlRkRlNFeFFlakV3VUdoTGVISkNVRkJxZDJsMGRYSjJSM2RtTTNaMw",
+      "job_title": "On-site HRIS Analyst",
+      "employer_name": "John Muir Physician Network",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://johnmuirhealth.com&size=128",
+      "job_city": "Walnut Creek",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://us.trabajo.org/job-2283-d94241e73178e5447c499bb5d23e8fd8",
+      "job_posted_at_datetime_utc": "2026-10-27T00:00:00.000Z"
+    },
+    {
+      "job_id": "UFloRjFWLUVyVWE3NWJlSEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVlp5ZWpWbloxSjFSMVJIWmxobVRtUTFjRUprTkVaV1RUSldiWEppUTA5a1NIUlRZbVZVTVZsWGF6bDVXbVk1U0ZOa09XNXNXa2xVTUc5UVVUQkxaRUY0VUVSNVVFcE5iM3BzZG5wT056TXljREl3YmtsQ1JGcHFUbkJCWVdsVGMyUkxOMW94TnpWRUxVMUhOVTVQYm1VM1RXY3djbWRNTlVwVVdYb3hWRE13TkZGSFpXd1NGelV0WW5OaGIwZE5URzlVV0RWT2IxQXRkbFEzYzBGbkdpSkJTRTR3UlRkSGNrbzFiVzFtT1VSUFJYVlZTVGhvV1dnMlZIVnlaMEp2UmxwMw",
+      "job_title": "HRIS Analyst",
+      "employer_name": "Oracle",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfAbceqK3dLHhI6ozBxNgWPsTqJhnRq3SrEZ2e&s=0",
+      "job_city": "Rocklin",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.jobzmall.com/oracle/job/hris-analyst-22",
+      "job_posted_at_datetime_utc": "2026-11-05T20:28:28.674325Z"
+    },
+    {
+      "job_id": "N3VOdnpadDhPSGlJdzNTaUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVEY2ZW1Od01USkVWRzFZVEhkU05IaHVSV2gzU0RsTlVUZHRTa0l0ZWtKZlVVTm5NM1Z1WDJ4WVJITnpjVU0xYTIwMmJ6VlFVa2RoVlhNdFJUTTRMUzF5ZGtwTVkxaFFibTlGY1ZoWGVFMUhiRTVrY1hreFVsaHlURXBDZVdoWFUyeEhhVFl4TkMxNE5qRjJja05HVFY5alFXdzBXamxTZEU5VGVHZFZjVXQyU1RSaGQyZ1NGemQxWW5OaGMzWlNSRnB0UVRsMU9GQjNaV0pIYVVGdkdpSkJTRTR3UlRkSGQyMTVlR0pGTkVSelFWUXRYM0o2ZUUxbkxWUTNjMUZKVUUxMw",
       "job_title": "Temporary Compensation/Total Rewards Analyst",
       "employer_name": "Telecare",
       "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://telecarecorp.com&size=128",
-      "job_city": "Alameda",
-      "job_state": "California",
-      "job_country": "US",
+      "job_city": null,
+      "job_state": null,
+      "job_country": null,
       "job_apply_link": "https://us.trabajo.org/job-972-68e065784dc087b32c0c94c1c0084ac3",
       "job_posted_at_datetime_utc": "2026-10-23T00:00:00.000Z"
     },
     {
-      "job_id": "TE8tRTBITGNwdHU3cTJZTEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVVZhZFZsQ1VtWTNNVzlUUzBsd1REUkxjVkpYV2psMVJtNXNXamhKUWpFNWRHSkphbEUzWTA1MFpqRm1iVGhUTjJSVlRGaHdSVk5ZTVhaT2QxZFRZbkJVU2xSYVZubGlPR3BqYWpKMVJUTXlibDlKVDJwVGVTMDBUVzFaV2toblNFbDZhazk1T0hnNGJVSjVNMmhLYlZabVVYRnNTazVKZEdKQlNtUTNNVzFaT1Znd1ZFTVNGMjV3VEhKaGNrUnJSR1p0YjNaeU1GQTNMV2xrYVZGRkdpSkJTRTR3UlRkSWRXRnpTM1F3Ym1KQ1RIZzJVRGxGYm1SUFNVcDFlR2hFT0hoUg",
-      "job_title": "Total Rewards Analyst",
-      "employer_name": "Valley Presbyterian Hospital",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://valleypres.org&size=128",
+      "job_id": "ank1YTZmV1hYcnJoUGJzMkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbTFaWWsxMGNqbFBkMmRUUzJvM1pYWmpibWhZY21OT05VMVRNbTU2TFZkRVQwSmZhV3h1VjJFd2R6Um5Va1UzUXpsRlNFNVlUR0ZzVDJWd1NqVlVlSGxSTTNCbVgxVTRla2Q1YjFaRFJ6a3Rla3hWU3pjeGRqaHhkMEp1WDJZd1ZITkhhalo2VUZSUlluQk5Oa2s1U0RWdkxWSllTMVZzYmt4NlVtOWFRMlp3TjBOdU1XRVNGemQxWW5OaGMzWlNSRnB0UVRsMU9GQjNaV0pIYVVGdkdpSkJTRTR3UlRkSGQzZFZSMjFwVWpoVWVsVTFVVlZxVVY4NFUzTlpSRFJzVTJGbg",
+      "job_title": "Total Rewards Analyst: Data-Driven Compensation",
+      "employer_name": "Nuro",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://nuro.ai&size=128",
       "job_city": null,
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://us.trabajo.org/job-4023-ec4ba54c6771207f462b4e814484484a",
-      "job_posted_at_datetime_utc": "2026-10-05T00:00:00.000Z"
+      "job_state": null,
+      "job_country": null,
+      "job_apply_link": "https://us.trabajo.org/job-2283-625e33b44204520097926bbf49b07e45",
+      "job_posted_at_datetime_utc": "2026-10-20T00:00:00.000Z"
     },
     {
-      "job_id": "ajZPVnZkYVFwemQzc2NOZkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZalJDU0UxR09FUkdkbWhHVkROMVRUbHJkRWRwU1ZvM09WTkxZMHhRV1VWVVRXazFlakpXVUhBNExVOTRXWEJsVGxSUFZUWkplVEJpT1RSR1EzZzRUakJRVlU5VGFuaFNSalJyU1c0MlQyWktUMjFZV0hOUU9VcFhVVWxwU25aM1NsaHlTblZxTUU5MExUY3djVTh3V1ZVNVMwNUlYMVJHWW10ellsRTVPR3g0TTFGWWVsZ1NGMjV3VEhKaGNrUnJSR1p0YjNaeU1GQTNMV2xrYVZGRkdpSkJTRTR3UlRkSGVHTkJkMUUyV2t4b1pEZ3dlVGhaUlhKdVUzRmphV2ROWlVObg",
-      "job_title": "Compensation Analyst: Data-Driven Pay",
-      "employer_name": "Mindlance",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://mindlance.com&size=128",
-      "job_city": "San Diego",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://us.trabajo.org/job-2283-16ad33533c847b28fe7319b50d994485",
-      "job_posted_at_datetime_utc": "2026-10-26T00:00:00.000Z"
-    },
-    {
-      "job_id": "enBmSXlMNVpKT0c5dFctMEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV05yUjJwUVpuQlRSbWs1VURFMVFXWndUSEEyWm5OTlowbDZSMGwwV2pSRk5IWmFXbGcyYldGdE9XVnVXbFJFZGxkNWNuQnNRbkpFV1VKclpqaDZiSFJYWjFCR1JsRnVSMW94VjBkVlJHdFFSVjlPWkVsRmVVcERaWFJsT0ZKMllVODViV2Q2YTFKWGJuaHhRVWR2WTFnNWFqWnpjVzVUZWtKSlEzaGZOa1ZyTFdveVNGOFNGMjV3VEhKaGNrUnJSR1p0YjNaeU1GQTNMV2xrYVZGRkdpSkJTRTR3UlRkSVdqWjNTaTFOTW5WWmJFdDFaR2RYYVVOamJqZFhZblJ1ZWxoMw",
-      "job_title": "Compensation Analyst | Healthcare Pay",
-      "employer_name": "UCLA Health",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://uclahealth.org&size=128",
-      "job_city": "Los Angeles",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://us.trabajo.org/job-28652-af032955d3cbe35a63a40ad6cdc001d5",
-      "job_posted_at_datetime_utc": "2026-10-31T00:00:00.000Z"
-    },
-    {
-      "job_id": "UWhVanBTVXFYZkc0RXZUUEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVFpFWHpOeE0yMHllVkpEYlVNMFdIUnZVbUZXY3pGWWRteGFaa3N0WkhGak1WWjFZa2Q2VDBkdlFVc3RSbWN6YTJkMFgzUkdNa3d3WjFrMFJGaG9RMEpXZEZSbE1FUnhiemhyTFVwVFVXVmZZWFJzVVV4dmJtWjFSM0Y0TXpkeGRWOXRabmxxVlhkTUxXWmhSemR2UWxwRlZqRkNVekJhUzBsT2NWbG9jMGQ1TkZaWVptWVNGMjV3VEhKaGNrUnJSR1p0YjNaeU1GQTNMV2xrYVZGRkdpSkJTRTR3UlRkSWExUnlVbUYxVDNWV0xXcFNjR1pLV213NWIwZGpiVEpCVjJOQg",
+      "job_id": "UWhVanBTVXFYZkc0RXZUUEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbFZxYUhKNFNtMTFWMjFEWjFCYVRuQjJVVVUwZVhsa1pITkRSWGhYYjNaTmIxTjNTVFI1VWtKWU5GWXhPV1ZYVW5wMk5USlZaak5tVEZGUlJ6bE5NRzFRZVhWdk4wODFNRzVmU1c1dlNrRnRlV1JCZGtJNFltRXRaMjVxYzNWbGRYUnNSRE01TnpnelducHljR0ZGUjFsU1p5MHdlVGc1VFZWTE1IUlBWakIyVG14c2FDMFNGemQxWW5OaGMzWlNSRnB0UVRsMU9GQjNaV0pIYVVGdkdpSkJTRTR3UlRkSE9HRnZUbGRWZW5WU01WVlVUWGRSVjJjemRuSXpZV00yWWxWbg",
       "job_title": "Remote Compensation Analyst",
       "employer_name": "Care Access",
       "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://careaccess.com&size=128",
@@ -209,51 +220,73 @@
       "job_state": null,
       "job_country": null,
       "job_apply_link": "https://www.talent.com/view?id=636864737513441365",
-      "job_posted_at_datetime_utc": "2026-11-04T20:16:40.439154Z"
+      "job_posted_at_datetime_utc": "2026-11-05T20:28:34.174640Z"
     },
     {
-      "job_id": "N1VfMmpzaXp5UlpTZTZkQUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbVJtT1ZCQlRVSkJibUpzTmw5dmQzZzBUVzB4U2pack1EQjBlSGRWUVUwd2FIUkdWbkkwTkVKcVZHbGxlbWR0VFhKcGVXeExWWHBFTjBWRE1GQk1hVGh3VGpoaGRIZFpNSE4wU1V0U2JWaGhlVkkxWXpKSFFsVjFTVVpTZVdKNWFHaFFObFpIYVdvdGFWQTBNRXRoYkRNdGJqZzBkWEpxWVdGUGRtSmlNazFRUlZka1F6QVNGMjV3VEhKaGNrUnJSR1p0YjNaeU1GQTNMV2xrYVZGRkdpSkJTRTR3UlRkSFJXUklaRzFGVDAxUFprZzNMVjlmYjJZd2FtdzRXRkJNVEhSbg",
-      "job_title": "Rewards Analyst",
-      "employer_name": "Valley-Presbyterian-Hospita",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://valleypres.org&size=128",
-      "job_city": "Anaheim",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.learn4good.com/jobs/anaheim/california/hr_and_recruitment/5564775469/e/",
-      "job_posted_at_datetime_utc": "2026-10-29T00:00:00.000Z"
+      "job_id": "MHZ6cGN4NG54S1cxZ08zVUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWEJtYkhCcmNYSkhRVUpqYmsxRVIzWkZiRGg1TXpjdFZISnljM1JVUm5SWWVtWndVRmc1VFVKMWIxQnBZVzlOTVVWZlkzcFJjakZXU1dkb1drUmZOVVZ6TjB3MWFVcGtUMVJSZFdGRGJFVlFjR3BDVUZZd2FWOW5ZVTgxTW5oVFJ6SnJhbUY2ZG1zd1NrUkpaVFJ6VjA1V1RGOWpNbmQ0WDNSeWNEWXpWR3hFVldST1lXa1NGemQxWW5OaGMzWlNSRnB0UVRsMU9GQjNaV0pIYVVGdkdpSkJTRTR3UlRkSGFHMVRiMjQ0Tlhrd1VVNDBWRWRSUmxsR1FYQlRTbGQ2Vmxkbg",
+      "job_title": "Compensation Analyst, Business",
+      "employer_name": "Energy Innovation Corp",
+      "employer_logo": null,
+      "job_city": null,
+      "job_state": null,
+      "job_country": null,
+      "job_apply_link": "https://www.learn4good.com/jobs/riverside/california/business/5584262866/e/",
+      "job_posted_at_datetime_utc": "2026-11-05T00:00:00.000Z"
     },
     {
-      "job_id": "VVNpZS02Y0pHTTZieHVkUkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWFYxVVd4NGJWTkVZV3hDZW1oM1p6aFpiVUozU0ZCSGJscENZVWRtWjJaVFUxTkhia0pUVTB0S1dUWldXRmhNYVV0d2FuTlVSMHhIWjJwMGNHVTBOak5zYVc1UFpIQjJhVGRrZW5WUk5EWnJOeTFNVGpNMldUaFZkRlo2YVVOQk9WOTRaMjVtTURSdlVuaDBOSGx4ZHprNFdWaFljMmhZYVZwWFZqbERWMGh3YzA0MlRXUVNGMjV3VEhKaGNrUnJSR1p0YjNaeU1GQTNMV2xrYVZGRkdpSkJTRTR3UlRkSU1FTjBabkpZYkhGRU4wMVhjR04yY0d0dllXUllNV2cwVnpsUg",
+      "job_id": "ajZPVnZkYVFwemQzc2NOZkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbk5oYkV4U1kySmpZVkJFWTNJeU5EUndjVXQ1V21oMlEyWkdNME5RWkROVVdGVmpia3RIYmtSMmVEQnNORTl4VFZVMFExZHJhREJyYVhaMFIyaHhlbUptZGtOWlNYWjVPV0kwZEVsMFh6QXdlWGRrZWxGRmRqUTNkVlpyYXpsNGJWTkRNV3RzYzB0cE9UaFhlbmt4ZFhsNFYyZDVSVVF6UkhoMmVWbzNla2R1ZWxsUmJETVNGemQxWW5OaGMzWlNSRnB0UVRsMU9GQjNaV0pIYVVGdkdpSkJTRTR3UlRkR1FuUmpPVGRVY2tWNlVGRXhZV2x1VTJwWE5EWnhSMWxWV0ROUg",
+      "job_title": "Compensation Analyst: Data-Driven Pay",
+      "employer_name": "Mindlance",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://mindlance.com&size=128",
+      "job_city": null,
+      "job_state": null,
+      "job_country": null,
+      "job_apply_link": "https://us.trabajo.org/job-2283-16ad33533c847b28fe7319b50d994485",
+      "job_posted_at_datetime_utc": "2026-10-26T00:00:00.000Z"
+    },
+    {
+      "job_id": "WGk5bnJyTHdoMFNSQ3BjTUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVmR2UVZGNlRYRkhkR0ZDYUV0TVRteDRNRWRYVm5CdmJGOVNSbmMzZDBORmJVWnpSRXR0U2pKNE5IQmtUamRYT1dFMGRYbHRTM016VkVwUlR5MXhjVWhRTkVoa1VHcHZaMUF6UWpOdGFEaFFZbFZ4TkZBNVdUQmhVRkJsYTBWR1EyUlVRek0yTUhVelUyMVFjMFZuUkZVMlZscFVkVFJTUW1GVlNGZEVibWhSTm10clVXTVNGemQxWW5OaGMzWlNSRnB0UVRsMU9GQjNaV0pIYVVGdkdpSkJTRTR3UlRkRlgxTktjMTlIUlVOcU1HZDNNM2RNVHpVNGVuTklXakJuVjBSUg",
+      "job_title": "Compensation Analyst — Flexible Hours",
+      "employer_name": "Energy Innovation Corp",
+      "employer_logo": null,
+      "job_city": null,
+      "job_state": null,
+      "job_country": null,
+      "job_apply_link": "https://us.trabajo.org/job-2283-71e124fac84267522cb777b664528fa3",
+      "job_posted_at_datetime_utc": "2026-10-26T00:00:00.000Z"
+    },
+    {
+      "job_id": "eWFCQ0RxYjNmTVhKMmozR0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXazFRYnpoUU9EaHdaRGxGY1hkRWJGUndXRU5aUjNOTWJWZHVNREUyZFRobWVrUXplVTV1VTA0eFNYWkpTbFJTZG5KMWRWOTRkMVZ2TXpRMVRYcGlZVjlXV1ZsM01WaEpXSFEzZEVsa1dFZDNjemx1ZGt4NE5tRnNibU5XTWxwR1RUa3lSbUpUV0RsdFJUUldUbWhRZURnMWJFRnJjVmt3T1dGWmFXNXZja2d0V1VKS2EwWVNGemQxWW5OaGMzWlNSRnB0UVRsMU9GQjNaV0pIYVVGdkdpSkJTRTR3UlRkSVNFVm5TbXhIV0drMlRFMWhWRlpMUld4WU4wRnZia2wwUm5sUg",
+      "job_title": "Strategic Compensation Analyst – Healthcare",
+      "employer_name": "University of California",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDbAkFKLLXMI7lKywQBORGGVbEHaXsIAVdej9k&s=0",
+      "job_city": null,
+      "job_state": null,
+      "job_country": null,
+      "job_apply_link": "https://us.trabajo.org/job-28662-1127306f75fcc8788f9bfca6cb7ace19",
+      "job_posted_at_datetime_utc": "2026-10-31T00:00:00.000Z"
+    },
+    {
+      "job_id": "VVNpZS02Y0pHTTZieHVkUkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVE0xWlhSRGFtMDBXR1JaU0hWSU5saGtSMjVLTFdGb1lWQndlWEJ5ZVhCQmNVd3hjbHBUV0RSdlpVaEtkMXBJYjFFNFVIRXpWalp6UzFkM2NrbFNVekJDZEhKUVdYZFNUVlpDWmxJNGVXWjBabVZGVTBNeWNWSXhlV04wVDE5MGFHRTVWRlpmYUV4NGNFVlJhbVJGYWxOeVJqUlNOV3RUY0VGYWFrdGZjRXBzU25kVFUzTVNGemQxWW5OaGMzWlNSRnB0UVRsMU9GQjNaV0pIYVVGdkdpSkJTRTR3UlRkSE0yRlFRM1JhVTNsWVZ5MUhOR3hYUTAxbGExbzBRVE13Um1SMw",
       "job_title": "Compensation Analyst, HR​/Recruitment",
       "employer_name": "SOLV Energy, Inc.",
       "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://investors.solvenergy.com&size=128",
-      "job_city": "San Diego",
-      "job_state": "California",
-      "job_country": "US",
+      "job_city": null,
+      "job_state": null,
+      "job_country": null,
       "job_apply_link": "https://www.learn4good.com/jobs/san-diego/california/hr_and_recruitment/5557708627/e/",
       "job_posted_at_datetime_utc": "2026-10-23T00:00:00.000Z"
     },
     {
-      "job_id": "M3VScHhEa1VvX0txb2xDSUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZalZMUkcxaFgxaDRjMjlpVmpreGVYcDZiVEpwZDJsdWMzTmFjV3N4VFdKV2JqWTBhbm8wZUVSbFUwaHRWV0ZhT1VGMmNURjBXVzVwVWpaTGVtNDJhM050V0VFNGNFZEtTM0oyYjNsRWVrZHRaMGRLVURKR1NrVmlZaTFvUVZZMVZXOTNNamhwVFVocFZVeDFVakF4Y1VOc1NGZFlZM2xPWjFweU5sWTBVVmd3VmxnME16a1NGMjV3VEhKaGNrUnJSR1p0YjNaeU1GQTNMV2xrYVZGRkdpSkJTRTR3UlRkR1RYRm5RVUpsUzNCVlNtUnpRemRzUXpOc2RrbGxUbU0wYURKMw",
+      "job_id": "M3VScHhEa1VvX0txb2xDSUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZalV4YVZkNFZUSk9NVlpRTXpac2IyUjVOSGwyYnpkSmFraHBhRlprVld4aWVpMURiREpSYlc1T1dWY3hjbEZsWW5CR2JXZHZUMjlWVkRCRlF6UkNUek42UlVsdExXZG9XWHBZVDIxa1pETk1SbXBIYTA0M01qaE5WekphT1VSR01URlZTMjlOWkhsQlZYVlJaRzlqWVhsZlZWOVhWRk01T0hWSmJWOVdPR1ZMZGtaQlZuQVNGemQxWW5OaGMzWlNSRnB0UVRsMU9GQjNaV0pIYVVGdkdpSkJTRTR3UlRkR01HZENiMVV3VFdONFdYWkRjSEZSV21KVFgyRnNhbEJzWkZwbg",
       "job_title": "Compensation Analyst — Data-Driven & Growth",
       "employer_name": "Mission Pet Health",
       "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://missionpethealth.com&size=128",
-      "job_city": "Los Angeles",
-      "job_state": "California",
-      "job_country": "US",
+      "job_city": null,
+      "job_state": null,
+      "job_country": null,
       "job_apply_link": "https://www.learn4good.com/jobs/los-angeles/california/hr_and_recruitment/5568840315/e/",
       "job_posted_at_datetime_utc": "2026-10-29T00:00:00.000Z"
-    },
-    {
-      "job_id": "blpMRTBQWG0xRENCYlJxakFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVjgyU2xCZmVUbFVORVZqVWpBNFJsQllkamx5YUVaUVpFeFJNMDVTWVRRelNXVnJkM2g0ZFdGRGJqWkJRV2N6V0hNdFRVWkxTV2RuWkZkMlpHMHdZVUZwWkdsd1pHeHRTVXR5WWxOME5uSlJVazlxTUU1M1lqRlBWVlpCWldST0xXbGxkMEV3UnpOdFZUbGtSMmxXWlZwc1l6RXdSV281ZGt4UGEwc3lSUzFIWkc5UU5rRVNGMjV3VEhKaGNrUnJSR1p0YjNaeU1GQTNMV2xrYVZGRkdpSkJTRTR3UlRkSVJtRnpkRUpVU0cxRFMyUmZiVkZuWDI1ZlNVTmtSVzFpZW5KUg",
-      "job_title": "Global Compensation Analyst — Shape Global Data",
-      "employer_name": "Premierresearch",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://premier-research.com&size=128",
-      "job_city": "San Diego",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.learn4good.com/jobs/san-diego/california/hr_and_recruitment/5571929221/e/",
-      "job_posted_at_datetime_utc": "2026-10-30T00:00:00.000Z"
     }
   ]
 }
