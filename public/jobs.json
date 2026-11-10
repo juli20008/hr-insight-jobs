@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-11-09T22:53:02.170202",
-  "total_jobs": 29,
+  "last_updated": "2026-11-10T20:13:50.577918",
+  "total_jobs": 30,
   "jobs": [
     {
-      "job_id": "ODJtMVZaOTNTUmlMNlVsZ0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbDlmT0RkM09FUTRVbGcxZFRGQlYxRkNVek5NTUd0QmFTMTFlRFZDYmxGclMweGpORGhYVWt0Wk1rRjJSa2xJUlVaUFkyTTNXWEo0TUdJNWRsSlJZV1ZPY0dka1RVTTRjamd5VDJKaE1uTkxNalIyVFUxSmJsSldWSEUyZGxkM1dEQnJZMXBUY0c1R1gzaEpZVGRRWVRCRU9HdHVWblJmUVcxbFlqbFRla0V6Y0dadWVVZ1NGMjh3TjNsaGJ6TlhTMGwyYUd0UVNWQjNabDlzZDBGVkdpSkJTRTR3UlRkRmExWmtlSGQzWVZWeVpFOTNiVnBKVFZWMFVsaFdXRUZvVURaQjpiYTU5NDNmNg",
+      "job_id": "ODJtMVZaOTNTUmlMNlVsZ0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbk5CV2tkUlFXdElUbWhyYW5WclEySXhNV04yZFVkdFJYbFBjMjk1TjFCRmRtNU9jMEpSUW14NWEwRkNOM0JrU3pkVVpGTkZTVlJyYW5OVlFYbE9ka3AxYlVjemJ5MWpZbkp0ZDA5MlFURldOMGRFZFVKVGIxRm5OMmRRTW5aNFFtTTVXRGxmUjNwaFJuTlBiME5CWHkwM2MyTjVXRVpGZHpsMlgwNHpkVWxQWWtWQlpVa1NGemN6Y25waGNXbGpRM1JsYjNGMGMxQnpXak4yYlZGWkdpSkJTRTR3UlRkRlpWTnVRazR4VTBGSmFXcG5Tell0TUVWemRYVmxVVVJPUms1UjpiYTU5NDNmNg",
       "job_title": "HR Data Analyst",
       "employer_name": "SpaceXSI",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBbCtHuIoWKm-23SWUFHuDRf0NpryrQ8dNX801&s=0",
@@ -14,29 +14,29 @@
       "job_posted_at_datetime_utc": "2026-11-03T00:00:00.000Z"
     },
     {
-      "job_id": "SkY4Smctb0pld1pRaVJFdkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbFpTUTBGV1JrSlhYMjFzTW1aMGVYRjJaRVJTT0ZWalpHdHhlVkZCTmxBeE1UUmxkWHBqZFZCb2JXNXhkMGh4WTB0dE1rUjNOVlpTTm1waloxSlVhVEZyZG5ZemNYcExWMmRzU0ZOUmIzTnlOVE5SWmtrMllXY3dYM0oxZFZCeldIaGFOSFZGTTFCM1VrNDFSM1ptUVRWSVkwcExZVlJyVGtORmEyd3RUMDE2YWxaWmRUa1NGMjh3TjNsaGJ6TlhTMGwyYUd0UVNWQjNabDlzZDBGVkdpSkJTRTR3UlRkRlVtSmlXbnBxZEhCNE1qQm9iV0pEWW1ZMFJVZEdTbmRDVUZSQjoxZDM5NzdlMQ",
-      "job_title": "Cloud Workforce Planning Analyst",
-      "employer_name": "Google",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKWDjH_EoDOGT1_Y4gK2_nFwmnhBPXDn5f0s15&s=0",
-      "job_city": "Sunnyvale",
+      "job_id": "dHBPYmxmNTd5eW5lc1liNkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXak5WWDNreVp6Z3paa2hxWkMwMmNWVjJhRzB4U1dSUFR6VTNWVWxYVlRWRFdWOUJXbTF5YURoUVdrNVFha05hVldWNVNUZzRjazlEV1RCTlJsQnBlVXQ0VDFjNGNVbDRNa3BVYUhSa1RrcGFYMjA0UXpSVGRqTldVR0ZGYTNwTVFtbExNa1pKTW5kMFEwaEpRV04zVFRnd1luWkpSazVPV2twcE0wUlhZWFkzVkhZMFkxTVNGemN6Y25waGNXbGpRM1JsYjNGMGMxQnpXak4yYlZGWkdpSkJTRTR3UlRkRlF6TnZTMWgxWW5aV1lqQnRhRmt3U0VRdGR6TmZaR0YyVTFoMzoxN2M2ZTExYQ",
+      "job_title": "Strategic Workforce Analytics",
+      "employer_name": "UC San Diego Health",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGrDA8-sEeVioA7op0hTvaieX1j7gw2HA5mZRu&s=0",
+      "job_city": "San Diego",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://www.ziprecruiter.com/c/google/Job/Cloud-Workforce-Planning-Analyst/-in-Sunnyvale,CA?jid=cb1ce4cca1366dbd",
-      "job_posted_at_datetime_utc": "2026-11-02T00:00:00.000Z"
+      "job_apply_link": "https://us.trabajo.org/job-5381-7317b4b194b4f2d67858e917f4fe677a",
+      "job_posted_at_datetime_utc": "2026-11-05T00:00:00.000Z"
     },
     {
-      "job_id": "UlljLVRWbFRjZVpKNTNvcUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVE5TY1RKVGVYRkxRbXd0Ym0xNk56VnhkMDA0WmxwaVIwMHhiakI2UVVZMlkwNVhPRmh1TURWeE5Fd3paelZzVEVKbmMyTTNZVEpXZVZBd1Rsa3dNRTVWVDNkS1VYaGtWbWMzZURsRVZGWjBkako1Um5VeVgwNVZTbXR5Y1hvMmVrTTFkMnRWY0RCRE1XNHRjblJLUVV4ZldtOWhiMmhETlZSVU1rbHZWMmhvT0Zwc1gwSVNGMjh3TjNsaGJ6TlhTMGwyYUd0UVNWQjNabDlzZDBGVkdpSkJTRTR3UlRkRmJYTkhWMWhQYzI5bmNYRnZWMVF3TFVoWlVubEJZV3huYTFabjo4MmJlMGM5Yg",
-      "job_title": "Remote Workforce Planning",
-      "employer_name": "Milestone Technologies , Inc.",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVPdih0EJ6Ufs2rstnBUx8YBZHTQFebO84WVPK&s=0",
-      "job_city": "Sunnyvale",
+      "job_id": "N253UXYxdmpjMmwwZ08zZUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXakJSU1VnNWNtUmtOa3RSWW5VeVJrMTBlREpQVUdkak1WZHJkekZmTURGQlJrVm1Va1JuUVdaNVpqaFZZVjk0TURabVZrcHVWRTg0TFZaeWN6QkRaMFpIY0VaTFZqWXpNbEExWjFoaVptUnRjRkZDVTA1UGNGWnpRbDk0WDJsSloyWm5TalZQU1V0RE5VeG1USHBtZURka1dHbHNTQzFVVkU1U2RUUkVSbmhRYVRsM2VVUVNGemN6Y25waGNXbGpRM1JsYjNGMGMxQnpXak4yYlZGWkdpSkJTRTR3UlRkSWJETlFhRTEwUzFBMWNXNUdhMVI2UTJ0dU9HMURZVk4xWmw5Qjo3MjI2YTRlMQ",
+      "job_title": "Senior Analyst - People/Workforce Analytics",
+      "employer_name": "Stanford University",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT85OpxupI9nXdqdopQMC1JnwOA1QjXa_qlrAGn&s=0",
+      "job_city": "Stanford",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://us.trabajo.org/job-5381-4f4892b528fef8ba4b9c92fb65c38f6c",
-      "job_posted_at_datetime_utc": "2026-11-06T00:00:00.000Z"
+      "job_apply_link": "https://www.jobzmall.com/stanford-university/job/senior-analyst-people-workforce-analytics",
+      "job_posted_at_datetime_utc": "2026-11-10T20:13:39.212824Z"
     },
     {
-      "job_id": "Nlp4LXlJWVJSM2tlbDI4LUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWEkxUjNJeWEwRm1WRU55Y25kMWIxZHNhVlJpWTNkVlFsQmlhemt6ZW1GVGFsRldaWFJDUVRkWlIyZFFTV2hDYVdOQmJHZzNUVzR4VG5sWVZXUjFURmhWUWt0ZlVIbENhVk5CWWpNeWNsOXpiRzFoYWxGSGNUVjNRMTlOWjFGbk9HWk1TbDlUU2pOc1ZXSjZkbWxaUkRKbmNHVlhXblpFTlhKT1dGbFZWMjlxYmkxS01tOFNGMjh3TjNsaGJ6TlhTMGwyYUd0UVNWQjNabDlzZDBGVkdpSkJTRTR3UlRkSFltWTRWSGx2ZW10WGRXNVJkekZOYkVRdGVrMUliMDFpVERWUjpiYTU5NDNmNg",
+      "job_id": "Nlp4LXlJWVJSM2tlbDI4LUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWHBXYlMxU09FSnlkbUpJZUZjdFZGZG1OaloyTVVocVkxbGhSV05VV1ROb2EySXpXVGRKVkU4M2JtaHJiMnhIUzNKalJIZHZkVFp1WTBkeE1uZzRWMnBuTlVGNmExSkdUbGhMY2pRd1VFNDNjbUZSWlRaR2VXVmpTVTAxTkZsbFZHSlJVRFpqWHkwNVNUWlRPRXhoUWt0UlFXTXhWRFJ5Wm5wUlkySTJUekJIT0ROWFluRVNGemN6Y25waGNXbGpRM1JsYjNGMGMxQnpXak4yYlZGWkdpSkJTRTR3UlRkSVlqTjRkMk5OYUVOQ1VGOWZRV0ZzWVV4VlNHaGhPWFk1Y0ZaUjpiYTU5NDNmNg",
       "job_title": "HR Data Analyst",
       "employer_name": "Connexus Credit Union",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQU63bsj2ViynlpnpakcosH5c8BlR9V1RAAHI&s=0",
@@ -47,7 +47,29 @@
       "job_posted_at_datetime_utc": "2026-11-07T00:00:00.000Z"
     },
     {
-      "job_id": "cHZORUZEU2ZwazZqbzA1V0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZWGg0VUVsb2JYb3phM2xTVGtZNGFWcDRSR1ZFVlRseVVFdFRTM1pKTmtkMlVVeEJTemx6T0d0ZlpGWjBXREZzY2xsRGNFOUxPVGhzUVhOSmRFNUhZbE5XUWkxNWFqUnVVVXRyVTNSc1F6aFFVR1poT1VrNGNWRjFNRk5zUlVkZlkwdzFhazg0TmtaUWJYRmtiMWMzWHpGRFgzcDRZWFpCZFV4NlFqZEJhVkpsV2xaRldXd1NGMjh3TjNsaGJ6TlhTMGwyYUd0UVNWQjNabDlzZDBGVkdpSkJTRTR3UlRkR2NUbERSMDF1VHpSdVZYSjJaR3BsTFRsMlpqQTRlbVpMWjJobjo5MzU3NTkzMg",
+      "job_id": "UlljLVRWbFRjZVpKNTNvcUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbmxNZFhSR09VRk5WM2hQT0VOR2RYWXpURmt0Wm1SNVNWVTVjMUY2TmxCVFgxcE1OSEUxUW5wMmVGVnRkeTE1Wlc1eU9GZFplVXhJTVU1NWN5MVdjVWh3T1RaQk9UbFFibHB1WTBkcVNHdzNWVVZwZGxwWk5FSnllRFZDYjFrNVpIcE5NVlZPV0dWUVQwcHFTMGhXYW1OSE9ETnpVbVpSZWtOd1NrcGphVEpIWTBwbVdsY1NGemN6Y25waGNXbGpRM1JsYjNGMGMxQnpXak4yYlZGWkdpSkJTRTR3UlRkRk1GcEVTSEp0U1hSU2VGWnVjbXBaYldSU1Uwa3lUV1V0YUU5Qjo4MmJlMGM5Yg",
+      "job_title": "Remote Workforce Planning",
+      "employer_name": "Milestone Technologies , Inc.",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVPdih0EJ6Ufs2rstnBUx8YBZHTQFebO84WVPK&s=0",
+      "job_city": "Sunnyvale",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://us.trabajo.org/job-5381-4f4892b528fef8ba4b9c92fb65c38f6c",
+      "job_posted_at_datetime_utc": "2026-11-06T00:00:00.000Z"
+    },
+    {
+      "job_id": "MTNlOFd5TUtHZkhMU2JOSkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV05mU0VSQldUaHJVbFZGTXpKTmNXOVFORXAxVFZJNFEwVm9WR0UwU1dsQ1VUVXlValpIUldKNVRGY3lkV1J5ZFZOYVJWSkhPVEJHU3pWYVNsaFRhMEpQV2xsT1oyWkhURlYzYWxsTFZERkdTa2hzVUVwbWNtMHROREJDY0RWdVRuSkNTa3hYUldOalExSmxlWFZOT1RGUmJqUkNSWFpZZDNGSFlVWktlRTVOV0MwdFJqY1NGemN6Y25waGNXbGpRM1JsYjNGMGMxQnpXak4yYlZGWkdpSkJTRTR3UlRkR1l6UlRNV2d3UjNacGRuVlZSekZVVGpkMGMyMUpXREZYVlZabjo1NWM0MjlmNw",
+      "job_title": "HR Technology & Analytics Specialist",
+      "employer_name": "Remote",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://remote.com&size=128",
+      "job_city": "Santa Ana",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.learn4good.com/jobs/santa-ana/california/info_technology/5611773282/e/",
+      "job_posted_at_datetime_utc": "2026-11-08T00:00:00.000Z"
+    },
+    {
+      "job_id": "cHZORUZEU2ZwazZqbzA1V0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbFl6Um5WV1pGaE9iWE5FZFdSRGEyOHhaekZ3Y1RkcGVVMVNUbE0zVVZBNWIzUXlRMUpaVEU5b05pMXdWVVp3WmpSelJtRmFNbTlTZFVKeWJUVkdRM1JZYUhvMmRFTllURkUwYUVreVRISXhWRk5pYzJ4T2MzZzFPRGRoVUdKTllrcE1OMGhIYm5Sa1oyMHlaekY0WlRCSVlqaFBkbTFOTmxjMU9HdHpaRFJvYm1seVVtWVNGemN6Y25waGNXbGpRM1JsYjNGMGMxQnpXak4yYlZGWkdpSkJTRTR3UlRkSWNrOXVNV04yUkhkT09UTjZhR1JZT0daVlVqVlFPVXR1WnpGbjo5MzU3NTkzMg",
       "job_title": "People Analytics Lead",
       "employer_name": "Child Care Resource Center",
       "employer_logo": null,
@@ -58,29 +80,18 @@
       "job_posted_at_datetime_utc": "2026-10-28T00:00:00.000Z"
     },
     {
-      "job_id": "Y1FxTlNJTm1LRlg0ZlpET0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbkZWZVRocE0wazJSR013YUdwWmREQktVRzB3UjFKb1pGVkdXbWd5VTFOMFNqWnBRbVE0UWpGM1pUQjNjMVp4WjBFeVFtYzVZbWhHZEVsRFdVRnFUMjlLYTNBNVpsVkZiREZWTTB3eFRXeGZXa2M0WVd4RFZHSk5kbWhPWmt3M2JrcEdaVnB3TTNGYWVXVldVM1JOUWs1eWMwZEdlWE5XUzJFMWN6VjNkMTlGV1ZBd1RFY1NGMjh3TjNsaGJ6TlhTMGwyYUd0UVNWQjNabDlzZDBGVkdpSkJTRTR3UlRkSVdIUlpXbEpvTkV3dFkyaEtPVWMwV1VGNVF6bFFORFJRWms5Ujo1NWM0MjlmNw",
-      "job_title": "HR Technology & Analytics Specialist",
-      "employer_name": "Remote",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://remote.com&size=128",
-      "job_city": "Chula Vista",
+      "job_id": "U0xXdkFNeEI5WEhGR21IcEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbUZ2UTA5VVZFSkpVM2xyZHpsTmJIUm1RVlp6YmxWbVZWcEdPVEozT0doWFdFNWlYMGRZUmpKM1FsRnNMV05WVEZsTVVqYzRlV3RQUXpnNE9FNXhhRlo2Wlc1YWFrWmhZbEZqV1RBNFdEVmhNMWR0ZGs5M2R6QXRUVXRMVWxOUmQxbE9NM2RuVkd0VmEwaFJSa1pDV25KNkxXeGZOMUJ5TXpoc1dVMUxNMU5GU1VSdFJYZ1NGemN6Y25waGNXbGpRM1JsYjNGMGMxQnpXak4yYlZGWkdpSkJTRTR3UlRkSWRqRlJSbWhyZGxneE5VNVVNMDUwVUd0aWVrcHNTbVpOUnpkQjphNWJiOTVkNA",
+      "job_title": "AI Workforce Analytics Consultant",
+      "employer_name": "Santriya Technologies",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaNooxkTrNghqPqX48vi7zYdUcXa-8pFR9NmrZ&s=0",
+      "job_city": "San Diego",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://www.learn4good.com/jobs/chula-vista/california/info_technology/5611773284/e/",
-      "job_posted_at_datetime_utc": "2026-11-08T23:00:00.000Z"
-    },
-    {
-      "job_id": "R0hqQmVsUXhlTmpHU0ZXQkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbEV0ZUU1eWVsTmlRMFUwYkdKNmJYQk5WbFJTUWpoNWNqRjVSUzF6WmtWS01XdDZUazFvYkhOTFUyNW5SbFIwTldORlRXeE1Xa05HZUhaUFFVOXBOekZ5Y2xSZlluTnFkalpMTldWWlkyeFdSSFJpY0VkcVpYSktkVUZyV1daSmJUbFRMVGxFVjJWRVdHazJZWFJ2UWpoSlV6UnRiRVl4UW0xbldsRmhRek5mTVVrMllWOFNGMjh3TjNsaGJ6TlhTMGwyYUd0UVNWQjNabDlzZDBGVkdpSkJTRTR3UlRkSVpqTjVRalZpTFVaaU1ISlJNM0ZWWjBoM1l6VTBTREp3VXpGUjozZjIyZmZjYg",
-      "job_title": "Strategic WFM Analyst",
-      "employer_name": "Clipboard",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://clipboard.com&size=128",
-      "job_city": "Sacramento",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.learn4good.com/jobs/sacramento/california/business/5594637151/e/",
+      "job_apply_link": "https://www.learn4good.com/jobs/san-diego/california/info_technology/5600889322/e/",
       "job_posted_at_datetime_utc": "2026-11-05T00:00:00.000Z"
     },
     {
-      "job_id": "N3ZCdmNqalRrcHVXRHpibEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVGd5ZVZkS2NEQmtiRTgyWW5kQ05GOHRiMHhRWTA5SGVXWTBTVkpxT0hscE9XMXZUMmR4VkVSNlVIZG9kekYxVjBocFZUQllXR0Y2YXpJMkxVdDNRekJhWHpoUmJtRlZkMjF2V2taTlZITXpNM2s1Y1dadFJWa3hWMUZWVjBoelFUSTRRVGRZTFdwb1UxWkRkbGhPTlVzeVRXOHdjRE4yWDFob1RXOWxYMUZ1ZUhsQlpHSVNGMjh3TjNsaGJ6TlhTMGwyYUd0UVNWQjNabDlzZDBGVkdpSkJTRTR3UlRkRlRWTkZaR28xZURkTFpuRjZhRWgwUVVOdlpWUkxSWFZEU1ZSUjpkYjJjYzAzMw",
+      "job_id": "N3ZCdmNqalRrcHVXRHpibEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZblZaWTJ4NlpHUmtXSGt4TlhWSFJYRnZZblZaZGs1WE9GOUtaRWRTZEhKaWFtbE9VWFJtTkVkMVNGOHRWSEZQVlZZeWVFVlFOMUJYYjJSbWVsSlZVMnB4TVRsaWNucHBVakJxUW5kSGRrSk1jMVppZUdwVGNrSlhXV3hvVms1cVgxRk5hR1kzWVRkRlluVm1aamQ2V2xORVRVaEVXa1Z3Tmkxd2NYTjVTV1l4WTFocFZVb1NGemN6Y25waGNXbGpRM1JsYjNGMGMxQnpXak4yYlZGWkdpSkJTRTR3UlRkRlZuUXlMVmRSZVVGM1ZsUXdUVzl2UkVGTmVtdERTR2hJTTFkUjpkYjJjYzAzMw",
       "job_title": "Senior Service Workforce Analytics",
       "employer_name": "Supermicro",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsRLi0UycCHBwc_thf7sOQ_ufDj0ZGvsnMWHMG&s=0",
@@ -88,32 +99,21 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://us.trabajo.org/job-3991-1b92c8bd2221a64936c7accc11b9e56c",
-      "job_posted_at_datetime_utc": "2026-11-09T22:52:24.109826Z"
+      "job_posted_at_datetime_utc": "2026-11-10T20:13:39.212847Z"
     },
     {
-      "job_id": "aVNISWlpLVFpT29Zc284TEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZblpCZEY5U1NEVnphbnByY1c0dFNsbDBXVk5SYkRkYWFrSXpWVTFtTXpnMU1scFRMWGx0ZWsxamJIbEJWRTlIV2pWWE5FVnRiWEpFWTAxRlZsbFBaVkEyYjJNME1GUk9UbVppUnpVNE9FMUhhbDlHVW05WE5teE1XSFZZUVZCVmVYZGFUMEpZTkVkcmJFeDNjekZJY1ROSFNFaFhkbXhNTlVSTGFtRTBhMkp5VERsR1ZYb1NGMjh3TjNsaGJ6TlhTMGwyYUd0UVNWQjNabDlzZDBGVkdpSkJTRTR3UlRkRmRESTBSRXhLTFVGR2NsZG1SMjVwVGs5dlVrcGlURWRGWkRkUjowMWNjM2EwNg",
-      "job_title": "Workforce Management; WFM) Lead",
-      "employer_name": "TechDigital Group",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://jobs.techdigitalcorp.com&size=128",
-      "job_city": "San Francisco",
+      "job_id": "RW5lay1RVlVXSTFGUVNOeEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVjlPY1VaVlptSkdZVXhMU2s5SWVtSTRhVTlGU2taQmVFeFlXRFZXUmpKVVRqY3pNRmxrVVZaWk1XdDNTazV3YWtvd2JEQkdVMVoxUVVSM1JWWklaRloyZEVOcVoxVlBlRVphWlZkck4wSnZjV1ZIT0hJd2FqVjNiMUk1YTB4TU1FWlljbTVZVG5aRlZXUm5hMmRmTm1SUmJGRTNPVGhsTURsSmMzZFFlR2cyVDNOU2NWQVNGemN6Y25waGNXbGpRM1JsYjNGMGMxQnpXak4yYlZGWkdpSkJTRTR3UlRkRmRUQnFiVTEyVWtoVlgwRm1hRXR6WTB4NVlYbHNSek53YlZGUjozZjIyZmZjYg",
+      "job_title": "Strategic WFM Analyst",
+      "employer_name": "Clipboard",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://clipboard.com&size=128",
+      "job_city": "Irvine",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://www.learn4good.com/jobs/san-francisco/california/info_technology/5582133883/e/",
-      "job_posted_at_datetime_utc": "2026-11-03T00:00:00.000Z"
+      "job_apply_link": "https://www.learn4good.com/jobs/irvine/california/business/5594637149/e/",
+      "job_posted_at_datetime_utc": "2026-11-05T00:00:00.000Z"
     },
     {
-      "job_id": "N3A5Y2ZnRmFRa1VlZTJIQkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbUpyYmtSVWRsVlhaakZPV0Y5MU1IWTBTMmcyUjJ3elNEUXhibGhRY2t4eFRuTjFYemRDWkUxV2FtWktOVEIwTldGT2FsUjFRbWhwWldwelIzRnhTbXhMZG5GTlJ6TklNbXhxWkhWdE4yaFpiWGhHVlhGbVprSmxlVVoyV0VvMVkzUTFUV3hqVEVJNWEybDBkRmx3ZGs1b2VrMDVPREJpVjFkRFdYTjNNVWxSUkhadU5uTVNGMjh3TjNsaGJ6TlhTMGwyYUd0UVNWQjNabDlzZDBGVkdpSkJTRTR3UlRkR00xWjFSVFo0ZW1aQ1NqbHBNM1JWU0VrM1ZqaFpkRlozY2pkMzo3ZWY1MTVmZg",
-      "job_title": "Senior HR Data Analyst",
-      "employer_name": "CAI",
-      "employer_logo": null,
-      "job_city": "San Jose",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.learn4good.com/jobs/san-jose/california/info_technology/5603149112/e/",
-      "job_posted_at_datetime_utc": "2026-11-06T00:00:00.000Z"
-    },
-    {
-      "job_id": "dExzVWtkbjZtdm9ZQnl5dUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVmR5T1d4ZlNEZE9OamcwTFcxTVQzQmphRlIwUlhSM1dVeENXVUk0ZUVwQ2EzUkxPVEJaUW5kd1kwMXFRM2cwVjFWVlNYSm1URVJTWkRCTU9WaHJka00zTnpBNVgxZHlNM2xDTlVaaWF6WTRRa2x1V1hkQ2VVcFdha1EwYzFkeFRrbzFia2xwVEVsRFNuQnplVVZOT0ZZd1dqVnZhemMwYVhVNFZXRjJibTF5U0hGcFIzUVNGM0l3TjNsaGNqTjBUV05sWm5GMGMxQXdPRE5WTFVGTkdpSkJTRTR3UlRkSGFqQmhlalJLUWsxTFRYRmhTWGR1Tm5aSlEzTndOMHhuTVRCQjpkZDc1YjAyYw",
+      "job_id": "dExzVWtkbjZtdm9ZQnl5dUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXamhNTFZwcllWaDNVMGx3ZFhWWWFqSTJjWGh5WW5KVmJ6VXljalpoVTBZNWVrcHZaRGRHWVRSZllUWm9lR2wzY0hJNWJrZzFNR2MzUVVsNE5HcGFlUzFZTmtGVWFXNUNNMU00VWtwc1owMDJXRnBwY0RkS05XZzVXbnBUUlVwUlVuaE5abXR6ZDFwRlJYTndja1Z2V2s4MFkwUkZiRk5TT1ZRek1HZzVORlpEYWtsV1kyb1NGemxJY25waGRFeHlUSFJNWlRRdFJWQmZabmxXY1VGSkdpSkJTRTR3UlRkSVVXdFFlREZmVG5ndGEyaFNkREZLVWxwb2JGWjZkR05NTVZaUjpkZDc1YjAyYw",
       "job_title": "Workday HRIS Analyst",
       "employer_name": "Remote",
       "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://remote.com&size=128",
@@ -124,7 +124,7 @@
       "job_posted_at_datetime_utc": "2026-11-02T00:00:00.000Z"
     },
     {
-      "job_id": "aDU4cm55OE1pN3NSVjg4R0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVFppWmpGd1RGbFliVWRFWjA4M1ppMVZSMGxTWlVkWk0yNWpPR0ZpYmxCUlR6TlNObEpEWjNoSWExOWxOMFowV0dWa1Z6TkhNbVZzY2poWFdVbGtNSFpQZGs1eFFYSTFNRFZNWWkwMmRFRnRXa2N4Vlc5b1VtWnFNV0k0VTNCYVNtMUtVVzFtYW1sM05YUnZNR1ZGVTBsbllsQmlUR3huUjJOSWNFdFNkMloyVUU1bVRXc1NGM0l3TjNsaGNqTjBUV05sWm5GMGMxQXdPRE5WTFVGTkdpSkJTRTR3UlRkRlZrRTRPVEJRUTB4TlQwODVWRVJpYm5ZeWIwSmZOMDlzUW1GUjo3YWRhZDViYQ",
+      "job_id": "aDU4cm55OE1pN3NSVjg4R0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVEphYmpjME5FTkRiM1pTYkZSM1lWUjBWREZ6TWtwUGJVVk5Ua3R1WTBod1VYb3RZMlZpU21ORFNIUXhaRXRWWWxaSVlsRllTamszWXpGZldGTlZibE5hUkZZelpGSnFWV0Y1UXpaT1RGcFJaWGxwU2xCc1gyNVBNSGsyYzNwblRVVkZRVmhvVDFSRFlsQkdYMnR5UTNOb1JEbGFMWHBvV0hsYVdsUlhlV1p4TXpsNVdXTVNGemxJY25waGRFeHlUSFJNWlRRdFJWQmZabmxXY1VGSkdpSkJTRTR3UlRkRllUQlpNVzFwYmxOWVpEZHpSSGxWVjA5NlJFRTVlRUZoVms5bjo3YWRhZDViYQ",
       "job_title": "Impactful Workday HR Systems Analyst",
       "employer_name": "AltaMed Health Services Corp",
       "employer_logo": null,
@@ -132,21 +132,54 @@
       "job_state": "California",
       "job_country": "US",
       "job_apply_link": "https://us.trabajo.org/job-2283-5f9516a3f1d3d89d0f17e9d4b7915af2",
-      "job_posted_at_datetime_utc": "2026-11-09T22:52:34.632458Z"
+      "job_posted_at_datetime_utc": "2026-11-10T20:13:44.144472Z"
     },
     {
-      "job_id": "VXcxczBHZmp5QzRRRlc0cEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVzVqZUVaVlJFWjBja0p2YlhCaFRqaDJjalJDYkc1ZldqVmFlWFZJUkVwWmJYQnlPRmRoZWpKV2R6QndZVU5QTnpabFRrSjNOV1JsVjBFelh6QkJNVUl6WnpWemN6aDVNMWxXYVhOMFVIazNaekY0Y0dveGNURmhWVmxvWW14cVJuZFNTV2hWYW5sUGNqaEVNMXByV0RkQ1EwMVBkV05MZWxoRmRsb3RiMGMzWjI5WVJuUVNGM0l3TjNsaGNqTjBUV05sWm5GMGMxQXdPRE5WTFVGTkdpSkJTRTR3UlRkR1pVVm5ORVJwYkdaWFVqZzNaRFE0Y0U1VFF6RlJWVXBwUldsbjpjZTBhYzYyOA",
-      "job_title": "Workday HRIS Specialist",
-      "employer_name": "Checkr",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQci67pg2l4O8HzSXymHAr1TES-y9m9n4bvgUfp&s=0",
-      "job_city": "San Francisco",
+      "job_id": "cHI2UFo5YVQyZWtTT20wckFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVjg0VUVoWFdqSnVPVWRFUTBGcFpXNU9ObGsxYTA5SlpYbFNjVVZrTTJ4NlYyWlpaRXhFUkV3d1YxbFZhalpyTUZGbWVrSmxVR0pXYW01M1NIRnJhMWRTT1dWWlNGaFNZVVJCUkdWeFVrVnRjMDVvU1hSMFRreHJZamhqVjAxR1pscG9aMTloWVdaRmNXMDVYMWxNTW1WeVRVbFpSbnBVUVRsTVJVVmhSalZPUWtVNU4xSVNGemxJY25waGRFeHlUSFJNWlRRdFJWQmZabmxXY1VGSkdpSkJTRTR3UlRkSWVTMDRSelEzYUhaMldtaHhkVlZFZWtoWWFFbDRlalZ5VlVaQjpjMWYxZDUwNQ",
+      "job_title": "Senior Workday HRIS Analyst",
+      "employer_name": "California Water Service Company",
+      "employer_logo": null,
+      "job_city": "San Jose",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://us.trabajo.org/job-2283-47d53fa0c63248f9667e1ae6f07ad624",
-      "job_posted_at_datetime_utc": "2026-11-03T00:00:00.000Z"
+      "job_apply_link": "https://us.trabajo.org/job-2283-6abf23414d0d60e73fdf2ee3eeecafe2",
+      "job_posted_at_datetime_utc": "2026-11-06T00:00:00.000Z"
     },
     {
-      "job_id": "UzNZeExLUlN4bV9IdDlXQkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbkpOYjI5WU5sWlRiV1J0ZFZKQ1NXSmZXbmxXWmtoS1QwbDRkR2hwVEdReFFuTnliVVp0T0ZKMVJHWlVWelZKWVV0dFpEQm9hVlV4UjJ4cGVYWjJWWGhwYUZab1dHbDJjRWhwYzFaR05FVmpORVZsUVVSdmRubFBZMk51VmpWbFdWbDVkSEZ0TkdrNGFtOTRaMUJEWDBacGEyMXhVRkZUZUZGS2FHbFZlR0l0WWs1NFgwVVNGM0l3TjNsaGNqTjBUV05sWm5GMGMxQXdPRE5WTFVGTkdpSkJTRTR3UlRkSU1teFpVMWg1YkcwNWJrcFZXbWh3TlZOTU9XeFBjM2hXTUhwbjpjN2FkNGZhZQ",
+      "job_id": "RzJtUjQ0MDlRcmNQQ1REYUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVkI2Umt4alpIbEpNRjl2VTA5cGQxZE9VbWhZTWt4dFptWnNMUzF2VW5OdUxUUm1hRU51VjFCNExXZEdNa0prT0hRNVpUWTRMV2RFVTNKc2RrSlNTVmRwV1VKVVowSm9NMUl0VmpadFJqTjNSVVV4TkhGck1tMHhhelpSU2tKQk5rUkRSWEJVUkdOcWFVeFVkakE1TkhkclV6aG5MVk5XU25kV1VVTkNjRWxDVm5kcWVrZ1NGemxJY25waGRFeHlUSFJNWlRRdFJWQmZabmxXY1VGSkdpSkJTRTR3UlRkSFRrcHpSa1ZWYWt0NlpGQjFPR0UyY0RBeFQzbzFhMjlGVEdaQjo3Y2Q1ZDJmMw",
+      "job_title": "HR Systems Analyst",
+      "employer_name": "CHOC Children's Hospital",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKCtP8fI6lJ7srDAfgqVV7F6OXEP3JqJe2TZEt&s=0",
+      "job_city": "Orange",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.jobzmall.com/choc-children-s-hospital/job/hr-systems-analyst-1",
+      "job_posted_at_datetime_utc": "2026-11-10T20:13:44.144485Z"
+    },
+    {
+      "job_id": "RTltZ21BODA1NThXaWlsSUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbDgxVUhCeU9FOVNXR2xEVkZwSGNtdDBPV0U1WlhSeVNtaG5jbTExT1dsV2NFdFJVSEpSYURKclNVNUNZWHA1VFdJeFkxVkJTMWRUUkZKRFRIVjBPREZKVm14SWRWUndkRVp5ZW1sQ1VrY3lOVTlJWTB0T2FWWlNlR3RTVUZkV1JIbDJOMGhXYXpGeGNYVmtOakJTZVMxSU15MXRSRTl2TkVNMlJXUnZSVkp3WDIxVmNXd1NGemxJY25waGRFeHlUSFJNWlRRdFJWQmZabmxXY1VGSkdpSkJTRTR3UlRkRmVYaG1jVnBzTWxSWFZHUndkMDFYU1RWT1ZVOTBNelV5TVcxUjpiY2M5NDgwOA",
+      "job_title": "Hybrid HRIS Analyst I: Workday Data",
+      "employer_name": "Rambus",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://rambus.com&size=128",
+      "job_city": "Sacramento",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://us.trabajo.org/job-5381-11f44c056d76e4a51169203c2a8a69cf",
+      "job_posted_at_datetime_utc": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "job_id": "eWFyOGxVV0YwQ2E3alNfTEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbmhxYlZKbGNsRlhiWEI2VDFBNGJta3dhV2RtYW5nMGFrSkplRXR6YkVWWldXSlZTMWhRTjNsM2EybHlVMTlUVEV0WlQzSTBkRll0Y0RGblZYVkZNalZsTlZONE5IaEhUMU42ZVdOT01XNVljM0JzWDFGWWREWkJaMDFWZVUxamRFd3pjRWsxYWt3eU1uVTVRelZ2YUhKNGRVeE9XakZ0UXpjMllVczBOM2xTTUU4NFNHMFNGemxJY25waGRFeHlUSFJNWlRRdFJWQmZabmxXY1VGSkdpSkJTRTR3UlRkSWNHRnlORXBzTW5aZmNFVk9ZMmRwTWxsRVFrazFMVmRYTlhGbjpmODliNzZiNQ",
+      "job_title": "Remote Workday HRIS Analyst Time Tracking 90650",
+      "employer_name": "Insight Global",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyw6jGWIGeYG63PxkYPyoOpAcR_6UcP2ezew_v&s=0",
+      "job_city": "Norwalk",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.jobilize.com/job/us-ca-norwalk-remote-workday-hris-analyst-time-tracking-90650-insight",
+      "job_posted_at_datetime_utc": "2026-11-05T00:00:00.000Z"
+    },
+    {
+      "job_id": "UzNZeExLUlN4bV9IdDlXQkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVkZOVm1SaWJFRjVlbXRXYm5GdFVrbHpaMVYwT1dOVlJXSlNNR3RrTlZOMmVYVkJjREo1T0MxRWVIWXpRbGxFTTE4MGJqVjBVMFp4ZG5kblRVMTRWR3BYZEhaTVMzTkNSekJsUjJwTFVHVlRUbGxtWnpjM2NpMTBRbUptZG1OME5rdzBiVlo1UTFaVE1sQXpUQzF4UTBsU2NDMW9YM0ZSVVZWdk1rcDJUSG8yYVZkR1puUVNGemxJY25waGRFeHlUSFJNWlRRdFJWQmZabmxXY1VGSkdpSkJTRTR3UlRkSWQyUTVhME5oT0hsRFRVdG5hMGgyUjBWbGVXVmpPRUpzUVVoQjpjN2FkNGZhZQ",
       "job_title": "Senior Workday HRIS Analyst — Payroll",
       "employer_name": "EarnIn",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqHrEJHXVOjR4sODN_0sUd_1bkN62LJgUlEW0X&s=0",
@@ -157,7 +190,7 @@
       "job_posted_at_datetime_utc": "2026-11-05T00:00:00.000Z"
     },
     {
-      "job_id": "b1BnQ19wUFNiUzAyWC1WQkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbXBJUm5admJVZEpjR1poTVhOV1drOXJNelphU21KaGEyUldVM00zYkhOdE9VSnVMWGRQVFVOeE9HaExPRVZPVFRWc1QzUjVjbTh6UlhsSFgxTlRRMXBQZDJ3M2VXSlNNemRWZW1KQ1kyWlhSelpFYmxWblgxOU5UVWt4T1RCWWRXazRTVVZsYWpFMk1FVjBhVlE0TFc4MlZUTlBWbE4zUTFnM05VRkVXVjlUUWtKM1FrRVNGM0l3TjNsaGNqTjBUV05sWm5GMGMxQXdPRE5WTFVGTkdpSkJTRTR3UlRkSWNtaFZaSEV6Ym1oM01GRnNNV0l5YlY5YVdESk9kMmgxYW5GQjo3MGNjOTFhYw",
+      "job_id": "b1BnQ19wUFNiUzAyWC1WQkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbDlhU2xSM1gyY3ROWFYzWjJobFNEaFpVRVp4Tm1ReWQyczFOR2RWVFhGVmJISmFabk55WTFkdlYyUndiVmRwU2pWb2QybGtZWE01ZUhOblJreFlZbTR5ZERsR1prNXphRlJWTTBad1NsTlhORlJrWmxjMFpYSlRaSGhOU25Kdk5WQjJjRGxLVHpGeFNtSndURFYwV0ZRd2FGbFVSVE5VU1hWaFFWTXlWMk5ZTFZGdE5ra1NGemxJY25waGRFeHlUSFJNWlRRdFJWQmZabmxXY1VGSkdpSkJTRTR3UlRkRmFYaHBTSFJ2YTA1Q05HWkxSR0V4UVVkR2RIYzVNV1J3Y210Qjo3MGNjOTFhYw",
       "job_title": "Senior Workday Analyst, HRIS",
       "employer_name": "Foundation for California Community Colleges",
       "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://foundationccc.org&size=128",
@@ -168,7 +201,7 @@
       "job_posted_at_datetime_utc": "2026-11-06T00:00:00.000Z"
     },
     {
-      "job_id": "bVZXTGR3N2lOUnNHOVdiakFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbkIwVEZSdU5rNHhTRTlLUzJ4UFowdEhkVkJETFVacVNtNDRaVm81VkU1T2JuYzJSMVZQU0hCTlNraHhRMjlpYlV0RWVVWmxhakIyYjJRdGVrdERXRkJSV0ZGQmMyWmtRV0pHYkZCaFJrdzVXbXQyTVZOM2RtNXZhMjE1Y2sxVldrSldXVTFVWVd4SWJURkZPRmRSZFdWWVgxY3hTREZpTTBkQk9UUnNhVU5mZEhsVlVqY1NGM0l3TjNsaGNqTjBUV05sWm5GMGMxQXdPRE5WTFVGTkdpSkJTRTR3UlRkSFNrWmFRVWQ2Ulc1QldGcFFXV053Y1ZGbE0weFhXVE5qY0dKbjpjNDNmMGZhNA",
+      "job_id": "bVZXTGR3N2lOUnNHOVdiakFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZamhxTTNoTlNVVTVXQzFaZFRCWk4xUlJWWEo0TFhsUFdVRnJSVEIxY1RnMlpuSkRNWEJ4ZFV4amMwRXhPR2MzVGtSb2VWVjVWbGc1TTBvNFEzcENMVGRGV0hKaVFsbHZiemwzTW1OcGVtaG5jVkJ2ZDBJemVFaFhTR3g1UW10UFFtSkxjeTFFVldvd1UwMW9SM2RHZWxSQk5razFjbkZPTWtkRlZ6Sk5VRVpmZGxsRE1VTVNGemxJY25waGRFeHlUSFJNWlRRdFJWQmZabmxXY1VGSkdpSkJTRTR3UlRkR1VHTkRVM05ZWDFORWNqVkZUMDVFYzNsalNrNWlaVUpXYldkUjpjNDNmMGZhNA",
       "job_title": "HRIS Analyst",
       "employer_name": "Figma",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpAeYHiLEzY_G77weaTEbHV1ZFHuptd20HXfIu&s=0",
@@ -179,7 +212,7 @@
       "job_posted_at_datetime_utc": "2026-11-04T00:00:00.000Z"
     },
     {
-      "job_id": "MUoyelpLUjFiU1ZxaWxOMEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbnBGTVdWYVFtb3hhSFZzTUdrMlJWRmtlVUpMZUdablowaFZXR1ZxUkUxR1JWaDNjMnRhYkRrMVRtWlZUV3BVUlZOamJVRnlkbkJmUkhwQk0wSnJXV0ZFTlhoMFl5MTBiek5yV1ZGUVNYRjRNRFZtWW5wdGRIaDFkRXBvZFhocGIwazRVbDlNTUZBelVVeElaSHBCT0U5V1ZEQlFNR1JoYW5WeFpVaHdSRlV4VW13eFdHa1NGM0l3TjNsaGNqTjBUV05sWm5GMGMxQXdPRE5WTFVGTkdpSkJTRTR3UlRkR1dXdzVja3hCWkZVdGFFbE5NMFpsYjBsbFdsSkxObXByU0RsUjpmMzVmMDgxYg",
+      "job_id": "MUoyelpLUjFiU1ZxaWxOMEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWEo0ZGtOUVRXcDFjbEp6U0hZeGNuazRTWEZWWTFSeWFrMXpNbEEwUVU1UVVuVlFSWFZNYkVZNWMyNXBjVEpQYkVadVpsbElielEzYWpNd1JrNXRWSFZSTFRobFR6Rm9aVzlYV1RsMmFrWkJkbFV3TFZSaGQxQk9NbFJJVW5aWloxcEJMWGw2WW5aclkxVktUR0ZKV2tzMmQxZDJPRkI1Y2tGSlZHcEpSR3g2YmxOV1JXb1NGemxJY25waGRFeHlUSFJNWlRRdFJWQmZabmxXY1VGSkdpSkJTRTR3UlRkR1duWTFUVmxvYjBwMlRXdGxWSHBaZFhSUFYxZzNiMlJsT0d0QjpmMzVmMDgxYg",
       "job_title": "Senior HRIS Analyst - Workday & Core HR Solutions",
       "employer_name": "Penn State Lady Lions",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpekiCZzkqVmLozfCJFpsxKZGw6tlVhJRCQJ3&s=0",
@@ -190,40 +223,7 @@
       "job_posted_at_datetime_utc": "2026-11-06T00:00:00.000Z"
     },
     {
-      "job_id": "dzBfZllELTYwTnowWkFGb0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZV1IxUzNoRU9YVjNTbEF4VFhCV2RrOU9XVGd6VVcxUWRXWkdabVY1WDNGbWNIRllTVVJLVUZwcGNsSnZaakUzY0hObmRYRkVMWFJKUWtoNWQzaGpRbG80VUZJeE4wSjBibGRTUzFCZlduaGtiRlZoWm5scVNpMTJjMW90ZFhsaE5qSmlTelIyZVU1TFNGVTJRelV0ZW5OdU5GcFFORlpOUkZwR1YwdEhTalYyV1hab2FFOFNGM0l3TjNsaGNqTjBUV05sWm5GMGMxQXdPRE5WTFVGTkdpSkJTRTR3UlRkR2FtTkVUa0phZEdzdFJTMWFTRUZLYWtKclNHbHNYMHhDTlRCQjoyMzdmYWM4ZA",
-      "job_title": "HRIS Analyst - Production Support",
-      "employer_name": "Cedars-Sinai Medical Center",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQft-znDSNAEaigAAzgCRLnR6gPpruNtPZ6GWDw&s=0",
-      "job_city": "West Hollywood",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.jobzmall.com/cedars-sinai-medical-center/job/hris-analyst-production-support-2",
-      "job_posted_at_datetime_utc": "2026-11-09T22:52:34.632486Z"
-    },
-    {
-      "job_id": "OUNfNVFkbDkyU0Y4MkVYYkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbmh1UnpCeU1tRjZNRFZSUjNNNFpXcE5ZWEZaYWxRdFdIcGllR00wUlVvNVpFaFhlbUoxVGtSV1MxZExOakpDTlZwRU1YRTJjblZQZG5WQlVqY3RVbkpaVFZRd2VFeDFhMGhVTW1WblQwMWZhVGRhVjBSMldrVnRNak5LTkhONFZraFhNWEl6T0ZWNlptOTZXVTlvY0MxWE0zVnBOa05RZHpGNGFuRmZWemN6VDBOT05EVVNGM0l3TjNsaGNqTjBUV05sWm5GMGMxQXdPRE5WTFVGTkdpSkJTRTR3UlRkR2FGQmpaMTg1VlVsYVN6ZGhkWFJzYWkxYWNYWjFaMk5zWTFwUjpjNDNmMGZhNA",
-      "job_title": "HRIS Analyst",
-      "employer_name": "Mercury Insurance",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_gZvOa8cPWYw1h5cYlJkS7NbcpeMbEWJ7-Ank&s=0",
-      "job_city": "Brea",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.jobzmall.com/mercury-insurance/job/hris-analyst-33",
-      "job_posted_at_datetime_utc": "2026-11-09T22:52:34.632490Z"
-    },
-    {
-      "job_id": "SncwaEUzUGhnU3lRcURPY0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbWh5UzFCUldtTk1la2N3VTFSVVEwTTVkSGhSWW14T2VXSmtTRVZCYldSYVdtWkJhM05EWDFac1oxaHNTMkZpWkRCblZFbENXRWRyWm1KdmVubEJWek0xU0ZGblVWWk5YMGhLWTNCVWFYVlpiVzFQUWs5UGNqTjZZV1ZrTTJSeWFFTjRPVGx6WVRKemJYcHNZakprVFUxb1oxTldXbGw2Y214SlJEUXlRMDVWY1c0d1Rrd1NGM0l3TjNsaGNqTjBUV05sWm5GMGMxQXdPRE5WTFVGTkdpSkJTRTR3UlRkR1lreGpSWGRxWDFWbk9UWjBUVU5uTlZnM2VqRnZNaTF2YW1kMzoyZTNlZGI4YQ",
-      "job_title": "Senior Workday HRIS Specialist",
-      "employer_name": "Checkr, Inc.",
-      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQci67pg2l4O8HzSXymHAr1TES-y9m9n4bvgUfp&s=0",
-      "job_city": "San Francisco",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://us.trabajo.org/job-28652-7e90a780a063bd64ff8b466f000a141a",
-      "job_posted_at_datetime_utc": "2026-11-06T00:00:00.000Z"
-    },
-    {
-      "job_id": "OTQzZ0tzcXZCWlRxMXV4QkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbmxGVTJoM1p6RmhlVlp6VTI4MVZYaHpjRFpUVURaVFJ6TjFla3gxVFZNeGVWTTJhRTUyUzBSNk4wSXROMVJoTFZReFFXeHhTM1pETFZKSGVVeFNZbkV0WTIwM1FVdEhWbE5hUVRsaE9YaE1kR2h6Ums5dVV6aHNOVEJXZWxsdWMyOHpOV1ZxWVhObVYxbDJUMEpyV1VveFlpMVlUM010WlRodlZsSjFPRzAxWlhwUWJUa1NGM2xGTjNsaGIxZ3dSM1ZFYlRKeWIxQXlkVjlKYTBFNEdpSkJTRTR3UlRkSFJHdFpSbGxaTW1OUU5tazFObUl4TmpReFpYTm9SMDUyY21WbjozZGE1NjZlYQ",
+      "job_id": "OTQzZ0tzcXZCWlRxMXV4QkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXamxPY0dkdVpYZFhTVVYxVTI1TFVtZElVaTF2WTJRd2VXTkJUbEU1VFVkTmRIRkJlRGQzUkVWaFJucHFhbVZsUlZNd1RHaHVRVUpGVVdZM05VdzBRVk14ZEdwQ2NXOVVhMXBCWHpsblpFOWFlRUZLVjNoUllXVk1la1ZrWmxkZlpTMVpjbDlwUkdoV2QycFdZVEZGZDJKUWQwMUtaRzlWYW5STmJWVjJPSGN4VkU1dWRVMFNGeTFZY25waGRXMHlTRmwxV1RRdFJWQXlaVWQzTkZGdkdpSkJTRTR3UlRkSVFscE1aVUp4T0ZkUVVIRjBjR2x5V0c4M2VFdFBSR2RHVVZOUjozZGE1NjZlYQ",
       "job_title": "Remote Total Rewards Analyst",
       "employer_name": "Propelis",
       "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW7Q4MJjaBq0odCRICyVna1_caKNsCGezJBXxM&s=0",
@@ -234,7 +234,18 @@
       "job_posted_at_datetime_utc": "2026-10-25T00:00:00.000Z"
     },
     {
-      "job_id": "ank1YTZmV1hYcnJoUGJzMkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVTVoUTFSUVYxWnhSMEZ4WmpaMU9WUkZjSFIwVTB0alpUWnRSblJZTVRKVVJWSnJjMFp5VkRoUGNGb3hXRjl2ZW01eFdtRXdlbE0yT1VKdE1YVm5jRmxTY21sR1ZsZEdRVlJzV25SUFdXeHJlbWRTV2paRVZsZFpjbEZPTUVwbloyYzJWWE0yZFV0dFFXNU5lVWx4V2xWVE5teGlXVVpITTFjMVpEQTBZemhTZG5wMWFFMFNGM2xGTjNsaGIxZ3dSM1ZFYlRKeWIxQXlkVjlKYTBFNEdpSkJTRTR3UlRkRmVHaDZZWGxRY0ZJNVowZzJOa2c0Wkc5MGNVOVVSbEYzTUZsUjoyN2U2MGYyYw",
+      "job_id": "bFJxWk10NFBwN01odDMxTUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXVVpJWmt0MU9WZGFXSG8wWVdsMFFVMHdlbXh5ZHpaV01USnpTRmxKYURnNFJXdE5aM3BXTkRsTllYcGxja05aYzJsVWRYZFFhak5qY0ZOM1puZE9aek5PZDJ4cVZWZGtTSFl0WlcxU1l6azVSelZ2Tm10aVZuaGtRMUV5ZDNONFZtczJkRTEwWkVGcE5VdFhUMnBUYUVJdFVIWnlVSE4xVjB0dmVWUkZlbVJRV1U1bVJWQVNGeTFZY25waGRXMHlTRmwxV1RRdFJWQXlaVWQzTkZGdkdpSkJTRTR3UlRkRmFuQTRRVk01Vm1SRE5WWkdhVVZKZERKYVVuaG5jbmgyVHpGbjpmMjcwN2Q3OA",
+      "job_title": "Remote Compensation Analyst",
+      "employer_name": "The Wonderful Company",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoNZ5ssnidTS6a_20VkgjGX-0Ze23WBeOvJBJc&s=0",
+      "job_city": null,
+      "job_state": null,
+      "job_country": null,
+      "job_apply_link": "https://www.talent.com/view?id=635758344009288187",
+      "job_posted_at_datetime_utc": "2026-11-10T20:13:49.576794Z"
+    },
+    {
+      "job_id": "ank1YTZmV1hYcnJoUGJzMkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVzE2T1RBeWFUUlhkVEZDUkUxZlIzQlhPVGhTYnpOSE0wUjZjVlJwTUV0bWNsOURhMFZoTFdJeVUxUlpTekZ2TjNkMk0yMXpkek5hYjFZMVpqUmxUVXRpZEZWMFpUWnFiWEpaY3pWU05IUkNjbFZNZGxSVGFqZHJNVXN5ZDNGUVVHVkpTVTlQVDBWYVJGTjFYMkpFYmpSRVYyNDVUVGxYYUVSWGNWRk9XVEZxVmxaV1RYY1NGeTFZY25waGRXMHlTRmwxV1RRdFJWQXlaVWQzTkZGdkdpSkJTRTR3UlRkSWFUWXRiazlJTkV4NldFTkVRa2xqVDFCRVREQnFMVzFNUmt4bjoyN2U2MGYyYw",
       "job_title": "Total Rewards Analyst: Data-Driven Compensation",
       "employer_name": "Nuro",
       "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://nuro.ai&size=128",
@@ -245,18 +256,18 @@
       "job_posted_at_datetime_utc": "2026-10-20T00:00:00.000Z"
     },
     {
-      "job_id": "S3pCdVFyNlFiMVFLODY4cEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbGgzTXpaRGVHcFFTRU4xUVd4S1NURm5kR2RTVkU1TVRrVm9kWE5HZG1kaU4wSjJXRzVZWmtjMVduRjRaVXBwZDBobldXbGZjRFZSWmxaeVZGTlhNRkV6Tm1WYWIyRk9aazlCWDFNeVkxUjRiV05KWVRnMUxUUndTR1oxY25WV04yOHRWVUZqVVVaQ1pWaHliSFZ0UVRkT2FVRkdlblE0VkZCVVNUWTVTMFJaTW5SalpFUVNGM2xGTjNsaGIxZ3dSM1ZFYlRKeWIxQXlkVjlKYTBFNEdpSkJTRTR3UlRkSWJuUkRVM0ZyYnpoak9GTllXR3BZTURaMlMzaDVRaTFxYzJsUjo5MTMxMjJiMw",
-      "job_title": "M&A Compensation Analyst for Growth",
-      "employer_name": "Qualcomm",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://qualcomm.com&size=128",
-      "job_city": "San Diego",
+      "job_id": "RmFESGFkUmJVQm1aWkxLM0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbkZoYkdndFIxVnBMV1YyY0daaE1GSlhOMGhtWkcxM01FeHZUWEpPWDJKcWJXWjJkMGh3VkdKU2N6VmxZVXBaUlRGS00weE9WMVUwZFdZMVVXTjJiMDVQUW14blYxUkZiVmh3VmpsQk5HNDFZbE5HYURWd2VWUnlXbEZMZG1wbFNGVjNObEpvY0RNMWJIZHJWM2gxYjFwS1duZHZUWEIyUW5SRlIyZDFiVXB1VFhNeU9Ha1NGeTFZY25waGRXMHlTRmwxV1RRdFJWQXlaVWQzTkZGdkdpSkJTRTR3UlRkRlIzVlplWGxSYUMxSGNHVnlRWG93Vmw5U1pUbDNUbGMyTkZkQjo3NmNhM2E2MQ",
+      "job_title": "Sr. Compensation Analyst",
+      "employer_name": "Servicon Systems, Inc.",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://servicon.com&size=128",
+      "job_city": "Culver City",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://us.trabajo.org/job-2283-60d180f6eb841e4959d2502f19bddf87",
-      "job_posted_at_datetime_utc": "2026-10-17T00:00:00.000Z"
+      "job_apply_link": "https://jobs.aapor.org/job/sr-compensation-analyst/86590203/",
+      "job_posted_at_datetime_utc": "2026-10-21T00:00:00.000Z"
     },
     {
-      "job_id": "UWhVanBTVXFYZkc0RXZUUEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbVZVUTBSaVpqWnRRamR3U0d0ZmRFVXpObTVuYzJvd1EzcE5VVzFzWmxobkxURnNSemxVUlRKMFMwRmhTVzVPV1ROTGIweHNZa2MxVUhCS1NqUjNOakZHWWtGNldERmtWSE5QVDI1MGJqQlJUazlGT0hGYVN6QnZOMU5qZGw5R1RraG5ZMGxCYWtaRVJrWnRZWEY2UTFGSlNYVkVZV05XU0dsU2NqRkpXWEJUWjBNeVRETVNGM2xGTjNsaGIxZ3dSM1ZFYlRKeWIxQXlkVjlKYTBFNEdpSkJTRTR3UlRkR2NsWnNkRkpTT1RsU2VubHVZVTFRUmxGU1ozaDFiMVpDUkdwUjpmMjcwN2Q3OA",
+      "job_id": "UWhVanBTVXFYZkc0RXZUUEFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa0ZVZGpoWVdrTmhialkxUzJad2JuSmlZM1JOYUVsZlkyaExOazUyUldaQmJsSm5lV1ZrWlc5NU1sTjZXRjlVTkU1cGF6bDBjak5vTWxKZk5UWjNXSEJ1TnpWSVpsWmlkM0prTUhsb056azJjekZTVjJOWWIwNDBaV3RMU0V0bVRFOUNaMDg0VEdkdVgxZDNZWGRmVkdWS1JXdDRVREY2UzNWMk9VOTVUWGxSY201RlZtNFNGeTFZY25waGRXMHlTRmwxV1RRdFJWQXlaVWQzTkZGdkdpSkJTRTR3UlRkSGJWOXZha1ZIUXpaVWVVTkxjSFJxZUhkSU1FRjNWMGxFU0c1bjpmMjcwN2Q3OA",
       "job_title": "Remote Compensation Analyst",
       "employer_name": "Care Access",
       "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://careaccess.com&size=128",
@@ -264,43 +275,10 @@
       "job_state": null,
       "job_country": null,
       "job_apply_link": "https://www.talent.com/view?id=636864737513441365",
-      "job_posted_at_datetime_utc": "2026-11-09T22:53:01.169066Z"
+      "job_posted_at_datetime_utc": "2026-11-10T20:13:49.576808Z"
     },
     {
-      "job_id": "WlNyM0xFQnZfT1M2ZERBX0FBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVXBwTFROMVRtZGpaeTFoV1c1dVlUQnhhV013ZUMxTExXVjZibVJ1YjBGRUxVVXlaekUxTkdZME4yaEJTRVpyZVZjdFpqUmpkVE5LYldNNFRtVTRjRk5KUVhveU1VdzRNek5MTlhaTGQycG9NVkpIVlZaaVRGQldOelYyYzJOWWQxZFpZamN6WkRGaU5WWnFSVlZyUzNKV1dVSTJPRXBqZUdWUU5WcGxlWEJYVW1JMGRta1NGM2xGTjNsaGIxZ3dSM1ZFYlRKeWIxQXlkVjlKYTBFNEdpSkJTRTR3UlRkR1MwdGxkVXhrU0RSdmRqVm9aMXBIZUUxMGVtY3ljVEpSZURCQjo3YTkzZjRhZQ",
-      "job_title": "Rewards Analyst",
-      "employer_name": "Valley Pres",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://valleypres.org&size=128",
-      "job_city": "Irvine",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.learn4good.com/jobs/irvine/california/hr_and_recruitment/5611485203/e/",
-      "job_posted_at_datetime_utc": "2026-11-08T23:00:00.000Z"
-    },
-    {
-      "job_id": "Qi1nYXhfY1pXVG8zM0NlVkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXbkl0WlRsd1IzSXhTRVZ4TjJod05XSTJjamhqYkRaMFJYUm5ORXRLZG5FMlVGaDJTelUzUkRkTWIzTm9aSFV5WDFWWE1HVk9WRmwwWjBaaWQwdFVhVWROYVVKdU5VdHpXVmcwUWt4TGRXaHlPSFJHTURWbVVEVnBhSEV0VWxoNVNWbEJUMDQzU0U5NWEzQkxWMFZxYmxSdVNqZDRaRXREVEZOelZFZzVaRlp1V2s5MVEySVNGM2xGTjNsaGIxZ3dSM1ZFYlRKeWIxQXlkVjlKYTBFNEdpSkJTRTR3UlRkSGEzRnFNSG81Y1ZGVmNsaGtTWGhrWmt0a2NYaDNWR05PZEZGbjo3NzBlNjBmMg",
-      "job_title": "Compensation Analyst, HR​/Recruitment",
-      "employer_name": "Centinela Hospital Medical Center",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://centinelamed.com&size=128",
-      "job_city": "Inglewood",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.learn4good.com/jobs/inglewood/california/hr_and_recruitment/5587550786/e/",
-      "job_posted_at_datetime_utc": "2026-11-04T00:00:00.000Z"
-    },
-    {
-      "job_id": "Zi1LX0pZWnNKS25iRWdURkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXWEl3ZG5KWVZXbHZlRVJUWTNjd1JFeE1jWGcwWldJeVJtRlFjMGhqVm01eVNqUnRTVmxzTjFneWFWcHBUa3g2ZG1RNGJGbHVkRmwzY1dRMk5rbENRVWxrZEY5RFNtazFURzFHTkdKM05GaERibnBGUm5WUU9VUjFVbVpST1RWMk56VmxVazVCWW5neE1IVnFaRFF4V21oR09GSlZVVEJWYWxCNVdUVXRlamxsTkZWSFNsVVNGM2xGTjNsaGIxZ3dSM1ZFYlRKeWIxQXlkVjlKYTBFNEdpSkJTRTR3UlRkRk1rZHpPVzlLYkZGcU4weFJaRkV0TUVwUmEyTTRaMVpTWlRKUjo1MmM0MTdhMA",
-      "job_title": "Compensation Analyst II - HR",
-      "employer_name": "Alliant Insurance Services",
-      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://alliant.com&size=128",
-      "job_city": "Long Beach",
-      "job_state": "California",
-      "job_country": "US",
-      "job_apply_link": "https://www.learn4good.com/jobs/long-beach/california/hr_and_recruitment/5597330204/e/",
-      "job_posted_at_datetime_utc": "2026-11-05T00:00:00.000Z"
-    },
-    {
-      "job_id": "ajZPVnZkYVFwemQzc2NOZkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXamd4U2s5YWNsVnVRVEpZT1U1WWExcFdOekp2ZDNaMFNXUXhNMnBtZG1aalQwUm5UbWhLUTE5YWVFeEhibVJFYUVSVGRrNUhaR3BVVVVaNmNtTnZhMFZtUmpKV09GQnJRV2t4UW5sb1pHbG9PVXRrVUVaeE1FMTNkM0JFWDFablVUaEtWMnQ0TTBSVWJXUkhkRVJzV1Mxek5UUkdMWFZUT0ZsdE1IcFBUM2RqYVhGMFNuZ1NGM2xGTjNsaGIxZ3dSM1ZFYlRKeWIxQXlkVjlKYTBFNEdpSkJTRTR3UlRkR2VrTlhaVGhJY1VGVWRGRnVOMEp0TjJoVmVYTTBibU5NVW1GbjoxMDg3ODAzNA",
+      "job_id": "ajZPVnZkYVFwemQzc2NOZkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVkpqVTFOV1lqRnNRMDFxVGs5bFRDMUJMV0puZEcweE1uaDJiekJIVEVrM1YxQmZlQzFUWkU5SlJsOU1lVkIzWjJaWFVYTkdkREowVkU0dFpGVkZTMUIwTTJ0aU1XRmhMWFl3UTFoaExVNW5kVXRoU1RodFVtSnBNRzlqWDFGd2VHZHFiWGRmWldSTVFUZEVlbTlvVEhoMU5XaHlWMWd4WlZsNWFsaEJjbGw0YTBaSE4yOFNGeTFZY25waGRXMHlTRmwxV1RRdFJWQXlaVWQzTkZGdkdpSkJTRTR3UlRkRmQyWlpVbEJJVDNWMVdsaFRWMFEwTVVkUk56VXlUbU4yUjAxbjoxMDg3ODAzNA",
       "job_title": "Compensation Analyst: Data-Driven Pay",
       "employer_name": "Mindlance",
       "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://mindlance.com&size=128",
@@ -311,15 +289,48 @@
       "job_posted_at_datetime_utc": "2026-10-26T00:00:00.000Z"
     },
     {
-      "job_id": "Ykl4MXY5NG1YLVk2a3FyRUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVXhGWW1aMVUxazJTalJ1U0ZvM1Z6bG9iRTVHYjI5R05tbG5ZVVExU2xkNlVFbElkbkI1WTNWM00wTTFYM1ZWWmxCS2NHRjFiMWRzVkVWZk4wdGpRelZQZFhWdGRHUnJUR3RoWjJoNFowMW5kVUpKYWpCbVJuUm1Ta3hYYTNoSlJuaGpTRVJTYldWaU1FSjNZaTFqYUVVeFFqWTBUSEppTkhsbVRXUk9VbVZFYVVKcFVqWVNGM2xGTjNsaGIxZ3dSM1ZFYlRKeWIxQXlkVjlKYTBFNEdpSkJTRTR3UlRkRmNFbHFlRzlpYjJGQ01uWm5jMGR6VmtoU1VGUTJabkZvV1RWQjo3ZDQwMmEwYg",
-      "job_title": "Hybrid Compensation Analyst — Market Pricing",
-      "employer_name": "SOLV Energy, LLC",
-      "employer_logo": null,
-      "job_city": "San Diego",
+      "job_id": "eWpzdXhRZzdhaUdaRV9lbUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVTFRU25VdE5FTXdjRXB5VVhobldXeE5RakJ2Wm1obmNqWklVazU1UzNkbmVra3dlbEYwVEdGbmRqRXRSbTR5TFRkQ1ZGSmFXWEJSZUdwc1Rrd3pibGt0YTFVM2JHNVBUR05MWmpobFFrTk9WVTVRWW5GZmNIcFRTMUpXTms1M1NFaHlkbXhYVEc1dFRISnlVbVpOWlRSamVqWm9ia3g2YTJ4VGRHeGxlalJ0ZDNCVWJ6Z1NGeTFZY25waGRXMHlTRmwxV1RRdFJWQXlaVWQzTkZGdkdpSkJTRTR3UlRkSFJuRXRhbHBJVEdobkxWRXlRbUo1VTI5alptbE5NekZwZW1KQjo3YTkzZjRhZQ",
+      "job_title": "Rewards Analyst",
+      "employer_name": "Valley Pres",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://valleypres.org&size=128",
+      "job_city": "Santa Ana",
       "job_state": "California",
       "job_country": "US",
-      "job_apply_link": "https://us.trabajo.org/job-28662-0ffd922ea255f42cdd8ce3f1318ebcf5",
-      "job_posted_at_datetime_utc": "2026-10-24T00:00:00.000Z"
+      "job_apply_link": "https://www.learn4good.com/jobs/santa-ana/california/hr_and_recruitment/5611485201/e/",
+      "job_posted_at_datetime_utc": "2026-11-08T00:00:00.000Z"
+    },
+    {
+      "job_id": "Qi1nYXhfY1pXVG8zM0NlVkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxXa1l3TjA1d01UbElVbVZvUlU1WVJHTjNaMjl0ZUVaVVpFTmpUMnhmUjNWSldIUmhjbk5XYjI5VmJFUTBjRFJoUjNsaVR6aEZXVkZpZWs0eFFrSm1RbU52ZUhJd01uSm1SbWxWWldacE1FRlFWMGxJYlZnM2J6SkxWa0ZPUkZkNVJWa3lhbHBoV25CTFdrY3laa3hGWTAxc2NGQjJaa0ZwZVhaWU1uWTJaVU5FVkU1a1psOFNGeTFZY25waGRXMHlTRmwxV1RRdFJWQXlaVWQzTkZGdkdpSkJTRTR3UlRkRmNEQlFSMHQ0Y2tGRVRteEZSRzFJV1Y5c1RYZG1lVlJvY0ZKbjo3NzBlNjBmMg",
+      "job_title": "Compensation Analyst, HR​/Recruitment",
+      "employer_name": "Centinela Hospital Medical Center",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://centinelamed.com&size=128",
+      "job_city": "Inglewood",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.learn4good.com/jobs/inglewood/california/hr_and_recruitment/5587550786/e/",
+      "job_posted_at_datetime_utc": "2026-11-04T00:00:00.000Z"
+    },
+    {
+      "job_id": "Zi1LX0pZWnNKS25iRWdURkFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZbGRKTVRSc1ozb3hPSGgxV1VSYU1YUnVlbUZUTlhKT1ptWTBUbHBhTkhrME9VcE5Za1pXVjJzMmFtWjRWalZ4Ykdod1pqSnNXRlI0Ykc1QlRHMVhZMDFIWVc1WlZHbDRNVk5SUzAxNE5USXhjVlYyZFZkblNsRkZVVVJyVURKVFIyZE1MVmxOVHpod0xURjRXVzVuTldabFZGUTVhMUZsZUZsVFRYQkxTa2xEVVhJd2NuWVNGeTFZY25waGRXMHlTRmwxV1RRdFJWQXlaVWQzTkZGdkdpSkJTRTR3UlRkR09WUnllR0ppUjNJeU9XZzVXbDlwVjNwRFJGY3RSVGx1TUZKUjo1MmM0MTdhMA",
+      "job_title": "Compensation Analyst II - HR",
+      "employer_name": "Alliant Insurance Services",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://alliant.com&size=128",
+      "job_city": "Long Beach",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.learn4good.com/jobs/long-beach/california/hr_and_recruitment/5597330204/e/",
+      "job_posted_at_datetime_utc": "2026-11-05T00:00:00.000Z"
+    },
+    {
+      "job_id": "OHc0bEVicWxUZmw0cEdudUFBQUFBQT09OkVzd0JDb3dCUVVSRVlsZGxZVTFFUjJOR2FVbFZlR1p2ZDJ4RFlVTnJlVk5TUzFKTE1HWk1VbFE0ZG1Vd1NqaHlTREExWW1zNU1VSkdlaTFhVUZsbGFqa3daQzFRVTJ0R2IyaFpMWFJsWW5VeVVGbERlV3M1UkhoMmF6UTNTMjlpYjB0S2VXbFBXbWxYVTBsTlNsRkNhM2h0Y3pOQ2VWZE5jRFEwWDBKSGFFczNPVFp0V1VaSlVFMVhRMEp6VG1oNk9VRVNGeTFZY25waGRXMHlTRmwxV1RRdFJWQXlaVWQzTkZGdkdpSkJTRTR3UlRkSVFUUlhUSFprYUVkamVGaFZkelprU2tkVVFsQlNkbG80T1RaQjpjZmNmMTc2Ng",
+      "job_title": "Global Compensation Analyst",
+      "employer_name": "Remote",
+      "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://remote.com&size=128",
+      "job_city": "Sacramento",
+      "job_state": "California",
+      "job_country": "US",
+      "job_apply_link": "https://www.learn4good.com/jobs/sacramento/california/hr_and_recruitment/5612429613/e/",
+      "job_posted_at_datetime_utc": "2026-11-08T00:00:00.000Z"
     }
   ]
 }
